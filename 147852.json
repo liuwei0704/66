@@ -77,7 +77,7 @@
     },{
       "key": "牛牛",
       "name": "牛牛",
-      "type": 0,
+      "type": 1,
       "api": "https://nnzy1.com/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 1,
@@ -118,7 +118,7 @@
   {
       "key": "草榴",
       "name": "草榴",
-      "type": 1,
+      "type": 0,
       "api": "https://www.caoliuzyw.com/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 1,
