@@ -190,10 +190,10 @@
       "filterable": 0
     },
     {
-      "key": "小姐1",
-      "name": "小姐姐",
+      "key": "奇虎",
+      "name": "奇虎",
       "type": 0,
-      "api": "https://xjjzyapi.com/home/cjapi/askl/mc/vod/xml/m3u8",
+      "api": "https://caiji.qhzyapi.com/api.php/provide/vod/from/qhyun/at/xml",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
