@@ -111,7 +111,7 @@
           "key": "影库资源",
           "name": "影库资源",
           "type": 1,
-          "api": "https://api.ykapi.net/api.php/provide/vod/from/ykm3u8/",
+          "api": "https://ckzy.me/api.php/provide/vod/at/xml",
           "tag": "qb,tj",
           "categories": []
          }, 
