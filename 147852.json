@@ -122,7 +122,7 @@
       "api": "https://www.caoliuzyw.com/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "美少女",
@@ -178,7 +178,7 @@
       "api": "https://apiyutu.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "155",
