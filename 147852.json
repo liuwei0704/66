@@ -91,34 +91,29 @@
       "quickSearch": 1,
       "filterable": 0
     },{
-      "key": "AppYs_南瓜",
-      "name": "🍚专享1080P-A",
+      "key": "csp_xpath_xxj",
+      "name": "新香蕉(XP)",
       "type": 3,
-      "playerType": 2,
-      "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
-      "changeable": 0,
+      "api": "csp_XPathMacFilter",
       "searchable": 1,
       "quickSearch": 1,
-      "ext": "https://gitcode.net/m0_73989217/ymz/-/raw/master/JS/%E5%8D%97%E7%93%9C.js"
+      "filterable": 1,
+      "ext": "https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/2024xxj.json"
     },
 {
-          "key": "Xinsj",
-          "name": "👓新视觉",
-          "type": 3,
-          "api": "csp_Xinsj",
-          "searchable": 1,
-          "quickSearch": 1,
-          "changeable": 1,
-          "ext": "https://www.6080yy3.com/","jar": "https://jihulab.com/ygbh1/box/-/raw/main/JAR/fan.jar"
-     },{
-          "key": "鑫鑫影视",
-          "name": "🥇鑫鑫影视",
-          "type": 3,
-          "api": "csp_AppYsV2",
-          "searchable": 1,
-          "quickSearch": 1,
-          "filterable": 1,
-          "ext": "http://yingszj.xn--654a.cc/api.php/app/"
+          "key": "91md",
+          "name": "91md",
+          "type": 1,
+          "api": "https://91md.me/api.php/provide/vod/from/mdm3u8/",
+          "tag": "qb,tj,rm",
+          "categories": []
+         },{
+          "key": "影库资源",
+          "name": "影库资源",
+          "type": 1,
+          "api": "https://ckzy.me/api.php/provide/vod/at/xml",
+          "tag": "qb,tj",
+          "categories": []
          }, 
   {
           "key": "ZYJK", 
