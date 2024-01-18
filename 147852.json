@@ -101,15 +101,15 @@
       "quickSearch": 1,
       "ext": "https://gitcode.net/m0_73989217/ymz/-/raw/master/JS/%E5%8D%97%E7%93%9C.js"
     },
-{
-      "key": "cjzy_快看",
-      "name": "👁️‍🗨️快看",
-      "type": 1,
-      "api": "https://kuaikan-api.com/api.php/provide/vod/from/kuaikan/",
-      "playUrl": "",
-      "changeable": 1,
-      "playerType": 2,
-      "categories": [
+   {
+        "key": "cjzy_快看",
+        "name": "👁️‍🗨️快看",
+        "type": 1,
+        "api": "https://kuaikan-api.com/api.php/provide/vod/from/kuaikan/",
+        "playUrl": "",
+        "changeable": 1,
+        "playerType": 2,
+        "categories": [
         "国产剧",
         "港台剧",
         "国产动漫",
