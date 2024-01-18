@@ -100,7 +100,17 @@
       "searchable": 1,
       "quickSearch": 1,
       "ext": "https://gitcode.net/m0_73989217/ymz/-/raw/master/JS/%E5%8D%97%E7%93%9C.js"
-    },{
+    },
+{
+          "key": "Xinsj",
+          "name": "👓新视觉",
+          "type": 3,
+          "api": "csp_Xinsj",
+          "searchable": 1,
+          "quickSearch": 1,
+          "changeable": 1,
+          "ext": "https://www.6080yy3.com/","jar": "https://jihulab.com/ygbh1/box/-/raw/main/JAR/fan.jar"
+     },{
           "key": "鑫鑫影视",
           "name": "🥇鑫鑫影视",
           "type": 3,
@@ -158,10 +168,10 @@
       "filterable": 0
     },
     {
-      "key": "地",
-      "name": "地",
+      "key": "葡萄",
+      "name": "葡萄",
       "type": 1,
-      "api": "https://dadiapi.com/api.php",
+      "api": "https://caiji.putaozyw.net/inc/api.php",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
@@ -194,10 +204,10 @@
       "filterable": 0
     },
     {
-      "key": "榴",
-      "name": "榴",
+      "key": "屌丝",
+      "name": "屌丝",
       "type": 0,
-      "api": "https://www.caoliuzyw.com/api.php/provide/vod/at/xml",
+      "api": "https://sdszyapi.com/home/cjapi/asbb/sea/vod/xml",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
