@@ -158,8 +158,8 @@
       "filterable": 0
     },
     {
-      "key": "大地",
-      "name": "大地",
+      "key": "地",
+      "name": "地",
       "type": 1,
       "api": "https://dadiapi.com/api.php",
       "searchable": 0,
@@ -194,8 +194,8 @@
       "filterable": 0
     },
     {
-      "key": "草榴",
-      "name": "草榴",
+      "key": "榴",
+      "name": "榴",
       "type": 0,
       "api": "https://www.caoliuzyw.com/api.php/provide/vod/at/xml",
       "searchable": 1,
