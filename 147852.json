@@ -228,7 +228,7 @@
       "api": "https://api.yikanapi.com/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "小湿妹",
