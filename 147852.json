@@ -204,10 +204,10 @@
       "filterable": 0
     },
     {
-      "key": "屌丝",
-      "name": "屌丝",
+      "key": "的",
+      "name": "的",
       "type": 0,
-      "api": "https://sdszyapi.com/home/cjapi/asbb/sea/vod/xml",
+      "api": "https://dadiapi.com/api.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
