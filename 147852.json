@@ -224,7 +224,7 @@
     {
       "key": "看",
       "name": "看",
-      "type": 1,
+      "type": 0,
       "api": "https://api.yikanapi.com/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 1,
