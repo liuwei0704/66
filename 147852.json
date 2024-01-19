@@ -222,10 +222,10 @@
       "filterable": 0
     },
     {
-      "key": "佳丽",
-      "name": "佳丽",
+      "key": "看",
+      "name": "看",
       "type": 1,
-      "api": "http://www.jializyzapi.com/api.php/provide/vod/",
+      "api": "https://api.yikanapi.com/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
