@@ -353,10 +353,10 @@
       "filterable": 0
     },
     {
-      "key": "大MM",
-      "name": "大MM",
+      "key": "05",
+      "name": "05",
       "type": 0,
-      "api": "https://www.dmmapi.com/home/cjapi/asd2c7/mc/vod/xml",
+      "api": "http://bttcj.com/inc/sapi.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
