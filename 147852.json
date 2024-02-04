@@ -160,7 +160,7 @@
     {
       "key": "老鸭2",
       "name": "老鸭2",
-      "type": 1,
+      "type": 0,
       "api": "https://lbapi9.com/api.php/provide/vod/",
       "playUrl": "json:https://player.77lehuo.com/aliplayer/?url=",
       "searchable": 1,
@@ -414,7 +414,7 @@
      "key": "*速度资源",
       "name": "*速度资源",
       "type": 0,
-      "api": "https://api.apilyzy.com/api.php/provide/vod/"
+      "api": "https://api.apilyzy.com/api.php/provide/vod/at/xml"
     },
     {
       "key": "*水蜜桃",
