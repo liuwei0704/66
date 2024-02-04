@@ -150,11 +150,11 @@
     {
       "key": "老鸭1",
       "name": "老鸭1",
-      "type": 1,
+      "type": 0,
       "api": "https://api.apilyzy.com/api.php/provide/vod/",
       "playUrl": "json:https://player.77lehuo.com/aliplayer/?url=",
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "quickSearch": 0,
       "filterable": 0
     },
     {
