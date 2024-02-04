@@ -153,9 +153,9 @@
       "type": 1,
       "api": "https://api.apilyzy.com/api.php/provide/vod/",
       "playUrl": "json:https://player.77lehuo.com/aliplayer/?url=",
-      "searchable": 0,
+      "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "老鸭2",
@@ -611,7 +611,7 @@
       "key": "zmcj88",
       "name": "字幕网资源",
       "type": 0,
-      "api": "http://zmcj88.com/sapi?ac=videolist",
+      "api": "https://api.apilyzy.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
