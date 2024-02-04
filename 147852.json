@@ -449,7 +449,7 @@
     {
       "key": "*狼少年",
       "name": "*狼少年",
-      "type": 0,
+      "type": 1,
       "api": "https://api.apilyzy.com/api.php/provide/vod/at/xml"
     },
     {
