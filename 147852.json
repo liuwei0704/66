@@ -153,8 +153,8 @@
       "type": 1,
       "api": "https://api.apilyzy.com/api.php/provide/vod/",
       "playUrl": "json:https://player.77lehuo.com/aliplayer/?url=",
-      "searchable": 0,
-      "quickSearch": 0,
+      "searchable": 1,
+      "quickSearch": 1,
       "filterable": 0
     },
     {
