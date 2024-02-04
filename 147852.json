@@ -151,11 +151,11 @@
       "key": "老鸭1",
       "name": "老鸭1",
       "type": 1,
-      "api": "https://api.apilyzy.com/api.php/provide/vod/at/xml",
+      "api": "https://api.apilyzy.com/api.php/provide/vod/?ac=list",
       "playUrl": "json:https://player.77lehuo.com/aliplayer/?url=",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "老鸭2",
