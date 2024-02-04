@@ -155,7 +155,7 @@
       "playUrl": "json:https://player.77lehuo.com/aliplayer/?url=",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "老鸭2",
