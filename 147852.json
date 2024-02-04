@@ -383,7 +383,7 @@
             "key": "名优馆",
             "name": "名优馆",
             "type": 0,
-            "api": "http://mygzycj.com/sapi.php?ac=videolist",
+            "api": "https://api.apilyzy.com/api.php/provide/vod/",
             "playUrl": "",
             "categories": []
         },
@@ -413,7 +413,7 @@
     {
      "key": "*速度资源",
       "name": "*速度资源",
-      "type": 1,
+      "type": 0,
       "api": "https://api.apilyzy.com/api.php/provide/vod/"
     },
     {
