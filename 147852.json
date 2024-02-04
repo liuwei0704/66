@@ -160,7 +160,7 @@
     {
       "key": "老鸭2",
       "name": "老鸭2",
-      "type": 0,
+      "type": 1,
       "api": "https://lbapi9.com/api.php/provide/vod/",
       "playUrl": "json:https://player.77lehuo.com/aliplayer/?url=",
       "searchable": 1,
@@ -450,7 +450,7 @@
       "key": "*狼少年",
       "name": "*狼少年",
       "type": 0,
-      "api": "http://cjmygzy.com/inc/sapi.php?ac=videolist"
+      "api": "https://api.apilyzy.com/api.php/provide/vod/at/xml"
     },
     {
       "key": "*富二代资源",
