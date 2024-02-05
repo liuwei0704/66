@@ -78,7 +78,7 @@
       "key": "牛牛",
       "name": "牛牛",
       "type": 1,
-      "api": "https://nnzy1.com/api.php/provide/vod/at/xml",
+      "api": "https://nnzy1.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
