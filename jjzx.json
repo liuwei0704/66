@@ -94,7 +94,10 @@
       "key": "jj", 
       "name": "健教3", 
       "type": 1, 
-      "api": "https://caiji.kczyapi.com/api.php/provide/vod/", 
+      "api": "https://caiji.kczyapi.com/api.php/provide/vod/",
+      "searchable": 0, 
+      "quickSearch": 1, 
+      "filterable": 1
     },{
       "key": "健教2",
       "name": "🍚健教2",
