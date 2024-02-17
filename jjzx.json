@@ -99,6 +99,14 @@
       "quickSearch": 1, 
       "filterable": 1
     },{
+      "key": "jk", 
+      "name": "健教4", 
+      "type": 0, 
+      "api": "https://caiji.qhzyapi.com/api.php/provide/vod/from/qhyun/at/xml",
+      "searchable": 1, 
+      "quickSearch": 1, 
+      "filterable": 0
+    },{
       "key": "健教2",
       "name": "🍚健教2",
       "type": 3,
