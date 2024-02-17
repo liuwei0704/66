@@ -31,8 +31,8 @@
             "国产动漫"
           ]
         },{
-      "key": "49zy",
-      "name": "🍥VIP专享1080P-C",
+      "key": "健教1",
+      "name": "🍥健教1",
       "type": 1,
       "api": "https://49zyw.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -91,8 +91,8 @@
       "quickSearch": 1, 
       "filterable": 1
     },{
-      "key": "AppYs_南瓜",
-      "name": "🍚专享1080P-A",
+      "key": "健教2",
+      "name": "🍚健教2",
       "type": 3,
       "playerType": 2,
       "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
