@@ -85,7 +85,7 @@
       "quickSearch": 1,
       "ext": "https://gitcode.net/m0_73989217/ymz/-/raw/master/JS/%E5%8D%97%E7%93%9C.js"
     },
-{
+    {
           "key": "ZYJK", 
           "name": "🌟极速", 
           "type": 1, 
@@ -94,7 +94,7 @@
           "quickSearch": 1, 
           "filterable": 1
     },
-{
+    {
             "key": "健教",
             "name": "健教 ",
             "type": 1,
@@ -126,8 +126,8 @@
                 "犯罪片",
                 "奇幻片",
                 "纪录片"
-           ]
-{
+      ]
+     {
       "key": "玩偶哥哥",
       "name": "👽玩偶哥哥",
       "type": 3,
