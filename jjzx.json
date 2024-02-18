@@ -134,6 +134,12 @@
       "quickSearch": 1, 
       "filterable": 1
     },{
+      "key" : "drpy_jsyt",
+      "name" : "⛵健教4K",
+      "type" : 3,
+      "api" : "./lib/drpy.min.js",
+      "ext" : "./js/yt.js"
+    },{
       "key": "jk", 
       "name": "健教4", 
       "type": 0, 
