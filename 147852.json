@@ -447,8 +447,8 @@
       "api": "https://lbapi9.com/api.php/provide/vod/at/xml"
     },
     {
-      "key": "老鸭",
-      "name": "老鸭",
+      "key": "老鸭999",
+      "name": "老鸭999",
       "type": 1,
       "api": "https://api.apilyzy.com/api.php/provide/vod/"
     },
