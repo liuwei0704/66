@@ -140,6 +140,12 @@
       "api" : "./lib/drpy.min.js",
       "ext" : "./js/yt.js"
     },{
+      "key" : "畅梦",
+      "name" : "💯健教秒播",
+      "type" : 3,
+      "api" : "./lib/drpy2.min.js",
+      "ext" : "./y/changmeng.js"
+    },{
       "key": "jk", 
       "name": "健教4", 
       "type": 0, 
