@@ -136,9 +136,15 @@
     },{
       "key" : "drpy_jsyt",
       "name" : "⛵健教4K",
-      "type" : 3,
-      "api" : "./lib/drpy.min.js",
-      "ext" : "./js/yt.js"
+      "type": 1,
+      "api": "https://www.libhd.com/api.php/provide/vod/from/AL2",
+      "playUrl": "https://www.libhd.com/play/?url=",
+      "categories": [
+        "电影",
+        "剧集",
+        "动漫",
+        "综艺"
+      ]
     },{
       "key" : "畅梦",
       "name" : "💯健教秒播",
