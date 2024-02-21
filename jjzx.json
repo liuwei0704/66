@@ -126,6 +126,18 @@
       "quickSearch": 1, 
       "filterable": 1
     },{
+           "key": "小文",
+      "name": "🐷赛文速播",
+      "type": 1,
+      "api": "https://cj.wanbu.cc/api.php/provide/vod/",
+      "playUrl": "https://cj.wanbu.cc/jmza.php?url=",
+      "categories": [
+        "电影",
+        "电视剧",
+        "动漫",
+        "综艺"
+      ]
+     },{
       "key": "jj", 
       "name": "健教3", 
       "type": 1, 
