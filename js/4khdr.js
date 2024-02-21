@@ -37,17 +37,17 @@ var rule = {
 		tabs:`js:
 pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
 TABS=[]
-let d = pdfa(html, 'table.t_table a');
+let d = pdfa(html, 'div.pcb table.t_table a');
 let tabsa = [];
 let tabsq = [];
 let tabsm = false;
 let tabse = false;
 d.forEach(function(it) {
 	let burl = pdfh(it, 'a&&href');
-	if (burl.startsWith("https://www.aliyundrive.com/s/")){
-		tabsa.push("阿里云盤");
+	if (burl.startsWith("https://www.aliyundrive.com/s/") || burl.startsWith("https://www.alipan.com/s/")){
+		tabsa.push("阿里雲盤");
 	}else if (burl.startsWith("https://pan.quark.cn/s/")){
-		tabsq.push("夸克云盤");
+		tabsq.push("夸克網盤");
 	}else if (burl.startsWith("magnet")){
 		tabsm = true;
 	}else if (burl.startsWith("ed2k")){
@@ -60,7 +60,7 @@ if (tabsm === true){
 if (tabse === true){
 	TABS.push("電驢");
 }
-if (tabsa.length + tabsq.length > 1){
+if (false && tabsa.length + tabsq.length > 1){
 	TABS.push("選擇右側綫路");
 }
 let tmpIndex;
@@ -80,7 +80,7 @@ log('4khdr TABS >>>>>>>>>>>>>>>>>>' + TABS);
 log(TABS);
 pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
 LISTS = [];
-let d = pdfa(html, 'table.t_table a');
+let d = pdfa(html, 'div.pcb table.t_table a');
 let lista = [];
 let listq = [];
 let listm = [];
@@ -91,8 +91,8 @@ d.forEach(function(it){
 	log('4khdr title >>>>>>>>>>>>>>>>>>>>>>>>>>' + title);
 	log('4khdr burl >>>>>>>>>>>>>>>>>>>>>>>>>>' + burl);
 	let loopresult = title + '$' + burl;
-	if (burl.startsWith("https://www.aliyundrive.com/s/")){
-		if (false){
+	if (burl.startsWith("https://www.aliyundrive.com/s/") || burl.startsWith("https://www.alipan.com/s/")){
+		if (true){
 		if (TABS.length==1){
 			burl = "http://127.0.0.1:9978/proxy?do=ali&type=push&confirm=0&url=" + encodeURIComponent(burl);
 		}else{
@@ -104,7 +104,7 @@ d.forEach(function(it){
 		loopresult = title + '$' + burl;
 		lista.push(loopresult);
 	}else if (burl.startsWith("https://pan.quark.cn/s/")){
-		if (false){
+		if (true){
 		if (TABS.length==1){
 			burl = "http://127.0.0.1:9978/proxy?do=quark&type=push&confirm=0&url=" + encodeURIComponent(burl);
 		}else{
@@ -127,7 +127,7 @@ if (listm.length>0){
 if (liste.length>0){
 	LISTS.push(liste);
 }
-if (lista.length + listq.length > 1){
+if (false && lista.length + listq.length > 1){
 	LISTS.push(["選擇右側綫路，或3秒後自動跳過$http://127.0.0.1:10079/delay/"]);
 }
 lista.forEach(function(it){
@@ -158,7 +158,7 @@ let postData = {
 };
 Object.assign(_fetch_params, postData);
 log("4khdr search postData>>>>>>>>>>>>>>>" + JSON.stringify(_fetch_params));
-let search_html = post( HOST + '/search.php', _fetch_params)
+let search_html = post( HOST + '/search.php?mod=forum', _fetch_params)
 //log("4khdr search result>>>>>>>>>>>>>>>" + search_html);
 let d=[];
 let dlist = pdfa(search_html, 'div#threadlist ul li');
@@ -170,8 +170,8 @@ dlist.forEach(function(it){
 		}
 	}
 	let img = "";
-	let content = pdfh(it, 'p:eq(3)&&Text');
-	let desc = pdfh(it, 'p:eq(2)&&Text');
+	let content = pdfh(it, 'p:eq(2)&&Text');
+	let desc = pdfh(it, 'p:eq(3)&&Text');
 	let url = pd(it, 'a&&href', HOST);
 	d.push({
 		title:title,
