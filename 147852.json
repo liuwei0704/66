@@ -75,13 +75,17 @@
         "海外剧"
       ]
     },{
-      "key": "牛牛",
-      "name": "牛牛",
+      "key": "libhd",
+      "name": "🍅LiHD1080",
       "type": 1,
-      "api": "https://nnzy1.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
+      "api": "https://www.libhd.com/api.php/provide/vod/from/AL2",
+      "playUrl": "https://www.libhd.com/play/?url=",
+      "categories": [
+        "电影",
+        "剧集",
+        "动漫",
+        "综艺"
+      ]
     },{
       "key": "环亚",
       "name": "环亚",
@@ -102,32 +106,33 @@
       "ext": "https://gitcode.net/m0_73989217/ymz/-/raw/master/JS/%E5%8D%97%E7%93%9C.js"
     },
 {
-          "key": "Xinsj",
-          "name": "👓新视觉",
-          "type": 3,
-          "api": "csp_Xinsj",
-          "searchable": 1,
-          "quickSearch": 1,
-          "changeable": 1,
-          "ext": "https://www.6080yy3.com/","jar": "https://jihulab.com/ygbh1/box/-/raw/main/JAR/fan.jar"
+           "key": "小文",
+      "name": "🐷赛文速播",
+      "type": 1,
+      "api": "https://cj.wanbu.cc/api.php/provide/vod/",
+      "playUrl": "https://cj.wanbu.cc/jmza.php?url=",
+      "categories": [
+        "电影",
+        "电视剧",
+        "动漫",
+        "综艺"
+      ]
      },{
-          "key": "鑫鑫影视",
-          "name": "🥇鑫鑫影视",
-          "type": 3,
-          "api": "csp_AppYsV2",
-          "searchable": 1,
-          "quickSearch": 1,
-          "filterable": 1,
-          "ext": "http://yingszj.xn--654a.cc/api.php/app/"
+         "key": "蜜果视界",
+      "name": "🍊蜜果4K",
+      "api": "csp_AppYs",
+      "type": 3,
+      "ext": "https://miguo.pro/api.php/v1.vod"
          }, 
   {
-          "key": "ZYJK", 
-          "name": "🌟极速", 
-          "type": 1, 
-          "api": "http://film.benmx.com/api.php/tvbox", 
-          "searchable": 1, 
-          "quickSearch": 1, 
-          "filterable": 1
+         "key": "csp_XBPQ_6V",
+  "name": "🌙宝盒4K",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext":"./h/6v.json"
     },
     {
       "key": "美少女",
@@ -286,13 +291,7 @@
       "filterable": 0
     },
     {
-      "key": "环亚",
-      "name": "环亚",
-      "type": 0,
-      "api": "http://wmcj8.com/inc/sapi.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
+      "key":"csp_Bttwoo","name":"✌2BT(SP)","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1
     },
     {
       "key": "花椒",
