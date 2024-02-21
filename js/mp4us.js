@@ -44,10 +44,10 @@ let tabsm = false;
 let tabse = false;
 d.forEach(function(it) {
 	let burl = pdfh(it, 'a&&href');
-	if (burl.startsWith("https://www.aliyundrive.com/s/")){
-		tabsa.push("阿里云盤");
+	if (burl.startsWith("https://www.aliyundrive.com/s/") || burl.startsWith("https://www.alipan.com/s/")){
+		tabsa.push("阿里雲盤");
 	}else if (burl.startsWith("https://pan.quark.cn/s/")){
-		tabsq.push("夸克云盤");
+		tabsq.push("夸克網盤");
 	}else if (burl.startsWith("magnet")){
 		tabsm = true;
 	}else if (burl.startsWith("ed2k")){
@@ -60,7 +60,7 @@ if (tabsm === true){
 if (tabse === true){
 	TABS.push("電驢");
 }
-if (tabsa.length + tabsq.length > 1){
+if (false && tabsa.length + tabsq.length > 1){
 	TABS.push("選擇右側綫路");
 }
 let tmpIndex;
@@ -91,8 +91,8 @@ d.forEach(function(it){
 	log('dygang title >>>>>>>>>>>>>>>>>>>>>>>>>>' + title);
 	log('dygang burl >>>>>>>>>>>>>>>>>>>>>>>>>>' + burl);
 	let loopresult = title + '$' + burl;
-	if (burl.startsWith("https://www.aliyundrive.com/s/")){
-		if (false){
+	if (burl.startsWith("https://www.aliyundrive.com/s/") || burl.startsWith("https://www.alipan.com/s/")){
+		if (true){
 		if (TABS.length==1){
 			burl = "http://127.0.0.1:9978/proxy?do=ali&type=push&confirm=0&url=" + encodeURIComponent(burl);
 		}else{
@@ -104,7 +104,7 @@ d.forEach(function(it){
 		loopresult = title + '$' + burl;
 		lista.push(loopresult);
 	}else if (burl.startsWith("https://pan.quark.cn/s/")){
-		if (false){
+		if (true){
 		if (TABS.length==1){
 			burl = "http://127.0.0.1:9978/proxy?do=quark&type=push&confirm=0&url=" + encodeURIComponent(burl);
 		}else{
@@ -127,7 +127,7 @@ if (listm.length>0){
 if (liste.length>0){
 	LISTS.push(liste.reverse());
 }
-if (lista.length + listq.length > 1){
+if (false && lista.length + listq.length > 1){
 	LISTS.push(["選擇右側綫路，或3秒後自動跳過$http://127.0.0.1:10079/delay/"]);
 }
 lista.forEach(function(it){
@@ -156,22 +156,22 @@ let d=[];
 let dlist = pdfa(search_html, 'div#list_all li');
 dlist.forEach(function(it){
 	let title = pdfh(it, 'img.lazy&&alt');
-	if (searchObj.quick === true){
-		if (title.includes(KEY)){
+	if (title.includes(KEY)){
+		if (searchObj.quick === true){
 			title = KEY;
 		}
+		let img = pd(it, 'img.lazy&&src', HOST);
+		let content = pdfh(it, 'div.text_info h2&&Text');
+		let desc = pdfh(it, 'p.info&&Text');
+		let url = pd(it, 'a&&href', HOST);
+		d.push({
+			title:title,
+			img:img,
+			content:content,
+			desc:desc,
+			url:url
+			})
 	}
-	let img = pd(it, 'img.lazy&&src', HOST);
-	let content = pdfh(it, 'div.text_info h2&&Text');
-	let desc = pdfh(it, 'p.info&&Text');
-	let url = pd(it, 'a&&href', HOST);
-	d.push({
-		title:title,
-		img:img,
-		content:content,
-		desc:desc,
-		url:url
-		})
 });
 setResult(d);
 `,
