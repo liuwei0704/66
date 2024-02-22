@@ -118,14 +118,14 @@
         "综艺"
       ]
      },{"key":"Yingtantv","name":"💯影探4K1","type":3,"api":"csp_Yingtantv","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"$$$./lib/yt.json$$$1","jar":"./yt4.jar"},
-  {
-      "key": "Yingtantv2",
-      "name": "💯影探4K2",
-      "type": 3,
-      "api": "csp_Yingtantv",
-      "searchable": 1,
-      "changeable": 0,"jar":"./ytbl.jar"
-    },
+   {"key": "csp_XBPQ_6V",
+  "name": "🌙宝盒4K",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext":"./h/6v.json"},
     {
       "key": "美少女",
       "name": "美少女",
