@@ -25,6 +25,14 @@
       "type": 3,
       "ext": "https://miguo.pro/api.php/v1.vod"
     },{
+      "key": "xl", 
+      "name": "新浪", 
+      "type": 1, 
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/", 
+      "searchable": 1, 
+      "quickSearch": 1, 
+      "filterable": 1
+    },{
    "key": "安博",
    "name": "🍋安博T4",
    "type": 4,
