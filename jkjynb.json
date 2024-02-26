@@ -33,12 +33,14 @@
       "quickSearch": 1, 
       "filterable": 1
     },{
-      "key": "Buleitv",
-      "name": "💯布蕾4K",
+      "key": "宇宙影视",
+      "name": "💯宇宙4K HDR",
       "type": 3,
-      "api": "csp_Buleitv",
+      "api": "csp_AppYsV2",
       "searchable": 1,
-      "changeable": 0,"jar":"./ytbl.jar"
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"http://ds.yuzhoukeji.top/api.php/app/","jar":"http://101.200.184.252/drpy/pg.jar"
     },{
       "key": "Yingtantv2",
       "name": "💯影探4K",
