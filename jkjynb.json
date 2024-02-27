@@ -33,16 +33,6 @@
       "quickSearch": 1, 
       "filterable": 1
     },{
-      "key": "6v",
-  "name": "🧿4K专享",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "jar" : "./jar/bh.jar",
-  "ext":"./h/bh.json"
-    },{
       "key": "Yingtantv2",
       "name": "💯影探4K",
       "type": 3,
