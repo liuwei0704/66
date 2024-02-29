@@ -62,8 +62,8 @@
       "api": "csp_LvDou",
       "playerType": 1,
       "ext": {
-        "server": "https://4k.ysctv.cn/api.php/app/",
-        "mackey": "yingshiche123456|PHPBxdt7PppocRJ5"
+      "server": "https://4k.ysctv.cn/api.php/app/",
+      "mackey": "yingshiche123456|PHPBxdt7PppocRJ5"
       },
       "jar": "./jar/ysc.jar"
     },{
