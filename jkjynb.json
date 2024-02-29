@@ -33,22 +33,13 @@
       "quickSearch": 1, 
       "filterable": 1
     },{
-      "key": "宇宙影视",
-      "name": "💯宇宙4K HDR",
+     "key": "Fangniu4k",
+      "name": "🌙放牛|4K",
       "type": 3,
-      "api": "csp_AppYsV2",
+      "api": "csp_Fangniu4k",
       "searchable": 1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"http://ds.yuzhoukeji.top/api.php/app/","jar":"http://101.200.184.252/drpy/pg.jar"
+      "changeable": 0,"jar":"http://47.108.190.141/wx/yydf/txt/fangniu.jar;md5;9b51b7c5b02146265d742bdb6a362bdd"
     },{
-      "key": "Yingtantv2",
-      "name": "💯影探4K",
-      "type": 3,
-      "api": "csp_Yingtantv2",
-      "searchable": 1,
-      "changeable": 0,"jar":"./zy.jar"
-    },  {
       "key": "Zhuiyitv",
       "name": "💯追忆4K",
       "type": 3,
@@ -56,16 +47,12 @@
       "searchable": 1,
       "changeable": 0,"jar":"./zy.jar"
     },{
-      "key": "影视车®APP",
-      "name": "♨️影视车4K",
-      "type": 3,
-      "api": "csp_LvDou",
-      "playerType": 1,
-      "ext": {
-      "server": "https://4k.ysctv.cn/api.php/app/",
-      "mackey": "yingshiche123456|PHPBxdt7PppocRJ5"
-      },
-      "jar": "./jar/ysc.jar"
+      "key": "暴風",
+      "name": "暴風",
+      "type": 1,
+      "api": "https://bfzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "changeable": 1
     },{
     "key": "T4-安博",
     "name": "💯安博(T4)",
