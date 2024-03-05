@@ -114,6 +114,7 @@
       "filterable": 1,
       "ext": "./a/威士影视.json"
     },
+    {"key":"csp_MeiJu69","name":"🗽69美剧","api":"csp_AppYsV2","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://www.69mj.com/xgapp.php/v2/"},
     {
       "key": "csp_Free",
       "name": "🎊Free影视",
