@@ -1000,7 +1000,7 @@
         {
             "key": "森林专场",
             "name": "🔞森林采集",
-            "type": 1,
+            "type": 0,
             "api": "https://slapibf.com/api.php/provide/vod/",
             "playUrl": "",
             "searchable": 1,
