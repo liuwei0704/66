@@ -1168,7 +1168,7 @@
 {"key": "宝塔资源","name": "👠宝塔资源","type": 1,"api": "https://baotazy.com/api.php/provide/vod/", "searchable": 0,"quickSearch": 0, "filterable": 0 },
 {"key": "滴滴资源","name": "👠滴滴资源","type": 0,"api": "https://api.ddapi.cc/api.php/provide/vod/at/xml", "searchable": 0,"quickSearch": 0, "filterable": 0 },
 {"key": "蛋蛋视频","name": "👠蛋蛋视频","type": 1,"api": "https://156.249.29.8/inc/apijson_vod.php", "searchable": 0,"quickSearch": 0, "filterable": 0 },
-{"key": "草榴资源","name": "👠草榴资源","type": 1,"api": "https://www.caoliuzy.com/api.php/provide/vod/", "searchable": 0,"quickSearch": 0, "filterable": 0 },
+{"key": "草榴资源","name": "👠草榴资源","type": 1,"api": "https://www.caoliuzyw.com/api.php/provide/vod/", "searchable": 0,"quickSearch": 0, "filterable": 0 },
 {"key": "玉兔资源","name": "👠玉兔资源","type": 1,"api": "https://yutuzy3.com/api.php/provide/vod/?ac=list", "searchable": 0,"quickSearch": 0, "filterable": 0 }, 
 {
             "key": "博明",
@@ -1181,7 +1181,7 @@
             "key": "草柳",
             "name": "🔞采集.草榴资源",
             "type": 1,
-            "api": "https://api.seyavod.com/api.php/provide/vod/?ac=list",
+            "api": "https://www.caoliuzyw.com/api.php/provide/vod/?ac=list",
             "searchable": 1
         },
         {
