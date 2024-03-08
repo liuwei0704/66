@@ -870,6 +870,28 @@
                 "AV明星1"
             ]
         },
+	{
+            "key": "精品",
+            "name": "🔞精品资源",
+            "type": 1,
+            "api": "https://www.jingpinx.com//api.php/provide/vod",
+            "playUrl": "",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+          
+        },
+	{
+            "key": "99",
+            "name": "🔞久久资源",
+            "type": 1,
+            "api": "https://99reapi.com/api.php/provide/vod",
+            "playUrl": "",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+          
+        },
  {
       "key": "少儿教育",
       "name": "📚少儿教育",
