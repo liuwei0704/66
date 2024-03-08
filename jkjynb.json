@@ -996,17 +996,7 @@
                 "女同人妖",
                 "恋腿癖"
             ]
-        },
-        {
-            "key": "森林专场",
-            "name": "🔞森林采集",
-            "type": 0,
-            "api": "https://slapibf.com/api.php/provide/vod/",
-            "playUrl": "",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-        },
+        }
  {
       "key": "少儿教育",
       "name": "📚少儿教育",
