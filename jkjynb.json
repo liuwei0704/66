@@ -1025,6 +1025,13 @@
                 "人兽性交"
             ]
         },
+	{
+            "key": "草柳",
+            "name": "🔞采集.草榴资源",
+            "type": 1,
+            "api": "https://www.caoliuzyw.com/api.php/provide/vod/?ac=list",
+            "searchable": 1
+        },
  {
       "key": "少儿教育",
       "name": "📚少儿教育",
