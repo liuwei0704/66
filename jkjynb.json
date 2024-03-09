@@ -843,7 +843,29 @@
       "type": 1,
       "api": "https://api.apilyzy.com/api.php/provide/vod/",
       "searchable": 0
-    },
+    },{
+            "key": "老鸭",
+            "name": "👠老鸭采集",
+            "type": 1,
+            "api": "https://api.apilyzy.com/api.php/provide/vod/",
+            "playUrl": "",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "categories": [
+            "日本有码",
+                "日本无码",
+                "中文字幕",
+                "变态另类",
+                "巨乳美乳",
+                "动漫精品",
+                "熟女人妻",
+                "自拍偷拍",
+                "海外明星",
+                "国产传媒"
+                
+            ]
+        },
 	 {
             "key": "大地专场",
             "name": "🔞大地采集",
