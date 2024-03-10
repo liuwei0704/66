@@ -18,7 +18,8 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext":"./h/6v.json"},{
+  "ext":"./h/6v.json"}, 
+    {
             "key": "baipiaoys",
             "name": "🌙白嫖┃影视",
             "type": 3,
