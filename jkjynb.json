@@ -18,13 +18,14 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext":"./h/6v.json"},{
+  "ext":"./h/6v.json"
+    },{
        "key": "蜜果视界",
 ￼      "name": "🍊蜜果4K",
 ￼      "api": "csp_AppYs",
 ￼      "type": 3,
 ￼      "ext": "https://miguo.pro/api.php/v1.vod"
-￼    },{
+￼   },{
       "key": "xl", 
       "name": "新浪", 
       "type": 1, 
