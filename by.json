@@ -63,12 +63,6 @@
             "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/jp.js"
         },
         {
-            "key": "drpy_js_lf_p2p",
-            "name": "磁力p2p(搜索)",
-            "type": 3,
-            "api": "https://agit.ai/dxawi/ray/raw/branch/master/JS/js/lf_p2p1_min.js"
-        },
-        {
             "key": "快看",
             "name": "快看",
             "type": 3,
