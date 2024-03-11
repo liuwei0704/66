@@ -32,6 +32,17 @@
             "filterable": 0
         },
         {
+            "key": "HD720",
+            "name": "HD720",
+            "type": 3,
+            "playerType": 2,
+            "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
+            "changeable": 0,
+            "searchable": 1,
+            "quickSearch": 1,
+            "ext": "https://gitcode.net/m0_73989217/ymz/-/raw/master/JS/%E5%8D%97%E7%93%9C.js"
+        }, 
+        {
             "key": "南瓜",
             "name": "南瓜",
             "type": 3,
