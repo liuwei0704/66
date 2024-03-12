@@ -238,6 +238,15 @@
             "api": "https://agit.ai/dxawi/ray/raw/branch/master/JS/lib/drpy2.min.js",
             "ext": "https://agit.ai/dxawi/ray/raw/branch/master/JS/js/ikanbot3.js"
         },
+	{
+      "key": "探探",
+      "name": "🈵成人影视4",
+      "type": 1,
+      "api": "https://apittzy.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
     {
       "key": "csp_蛋蛋",
       "name": "🎢蛋蛋影视",
