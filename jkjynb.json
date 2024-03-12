@@ -846,14 +846,6 @@
             "quickSearch": 1
         },
 	{
-            "key": "萝莉资源",
-            "name": "萝莉资源(切片)",
-            "type": 0,"style":{ "type":"rect", "ratio":1.485 },
-            "api": "https://192.151.223.213/api.php/provide/vod/at/xml/",
-            "searchable": 1,
-            "quickSearch": 1
-        }, 
-	{
             "key": "精品",
             "name": "🔞精品资源",
             "type": 1,
