@@ -788,6 +788,7 @@
 	{"key":"老色逼资源站","name":"老色逼资源站","type":1,"api":"https://apilsbzy1.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 	{"key":"极速官采","name":"极速官采","type":1,"api":"https://api.1080zyku.com/inc/apijson.php","playUrl":"","searchable":1,"quickSearch":1},
 	{"key":"易看资源-伦理","name":"易看资源-伦理","type":1,"api":"https://api.yikanapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+	{"key":"💞环亚资源💞","name":"💞环亚资源💞","type":0,"api":"http://wmcj8.com/inc/sapi.php","searchable":0,"quickSearch":0},
 	{
       "key": "api.apilyzy.com",
       "name": "🔞720p",
