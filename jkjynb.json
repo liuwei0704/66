@@ -227,6 +227,13 @@
             "quickSearch": 1,
             "ext": "https://gitcode.net/m0_73989217/ymz/-/raw/master/JS/%E5%8D%97%E7%93%9C.js"
         },
+	{
+            "key": "ikanbot3",
+            "name": "ikanbot3[js]",
+            "type": 3,
+            "api": "https://agit.ai/dxawi/ray/raw/branch/master/JS/lib/drpy2.min.js",
+            "ext": "https://agit.ai/dxawi/ray/raw/branch/master/JS/js/ikanbot3.js"
+        },
     {
       "key": "csp_蛋蛋",
       "name": "🎢蛋蛋影视",
@@ -756,6 +763,8 @@
 	{ "key": "KpgxdyE", "name": "🔞黄AV资源(已修复)", "type": 0, "api": "https://www.pgxdy.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 	{ "key": "(18+)天堂福利", "name": "🔞天堂福利", "type": 0, "api": "https://bttcj.com/inc/sapi.php", "searchable": 1, "quickSearch": 1, "filterable": 0 },
 	{"key": "橘猫资源","name": "🔞橘猫资源","type": 1,"api": "https://to.to-long.com/api.php/provide/vod/", "searchable": 1,"quickSearch": 1, "filterable": 0 },
+	{"key":"雪豹资源","name":"雪豹资源","type":1,"api":"https://api.xbapi.cc/api.php/provide/vod/at/json","searchable":1,"quickSearch":1},
+	{"key":"滴滴资源","name":"滴滴资源","type":1,"api":"https://api.ddapi.cc/api.php/provide/vod/at/json","searchable":1,"quickSearch":1},
 	{
       "key": "api.apilyzy.com",
       "name": "🔞720p",
