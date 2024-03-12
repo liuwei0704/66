@@ -765,6 +765,15 @@
 	{"key": "橘猫资源","name": "🔞橘猫资源","type": 1,"api": "https://to.to-long.com/api.php/provide/vod/", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 	{"key":"雪豹资源","name":"雪豹资源","type":1,"api":"https://api.xbapi.cc/api.php/provide/vod/at/json","searchable":1,"quickSearch":1},
 	{"key":"滴滴资源","name":"滴滴资源","type":1,"api":"https://api.ddapi.cc/api.php/provide/vod/at/json","searchable":1,"quickSearch":1},
+	{"key":"小AV","name":"小AV","type":0,"searchable":0,"quickSearch":0,"api":"https://www.pgxdy.com/api/xml.php","playUrl":""},
+	{"key": "免費AV線上看","name": "免費AV線上看","type": 1,"api": "https://c.mdvod.cc/api.php/provide/vod/?ac=list", "searchable": 1,"quickSearch": 1, "filterable": 0 },  //https://seajav.gitbook.io/untitled/
+{"key": "爱爱影视","name": "爱爱影视","type": 1,"api": "http://www.shangaiys.com/api.php/provide/vod/", "searchable": 1,"quickSearch": 1, "filterable": 0 }, //https://aays.vip/   
+{"key": "美少女资源站","name": "美少女资源站","type": 0,"api": "https://www.msnii.com/api/xml.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
+{"key": "淫水机资源站","name": "淫水机资源站","type": 0,"api": "https://www.xrbsp.com/api/xml.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
+{"key": "香奶儿资源站","name": "香奶儿资源站","type": 0,"api": "https://www.gdlsp.com/api/xml.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
+{"key": "白嫖资源站","name": "白嫖资源站","type": 0,"api": "https://www.kxgav.com/api/xml.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
+	{"key":"老色逼资源站","name":"老色逼资源站","type":1,"api":"https://apilsbzy1.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
+	{"key":"极速官采","name":"极速官采","type":1,"api":"https://api.1080zyku.com/inc/apijson.php","playUrl":"","searchable":1,"quickSearch":1},
 	{
       "key": "api.apilyzy.com",
       "name": "🔞720p",
