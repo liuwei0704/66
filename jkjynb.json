@@ -203,7 +203,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.json+4k|auto|fhd$$$https://www.wogg.link/$$$弹"
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.json+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
         },
         {
             "key": "荐片",
@@ -226,7 +226,17 @@
             "searchable": 1,
             "quickSearch": 1,
             "ext": "https://gitcode.net/m0_73989217/ymz/-/raw/master/JS/%E5%8D%97%E7%93%9C.js"
-        }, 
+        },
+	{
+            "key": "原创",
+            "name": "原创",
+            "type": 3,
+            "api": "csp_YCyz",
+            "timeout": 15,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
     {
       "key": "csp_蛋蛋",
       "name": "🎢蛋蛋影视",
