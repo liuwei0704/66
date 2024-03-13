@@ -793,6 +793,7 @@
 	{"key":"X先生",			"name":"X先生",		"type":3,	"api":"csp_XBPQ",	"ext":"./a/x先生.json"},
 	{"key":"大炮色",		"name":"大炮色",	"type":3,	"api":"csp_XBPQ",	"ext":"./a/大炮色.json"},
 	{"key":"色花堂",		"name":"色花堂",	"type":3,	"api":"csp_XBPQ",	"ext":"./a/色花堂.json"},
+	{"key":"pgxdy","name":"🐞Pgx电影🈲","type":0,"api":"https://www.pgxdy.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1},
 	{
       "key": "api.apilyzy.com",
       "name": "🔞720p",
@@ -836,6 +837,15 @@
       "name": "天堂影视",
       "type": 0,
       "api": "http://bttcj.com/inc/sapi.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+	{
+      "key": "zp028",
+      "name": "zp028",
+      "type": 0,
+      "api": "http://mygzycj.com/api.php?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -908,6 +918,15 @@
             "searchable": 1,
             "quickSearch": 1
         },
+	{
+      "key": "富二代资源",
+      "name": "富二代资源",
+      "type": 0,
+      "api": "http://f2dcj6.com/sapi?ac=list&pg=1",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },	
 	{
             "key": "精品",
             "name": "🔞精品资源",
