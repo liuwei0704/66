@@ -984,8 +984,6 @@
 	{"key":"易看资源-伦理","name":"易看资源-伦理","type":1,"api":"https://api.yikanapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 	{"key":"💞环亚资源💞","name":"💞环亚资源💞","type":0,"api":"http://wmcj8.com/inc/sapi.php","searchable":0,"quickSearch":0},
 	{"key":"辣椒","name":"🍎辣椒(直连)","type":0,"api":"http://api.11bat.com/api.php/provide/vod/at/xml/","quickSearch":1,"searchable":1,"filterable":1},
-	{"key":"X先生",			"name":"X先生",		"type":3,	"api":"csp_XBPQ",	"ext":"./a/x先生.json"},
-	{"key":"大炮色",		"name":"大炮色",	"type":3,	"api":"csp_XBPQ",	"ext":"./a/大炮色.json"},
 	{"key":"色花堂",		"name":"色花堂",	"type":3,	"api":"csp_XBPQ",	"ext":"./a/色花堂.json"},
 	{"key":"pgxdy","name":"🐞Pgx电影🈲","type":0,"api":"https://www.pgxdy.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1},
 	{"key":"pwd_袜子","name":"1️⃣8️⃣🈲蜜蜂","type":0,"api":"https://www.msnii.com/api/xml.php","searchable":1,"quickSearch":0},
