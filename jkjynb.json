@@ -127,6 +127,8 @@
     {"name":"艾旦","key":"艾旦影视","type":1,"api":"https://lovedan.net/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 	{"key":"Taohuazu","name":"桃花族","type":3,"api":"csp_Taohuazu","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"http://thze.cc/"},
 	{"key":"jyB","name":"🌙金鹰|影视","style":{"type":"rect","ratio":0.85},"type":1,"api":"https://jyzyapi.com/provide/vod/","searchable":1,"quickSearch":1,"playUrl":""},
+	{"key":"x先生",			"name":"X先生",		"type":3,	"api":"csp_XBPQ",	"ext":"./a/x先生.json"},
+	{"key":"大炮色",		"name":"大炮色",	"type":3,	"api":"csp_XBPQ",	"ext":"./a/大炮色.json"},
       {
       "key": "csp_威士",
       "name": "🎉威士影视",
