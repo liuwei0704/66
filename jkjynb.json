@@ -199,7 +199,7 @@
       "type": 1,
       "playerType": 2,
       "searchable": 1,
-      "api": "https://leshizyapi.com/api.php/provide/vod/at/json",
+      "api": "https://leshiapi.com/api.php/provide/vod/at/json",
       "playUrl": "",
       "categories": [
         "国产剧",
