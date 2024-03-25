@@ -123,6 +123,7 @@
 	{"key":"x先生",			"name":"X先生",		"type":3,	"api":"csp_XBPQ",	"ext":"./a/x先生.json"},
 	{"key":"大炮色",		"name":"大炮色",	"type":3,	"api":"csp_XBPQ",	"ext":"./a/大炮色.json"},
 	{"key":"csp_Bttoo","name":"🍄比特┃秒播","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"changeable":1},
+	{"key": "鸭奈非4K","name": "鸭奈非4K","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "https://agit.ai/smy/qt/raw/branch/master/XBPQ/鸭奈非4K.json"},
 	{
       "key": "csp_威士",
       "name": "🎉威士影视",
