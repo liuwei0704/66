@@ -48,19 +48,24 @@
       "quickSearch": 1, 
       "filterable": 1
     },{
-     "key": "Fangniu4k",
-      "name": "🌙放牛|4K",
+      "key": "影探VIP",
+      "name": "影探4k",
       "type": 3,
-      "api": "csp_Fangniu4k",
+      "api": "csp_AppYsV2",
       "searchable": 1,
-      "changeable":  0,"jar":"./jar/fnw.jar"
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://vipcms.lyyytv.cn/api.php/app/"
     },{
-      "key": "Zhuiyitv",
-      "name": "💯追忆4K",
+      "key": "鸭奈飞1",
+      "name": "鸭奈飞",
       "type": 3,
-      "api": "csp_Zhuiyitv",
+      "api": "csp_AppYsV2",
       "searchable": 1,
-      "changeable": 0,"jar":"./zy.jar"
+      "quickSearch": 1,
+      "jar": "https://agit.ai/smy/zy/raw/branch/master/JAR/c.txt;md5;bb155c3f0133bbce4756ad52003f5968",
+      "filterable": 1,
+      "ext": "https://yanetflix.me/api.php/app/"
     },{
       "key": "暴風",
       "name": "暴風",
