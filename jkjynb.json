@@ -81,7 +81,7 @@
       "ext":"https://agit.ai/mimang/js/raw/branch/master/XBPQ/天龙影视.json"
     },{
       "key": "官网资源",
-      "name": "官网(采集)",
+      "name": "官网",
       "type": 1,
       "playUrl": "https://dp.hw8.live/player/?url=",
       "api": "https://hw8.live/api.php/provide/vod/",
