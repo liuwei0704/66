@@ -83,7 +83,7 @@
       "key": "官网资源",
       "name": "官网(采集)",
       "type": 1,
-      "playUrl": "json:https://dp.hw8.live/player/?url=",
+      "playUrl": "https://dp.hw8.live/player/?url=",
       "api": "https://hw8.live/api.php/provide/vod/",
       "searchable":1,
       "quickSearch": 1
