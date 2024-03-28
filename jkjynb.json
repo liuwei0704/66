@@ -62,14 +62,11 @@
       "searchable": 1,
       "changeable": 1
     },{
-            "key": "Auete",
-            "name": "Auete",
+            "key": "drpy_js_Auete",
+            "name": "Auete[js]",
             "type": 3,
-            "api": "csp_Auete",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://auete.pro/"
+            "api": "https://agit.ai/dxawi/ray/raw/branch/master/JS/lib/drpy2.min.js",
+            "ext": "https://agit.ai/dxawi/ray/raw/branch/master/JS/js/Auete.js"
         }, {
             "key": "高清资源网",
             "name": "🎦️高清┃2K",
