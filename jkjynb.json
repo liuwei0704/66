@@ -1224,7 +1224,16 @@
             "api": "https://hdys2.com/api.php/provide/vod/at/xml/",
             "searchable": 1,
             "quickSearch": 1
-        },
+        }, {
+      "key": "csp_XBPQ_爱上AV",
+      "name": "爱上AV",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://agit.ai/mimang/S/raw/branch/master/爱上AV.json"
+    },
 	{
       "key": "富二代资源",
       "name": "富二代资源",
