@@ -79,6 +79,14 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext":"https://agit.ai/mimang/js/raw/branch/master/XBPQ/天龙影视.json"
+    },{
+      "key": "官网资源",
+      "name": "官网(采集)",
+      "type": 1,
+      "playUrl": "json:https://dp.hw8.live/player/?url=",
+      "api": "https://hw8.live/api.php/provide/vod/",
+      "searchable":1,
+      "quickSearch": 1
     }, {
             "key": "高清资源网",
             "name": "🎦️高清┃2K",
