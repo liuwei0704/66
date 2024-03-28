@@ -61,7 +61,16 @@
       "api": "https://bfzyapi.com/api.php/provide/vod",
       "searchable": 1,
       "changeable": 1
-    }, {
+    },{
+            "key": "Auete",
+            "name": "Auete",
+            "type": 3,
+            "api": "csp_Auete",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://auete.pro/"
+        }, {
             "key": "高清资源网",
             "name": "🎦️高清┃2K",
             "type": 1,
