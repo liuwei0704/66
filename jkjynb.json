@@ -1131,6 +1131,32 @@
             ]
         },
 	{
+      "key": "AList18+",
+      "name": "👠AList18+",
+      "type": 3,
+      "api": "csp_AList",
+      "searchable": 1,
+      "recordable": 0,
+      "ext": {
+        "drives": [
+          {
+            "name": "9T",
+            "server": "https://drive.upan.ee",
+            "params": [
+              {
+                "path": "/OneDrive",
+                "pass": "upan"
+              },
+              {
+                "path": "/115Cloud",
+                "pass": "upan"
+              }
+            ]
+          }
+        ]
+      }
+    },
+	{
       "key": "美少女",
       "name": "技巧影视",
       "type": 0,
