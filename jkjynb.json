@@ -53,6 +53,13 @@
         "三次跳转播放链接": "\"url\"*\"&&\""
       }
     },{
+      "key": "csp_lwdy",
+      "name": "🌱老王电影[影视]_XBPQ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://agit.ai/1018610504/wdck/raw/branch/master/json/laowangdy.json",
+      "jar": "https://agit.ai/1018610504/wdck/raw/branch/master/jar/XBPQ.jar"
+    },{
       "key": "xl", 
       "name": "新浪", 
       "type": 1, 
