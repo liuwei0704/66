@@ -27,15 +27,20 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://4k.953365.cn:8090/xgapp.php/v3/"
-    },{
-      "key": "csp_XBPQ_百度影视",
-      "name": "百度影视",
+    }, {
+      "key": "毒舌影视",
+      "name": "🐍毒舌影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://agit.ai/mimang/cccc/raw/branch/master/百度影视.json"
+      "jar": "https://agit.ai/1018610504/wdck/raw/branch/master/jar/XBPQ.jar",
+      "ext": {
+        "简介": "detail-desc\">&&</div>",
+        "图片": "data-original=\"&&\"[替换:/vod1>>https://vres.a357899.cn/vod1]",
+        "线路数组": "javascript:void(0)\" class=\"source-item\">&&</a >",
+        "播放数组": "episode-list\"&&</div>",
+        "分类url": "https://www.dushe7.app/show/{cateId}-{class}-{area}--{year}-3-{catePg}.html",
+        "分类": "电影$1#电视剧$2#综艺$4#动漫$3#短剧$6"
+      }
     },{
       "key": "鸭奈飞1",
       "name": "鸭奈飞",
