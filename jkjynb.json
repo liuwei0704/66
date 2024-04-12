@@ -68,14 +68,13 @@
       "quickSearch": 1, 
       "filterable": 1
     },{
-      "key": "csp_XBPQ_百度影视",
-      "name": "百度影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://agit.ai/mimang/cccc/raw/branch/master/百度影视.json"
+      "key": "hn", 
+      "name": "红牛", 
+      "type": 1, 
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/", 
+      "searchable": 1, 
+      "quickSearch": 1, 
+      "filterable": 1
     },{
       "key": "鸭奈飞1",
       "name": "鸭奈飞",
