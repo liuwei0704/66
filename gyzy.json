@@ -28,14 +28,14 @@
       "filterable": 1,
       "ext": "http://4k.953365.cn:8090/xgapp.php/v3/"
     },{
-      "key": "影探VIP",
-      "name": "影探4k",
+      "key": "csp_XBPQ_百度影视",
+      "name": "百度影视",
       "type": 3,
-      "api": "csp_AppYsV2",
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://vipcms.lyyytv.cn/api.php/app/"
+      "ext": "https://agit.ai/mimang/cccc/raw/branch/master/百度影视.json"
     },{
       "key": "鸭奈飞1",
       "name": "鸭奈飞",
