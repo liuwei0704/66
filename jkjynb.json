@@ -100,7 +100,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":"https://agit.ai/mimang/js/raw/branch/master/XBPQ/都别影视.json"
+      "ext":""
     }, {
       "key": "csp_XBPQ_天龙影视",
       "name": "天龙影视",
@@ -109,7 +109,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":"https://agit.ai/mimang/js/raw/branch/master/XBPQ/天龙影视.json"
+      "ext":""
     },{
       "key": "狐狸",
       "name": "狐狸",
