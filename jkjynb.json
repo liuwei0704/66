@@ -1540,7 +1540,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "api": "csp_XBPQ",
-      "jar": "https://agit.ai/1018610504/GY123/raw/branch/master/jar/XBPQ.jar",
+      "jar": "",
       "ext": {
         "直接播放":"1",
         "搜索链接后缀":"-1-1.html",
