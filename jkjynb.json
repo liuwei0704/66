@@ -150,7 +150,7 @@
                 "日韩动漫",
                 "欧美动漫"
             ]
-        },{"key":"csp_Bttoo","name":"✌两个BT","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1}, {
+        },{"key":"T4-剧圈","name":"💖分享剧圈","type":4,"api":"https://catbox.n13.club/juquan.php"}, {
       "key": "小文",
       "name": "🐷赛文速播",
       "type": 1,
