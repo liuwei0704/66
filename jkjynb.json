@@ -150,7 +150,15 @@
                 "日韩动漫",
                 "欧美动漫"
             ]
-        },{"key":"T4-剧圈","name":"💖分享剧圈","type":4,"api":"https://catbox.n13.club/juquan.php"}, {
+        },{
+      "key": "heimuer",
+      "name": "💖分享黑蘑",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/分享heimuer.json"
+    }, {
       "key": "小文",
       "name": "🐷赛文速播",
       "type": 1,
