@@ -27,13 +27,9 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://4k.953365.cn:8090/xgapp.php/v3/"
-    },{
-      "key": "蚂蚁",
-      "name": "🌙蚂蚁┃资源",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "ext": "http://122.228.84.103:5822/api.php/app/"
-    }, {
+    },
+     {"key":"T4-剧圈","name":"💖分享剧圈","type":4,"api":"https://catbox.n13.club/t4/juquan.php"},
+    {
       "key": "saohuo",
       "name": "🌙骚火┃电影",
       "type": 3,
