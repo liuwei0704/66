@@ -154,19 +154,7 @@
       "searchable": 1,
       "changeable": 1,
       "ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/分享heimuer.json"
-    }, {
-      "key": "小文",
-      "name": "🐷赛文速播",
-      "type": 1,
-      "api": "https://cj.wanbu.cc/api.php/provide/vod/",
-      "playUrl": "https://cj.wanbu.cc/jmza.php?url=",
-      "categories": [
-        "电影",
-        "电视剧",
-        "动漫",
-        "综艺"
-      ]
-    },
+    }, {"key": "bpys","name": "🌙宝盒┃影视","type": 3,"api": "csp_BaiPiao" ,"searchable": 1,"quickSearch": 1,"changeable": 1,"playerType": 2,"ext": "https://www.baipiaoys.com:9092/","jar": "./bp.jar"},
    {
       "key": "bp",
       "name": "🌙️白嫖┃影视",
