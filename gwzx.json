@@ -75,17 +75,11 @@
                 "欧美动漫"
             ]
         },{
-      "key": "小文",
-      "name": "🐷赛文速播",
-      "type": 1,
-      "api": "https://cj.wanbu.cc/api.php/provide/vod/",
-      "playUrl": "https://cj.wanbu.cc/jmza.php?url=",
-      "categories": [
-        "电影",
-        "电视剧",
-        "动漫",
-        "综艺"
-      ]
+      "key": "网飞影视",
+      "name": "🌙网飞|影视",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/wf.js"
     },{
       "key": "csp_黑狐",
       "name": "🖤黑狐影视",
