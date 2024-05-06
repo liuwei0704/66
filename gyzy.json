@@ -81,19 +81,20 @@
                 "日韩动漫",
                 "欧美动漫"
             ]
-        },{
-      "key": "小文",
-      "name": "🐷赛文速播",
-      "type": 1,
-      "api": "https://cj.wanbu.cc/api.php/provide/vod/",
-      "playUrl": "https://cj.wanbu.cc/jmza.php?url=",
-      "categories": [
-        "电影",
-        "电视剧",
-        "动漫",
-        "综艺"
-      ]
+        },{"key": "bpys","name": "🌙健教┃影视","type": 3,"api": "csp_BaiPiao" ,"searchable": 1,"quickSearch": 1,"changeable": 1,"playerType": 2,"ext": "https://www.baipiaoys.com:9092/","jar": "./bp.jar"},
+	{
+      "key": "网飞影视",
+      "name": "🌙网飞|影视",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/wf.js"
     },{
+            "key": "drpy_js_黑木耳资源",
+            "name": "🌙木耳|影视",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./lib/mr.js"
+        },{
       "key": "csp_黑狐",
       "name": "🖤黑狐影视",
       "type": 3,
