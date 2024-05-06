@@ -161,7 +161,13 @@
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/wf.js"
-    },
+    },{
+            "key": "drpy_js_黑木耳资源",
+            "name": "🌙木耳|影视",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./lib/mr.js"
+        },
    {
       "key": "bp",
       "name": "🌙️白嫖┃影视",
