@@ -154,7 +154,7 @@
       "searchable": 1,
       "changeable": 1,
       "ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/分享heimuer.json"
-    }, {"key": "bpys","name": "🌙宝盒┃影视","type": 3,"api": "csp_BaiPiao" ,"searchable": 1,"quickSearch": 1,"changeable": 1,"playerType": 2,"ext": "https://www.baipiaoys.com:9092/","jar": "./bp.jar"},
+    }, {"key": "bpys","name": "🌙健教┃影视","type": 3,"api": "csp_BaiPiao" ,"searchable": 1,"quickSearch": 1,"changeable": 1,"playerType": 2,"ext": "https://www.baipiaoys.com:9092/","jar": "./bp.jar"},
 	{
       "key": "网飞影视",
       "name": "🌙网飞|影视",
