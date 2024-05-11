@@ -82,7 +82,15 @@
                 "日韩动漫",
                 "欧美动漫"
             ]
-        },{"key": "bpys","name": "🌙健教┃影视","type": 3,"api": "csp_BaiPiao" ,"searchable": 1,"quickSearch": 1,"changeable": 1,"playerType": 2,"ext": "https://www.baipiaoys.com:9092/","jar": "./bp.jar"},
+        },{
+      "key": "rarbt",
+      "name": "💖分享rarbt",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://pan.shangui.cc/f/Zoj0sv/rarbt.json"
+    },
 	{
       "key": "网飞影视",
       "name": "🌙网飞|影视",
