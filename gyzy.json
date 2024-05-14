@@ -28,7 +28,13 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://4k.953365.cn:8090/xgapp.php/v3/"
-    }, {"key":"T4-剧圈","name":"💖分享剧圈","type":4,"api":"https://catbox.n13.club/t4/juquan.php"},
+    }, {
+		"key": "XBPQ_AT",
+		"name": "💖分享奥特",
+		"type": 3,
+		"api": "csp_XBPQ",
+		"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/XBPQ/分享AT.json"
+	},
      {
       "key": "鸭奈飞1",
       "name": "鸭奈飞",
