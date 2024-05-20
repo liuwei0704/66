@@ -72,6 +72,14 @@
       "quickSearch": 1, 
       "filterable": 1
     },{
+      "key": "YY", 
+      "name": "YY", 
+      "type": 1, 
+      "api": "https://cj.yayazy.net/api.php/provide/vod/from/yym3u8/at/xml", 
+      "searchable": 1, 
+      "quickSearch": 1, 
+      "filterable": 1
+    },{
       "key": "hn", 
       "name": "红牛", 
       "type": 1, 
