@@ -1341,7 +1341,7 @@
             "key": "精品",
             "name": "🔞精品资源",
             "type": 1,
-            "api": "https://www.jingpinx.com//api.php/provide/vod",
+            "api": "https://wwwjingpinx.com/api.php/provide/vod/at/xml",
             "playUrl": "",
             "searchable": 1,
             "quickSearch": 1,
