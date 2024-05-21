@@ -1150,32 +1150,47 @@
       ]
     },
   {      "key": "Itv",      "name": "🥝爱奇艺解析",      "type": 3,      "api": "csp_Itv",      "quickSearch": 1,      "searchable": 1,      "filterable": 1,      "changeable": 0    },    {      "key": "Mtv",      "name": "🍋芒果解析",      "type": 3,      "api": "csp_Mtv",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "changeable": 0    }, 
-
-
 {
-            "key" : "drpy_js_虎牙",
-            "name" : "🦷虎牙直播",
-            "type" : 3,
-            "api" : "https://agit.ai/guot54/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
-            "ext" : "https://agit.ai/guot54/ygbh/raw/branch/master/JS/HY%e7%9b%b4%e6%92%ad.js"
+            "key": "小学课堂",
+            "name": "📚小学┃课堂",
+            "type": 3,
+            "api": "csp_Bili",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/小学课堂.json"
         },
-
-{
-      "key": "csp_XYQBiu_斗鱼",
-      "name": "🐟斗鱼直播",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/XYQ/%e6%96%97%e9%b1%bc%e7%9b%b4%e6%92%ad.json"
-    },
-         {
-            "key" : "drpy_js_兔小贝",
-            "name" : "🎈兔小贝",
-            "type" : 3,
-            "api" : "https://agit.ai/guot54/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
-            "ext" : "https://agit.ai/guot54/ygbh/raw/branch/master/JS/%e5%85%94%e5%b0%8f%e8%b4%9d.js"
+        {
+            "key": "初中课堂",
+            "name": "📚初中┃课堂",
+            "type": 3,
+            "api": "csp_Bili",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/初中课堂.json"
+        },
+        {
+            "key": "高中教育",
+            "name": "📚高中┃课堂",
+            "type": 3,
+            "api": "csp_Bili",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/高中课堂.json"
         },{"key":"虎牙","name":"🔞虎牙采集","type":1,"api":"https://www.huyaapi.com/api.php/provide/vod/from/hym3u8","searchable":1,"quickSearch":1 ,"categories": ["伦理片"]},
 {"key": "非凡资源","name": "🔞非凡资源","type": 1,"api": "http://cj.ffzyapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"playurl":"https://ffzyplayer.com/?url=","categories": ["伦理片"]},
 {"key":"csp_xBPQ_香蕉超清","name":"🏆香蕉超清","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./h/%e9%a6%99%e8%95%89%e8%b6%85%e6%b8%85.json","jar":"./jar/Yoursmile2.jar"},
