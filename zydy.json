@@ -3,7 +3,7 @@
 "sites":[
 {
             "key": "js豆瓣1",
-            "name": "🌈健康教育",
+            "name": "🌈自用搜索",
             "type": 3,
             "api": "./lib/drpy2.min.js",
             "ext": "./lib/douban.js",
@@ -11,8 +11,8 @@
             "quickSearch": 0,
             "filterable": 0
         },
-       {"key":"畅梦","name":"💯健教秒播","type":3,"api":"./lib/drpy2.min.js","ext":"./y/changmeng.js"},
-	{"key":"drpy_js_yt","name":"🌙健教|速播","type":3,"api":"./lib/drpy2.min.js","ext":"./js/yt.js"},
+       {"key":"畅梦","name":"💯自用秒播","type":3,"api":"./lib/drpy2.min.js","ext":"./y/changmeng.js"},
+	{"key":"drpy_js_yt","name":"🌙自用|速播","type":3,"api":"./lib/drpy2.min.js","ext":"./js/yt.js"},
     {
       "key": "可口可乐",
       "name": "♐┃可乐┃4K",
