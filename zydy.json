@@ -3,7 +3,7 @@
 "sites":[
 {
             "key": "js豆瓣1",
-            "name": "🌈自用搜索",
+            "name": "🌈自用筛选",
             "type": 3,
             "api": "./lib/drpy2.min.js",
             "ext": "./lib/douban.js",
