@@ -1205,6 +1205,14 @@
       "searchable": 1, 
       "quickSearch": 1, 
       "filterable": 1
+    },{
+      "key": "shandian", 
+      "name": "色色虎", 
+      "type": 1, 
+      "api": "https://apisesehuzy.com/api.php/provide/vod/", 
+      "searchable": 1, 
+      "quickSearch": 1, 
+      "filterable": 1
     },
     {
       "key": "非凡",
