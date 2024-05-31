@@ -85,7 +85,7 @@
             "key": "阿里影视",
             "name": "🥤阿里影视(聚)",
             "type": 1,
-            "api": "http://aliys.cn:90/api.php/provide/vod/",
+            "api": "https://api.okzy.org/api.php/provide/vod/",
             "searchable": 0,
             "quickSearch": 0
         },{
