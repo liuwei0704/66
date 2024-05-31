@@ -1150,14 +1150,6 @@
       "quickSearch": 1, 
       "filterable": 1
     },{
-      "key": "hy", 
-      "name": "海洋", 
-      "type": 1, 
-      "api": "https://www.seacms.org/zyapi.php", 
-      "searchable": 1, 
-      "quickSearch": 1, 
-      "filterable": 1
-    },{
       "key": "ya", 
       "name": "越爱", 
       "type": 1, 
@@ -1170,22 +1162,6 @@
       "name": "华为吧", 
       "type": 1, 
       "api": "https://hw8.live/api.php/provide/vod", 
-      "searchable": 1, 
-      "quickSearch": 1, 
-      "filterable": 1
-    },{
-      "key": "bbg", 
-      "name": "步步高", 
-      "type": 1, 
-      "api": "https://api.yparse.com/api/json", 
-      "searchable": 1, 
-      "quickSearch": 1, 
-      "filterable": 1
-    },{
-      "key": "42", 
-      "name": "42资源", 
-      "type": 1, 
-      "api": "https://www.42.la/api.php/provide/vod/", 
       "searchable": 1, 
       "quickSearch": 1, 
       "filterable": 1
@@ -1225,7 +1201,7 @@
       "key": "bt", 
       "name": "白兔", 
       "type": 1, 
-      "api": "https://api.btuapi.com/api.php/provide/vod/", 
+      "api": "https://api.btuapi.com/api.php/provide/vod/at/xml", 
       "searchable": 1, 
       "quickSearch": 1, 
       "filterable": 1
