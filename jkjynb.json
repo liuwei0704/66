@@ -1206,7 +1206,7 @@
       "quickSearch": 1, 
       "filterable": 1
     },{
-      "key": "shandian", 
+      "key": "sesehu", 
       "name": "色色虎", 
       "type": 1, 
       "api": "https://apisesehuzy.com/api.php/provide/vod/", 
