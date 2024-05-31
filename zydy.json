@@ -105,6 +105,102 @@
       "filterable": 1,
       "ext": "https://yanetflix.me/api.php/app/"
     },{
+      "key": "ag", 
+      "name": "爱狗", 
+      "type": 1, 
+      "api": "https://api.i2g.cn/api.php/provide/vod/", 
+      "searchable": 1, 
+      "quickSearch": 1, 
+      "filterable": 1
+    },{
+      "key": "sd", 
+      "name": "蜀都", 
+      "type": 1, 
+      "api": "https://tv.69mu.cn/api.php/provide/vod/", 
+      "searchable": 1, 
+      "quickSearch": 1, 
+      "filterable": 1
+    },{
+      "key": "hy", 
+      "name": "海洋", 
+      "type": 1, 
+      "api": "https://www.seacms.org/zyapi.php", 
+      "searchable": 1, 
+      "quickSearch": 1, 
+      "filterable": 1
+    },{
+      "key": "ya", 
+      "name": "越爱", 
+      "type": 1, 
+      "api": "https://caiji.yueai55.cc:2277/yuelove.php/provide/vod/", 
+      "searchable": 1, 
+      "quickSearch": 1, 
+      "filterable": 1
+    },{
+      "key": "hw", 
+      "name": "华为吧", 
+      "type": 1, 
+      "api": "https://hw8.live/api.php/provide/vod", 
+      "searchable": 1, 
+      "quickSearch": 1, 
+      "filterable": 1
+    },{
+      "key": "bbg", 
+      "name": "步步高", 
+      "type": 1, 
+      "api": "https://api.yparse.com/api/json", 
+      "searchable": 1, 
+      "quickSearch": 1, 
+      "filterable": 1
+    },{
+      "key": "42", 
+      "name": "42资源", 
+      "type": 1, 
+      "api": "https://www.42.la/api.php/provide/vod/", 
+      "searchable": 1, 
+      "quickSearch": 1, 
+      "filterable": 1
+    },{
+      "key": "shandian", 
+      "name": "闪电", 
+      "type": 1, 
+      "api": "https://sdzyapi.com/api.php/provide/vod/", 
+      "searchable": 1, 
+      "quickSearch": 1, 
+      "filterable": 1
+    },{
+      "key": "yt", 
+      "name": "影图", 
+      "type": 1, 
+      "api": "https://cj.vodimg.top/api.php/provide/vod", 
+      "searchable": 1, 
+      "quickSearch": 1, 
+      "filterable": 1
+    },{
+      "key": "39", 
+      "name": "39采集", 
+      "type": 1, 
+      "api": "https://www.inmi.app/api.php/provide/vod/", 
+      "searchable": 1, 
+      "quickSearch": 1, 
+      "filterable": 1
+    },{
+      "key": "xm", 
+      "name": "新马", 
+      "type": 1, 
+      "api": "https://www.394tv.com/api.php/provide/vod/", 
+      "searchable": 1, 
+      "quickSearch": 1, 
+      "filterable": 1
+    },{
+      "key": "bt", 
+      "name": "白兔", 
+      "type": 1, 
+      "api": "https://api.btuapi.com/api.php/provide/vod/", 
+      "searchable": 1, 
+      "quickSearch": 1, 
+      "filterable": 1
+    },{
       "key": "XMVideo",
       "name": "🔞熊猫视频",
       "type": 3,
