@@ -1216,7 +1216,7 @@
     },
     {
       "key": "非凡",
-      "name": "🍉非凡",
+      "name": "非凡",
       "type": 0,
       "api": "http://api.ffzyapi.com/api.php/provide/vod/",
       "searchable": 1,
