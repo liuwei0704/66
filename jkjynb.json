@@ -1218,7 +1218,7 @@
       "key": "非凡",
       "name": "非凡",
       "type": 0,
-      "api": "http://api.ffzyapi.com/api.php/provide/vod/",
+      "api": "http://api.ffzyapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "changeable": 1,
       "categories": [
