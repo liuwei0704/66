@@ -31,12 +31,6 @@
     },
      {"key": "PPTV06","name": "💖分享PPTV","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"分类url": "https://www.pptv06.com/vodshow/{cateId}-{area}-------{catePg}---{year}.html","分类": "电影$1#电视剧$2#动漫$4"}},
     {
-		"key": "XBPQ_AT",
-		"name": "💖分享奥特",
-		"type": 3,
-		"api": "csp_XBPQ",
-		"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/XBPQ/分享AT.json"
-	},{
             "key": "卫总影院",
             "name": "🌙卫总|影院",
             "type": 3,
