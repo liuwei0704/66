@@ -1245,10 +1245,9 @@
         },
 	{"key":"努可影院","name":"🔞努可影院","type":3,"api":"csp_XBPQ","jar":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{"数组":"stui-vodlist__thumb lazyload&&</a","图片":"data-original=\"&&\"","图片代理":"1","副标题":"pic-text text-right\">&&</span>","简介":"description\" content=\"&&\"","链接":"href=\"/voddetail/&&.html\"","链接前缀":"https://2n2.abcoob.one/vodplay/","链接后缀":"-1-1.html","跳转播放链接":"urlDecode(var player*url\":\"&&\")","搜索url":"https://2n2.abcoob.one/vodsearch/{wd}-----/page/{pg}.html","分类url":"https://2n2.abcoob.one/vodtype/{cateId}-{catePg}.html;;z","分类":"新品日韩$20#中文字幕$21#短片本土$22#大胸美女$23#剧情暴力$24#制服扮演$25#人妻御姐$26#无码专区$27#动漫卡通$28#明星幻想$29"}},
 	{"key":"虎牙","name":"🔞虎牙采集","type":1,"api":"https://www.huyaapi.com/api.php/provide/vod/from/hym3u8","searchable":1,"quickSearch":1 ,"categories": ["伦理片"]},
-{"key": "非凡资源","name": "🔞非凡资源","type": 1,"api": "http://cj.ffzyapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"playurl":"https://ffzyplayer.com/?url=","categories": ["伦理片"]},
+{"key": "非凡资源","name": "🔞非凡资源","type": 1,"api": "http://api.ffzyapi.com/api.php/provide/vod/at/xml/","searchable": 1,"quickSearch": 1,"playurl":"https://ffzyplayer.com/?url=","categories": ["伦理片"]},
 {"key":"csp_xBPQ_香蕉超清","name":"🏆香蕉超清","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./h/%e9%a6%99%e8%95%89%e8%b6%85%e6%b8%85.json","jar":"./jar/Yoursmile2.jar"},
 	{ "key": "KpgxdyE", "name": "🔞黄AV资源(已修复)", "type": 0, "api": "https://www.pgxdy.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-	{ "key": "(18+)天堂福利", "name": "🔞天堂福利", "type": 0, "api": "https://bttcj.com/inc/sapi.php", "searchable": 1, "quickSearch": 1, "filterable": 0 },
 	{"key": "橘猫资源","name": "🔞橘猫资源","type": 1,"api": "https://to.to-long.com/api.php/provide/vod/", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 	{"key":"雪豹资源","name":"雪豹资源","type":1,"api":"https://api.xbapi.cc/api.php/provide/vod/at/json","searchable":1,"quickSearch":1},
 	{"key":"滴滴资源","name":"滴滴资源","type":1,"api":"https://api.ddapi.cc/api.php/provide/vod/at/json","searchable":1,"quickSearch":1},
@@ -1344,17 +1343,7 @@
                 "分类ID": "/vodtype/&&.html",
                 "分类链接": "https://vip.woaav.online:13097/vodshow/{cateId}--------{catePg}---.html"
             }
-        }, {
-            "key": "csp_XBPQ_疯猫av",
-            "name": "🔞疯猫av",
-            "type": 3,
-            "api": "csp_XBPQ",
-             "jar": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/h/疯猫av.json"
-        },{ "key": "x",
+        }, { "key": "x",
             "name": "🔞x合集",
             "type": 3,
             "changeable": 1,
@@ -1534,14 +1523,7 @@
             "api": "https://apisesehuzy.com/api.php/provide/vod/at/xml",
             "searchable": 1,
             "quickSearch": 1
-        }, {
-            "key": "越南影视",
-            "name": "越南影视",
-            "type": 0,"style":{ "type":"rect", "ratio":1.485 },
-            "api": "https://www.vnzyz.com/api.php/provide/vod/at/xml/",
-            "searchable": 1,
-            "quickSearch": 1
-        },
+        }, 
 	{
       "key": "富二代资源",
       "name": "富二代资源",
@@ -1555,7 +1537,7 @@
             "key": "精品",
             "name": "1精品资源",
             "type": 1,
-            "api": "https://haosezyw9.com/api.php/provide/vod/",
+            "api": "https://haosezyw8.com/api.php/provide/vod/?ac=list",
             "playUrl": "",
             "searchable": 1,
             "quickSearch": 1,
@@ -1732,13 +1714,7 @@
                 "人兽性交"
             ]
         },
-	 {
-            "key": "奥斯卡",
-            "name": "🔞采集.奥斯卡",
-            "type": 1,
-            "api": "https://aosikazy.com/api.php/provide/vod/?ac=list",
-            "searchable": 1
-        }, { 
+	 { 
       "key": "666",
       "name": "🍆撸网666",
       "type": 3,
