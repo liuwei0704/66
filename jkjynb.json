@@ -273,7 +273,7 @@
         {"key": "鸭奶飞4K","name": "💖分享萘飛","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/naifei4K.json"},
         {"key":"aikan","name":"💖分享爱看","type":3,"api":"csp_Ayy","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://152.32.170.60/66666/mao2/raw/branch/main/jar/CZ.txt"},
 	{"key": "csp_日后","name": "🥇三思","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/wanda/4k/-/raw/main/json/348影视.json","jar":"https://jihulab.com/wanda/4k/-/raw/main/jar/yytt.jar"},
-	{"key":"drpy_panghu","name":"胖虎[DR]","type":3,"api":"https://wanjune.github.io/static/tvbox/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/panghu.js"},
+	{"key":"drpy_panghu","name":"胖虎[DR]","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/ph.js"},
 	 {"key":"csp_xpath_6080","name":"视觉[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/6080.json"},
     {"key":"drpy_555","name":"555[DR]","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/555.json"},
     {"key":"drpy_dmxq","name":"大米[DR]","type":3,"api":"https://wanjune.github.io/static/tvbox/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune.github.io/static/tvbox/xpath/hd/dmxq.js"},
