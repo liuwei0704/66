@@ -28,16 +28,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://4k.953365.cn:8090/xgapp.php/v3/"
-    },{
-      "key": "jqq",
-      "name": "🌙剧圈圈｜影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./lib/XBPQ.jar",
-      "ext": {
-        "分类url":"https://www.jqqzx.cc/vodshow/id/{cateId}/page/{catePg}.html",
-        "分类": "电影$dianying#电视剧$juji#综艺$zongyi#动漫$dongman" 
-      }
     },
      {"key": "PPTV06","name": "💖分享PPTV","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"分类url": "https://www.pptv06.com/vodshow/{cateId}-{area}-------{catePg}---{year}.html","分类": "电影$1#电视剧$2#动漫$4"}},
     {
