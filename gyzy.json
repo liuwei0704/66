@@ -11,17 +11,6 @@
             "filterable": 0
         },
        {"key":"畅梦","name":"💯健教专享","type":3,"api":"./lib/drpy2.min.js","ext":"./y/changmeng.js"},
-	{
-      "key": "jqq",
-      "name": "🌙剧圈圈｜影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./lib/XBPQ.jar",
-      "ext": {
-        "分类url":"https://www.jqqzx.cc/vodshow/id/{cateId}/page/{catePg}.html",
-        "分类": "电影$dianying#电视剧$juji#综艺$zongyi#动漫$dongman" 
-      }
-    },
 	{"key":"drpy_js_yt","name":"🌙健教|速播","type":3,"api":"./lib/drpy2.min.js","ext":"./js/yt.js"},
 	{"key":"drpy_dmxq","name":"大米[DR]","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/dmxq.js"},
     {"key": "csp_XBPQ_6V",
