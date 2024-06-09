@@ -1230,32 +1230,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/h/777影院.json","jar":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar"
-        },{"key":"csp_XBPQ_花心小妞","name":"🔞花心小妞","type":3,"api":"csp_XBPQ", "jar": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar","searchable":1,"quickSearch":1,"filterable":1, "ext":{"发布地址":"hxxn3a.top","请求头":"手机","站名":"花心小妞","主页url":"https://hxxn3a.top/gbook/?shouye","直接播放":"1","数组":"stui-vodlist__box&&</li>","标题":"title=\"&&\"","图片":"data-original=\"&&\"","副标题":"<p>&&</p >","链接":"https://hxxn3a.top/vodplay/+href=\"/voddetail/&&.html\"+-1-1.html","线路数组":"layui-btn-normal play-btn&&</a >","播放数组":"group-box bg-card&&</div>","免嗅":"1","搜索url":"https://hxxn3a.top/vodsearch/{wd}----------{pg}---.html","分类url":"https://hxxn3a.top/vodshow/{cateId}--------{catePg}---.html","分类数组":"<li&&</li>","分类标题":">&&</a >","分类ID":"/vodtype/&&.html\""}},  {
-  "key": "小幺女|床吧",
-  "name": "🔞小幺女",
-  "type": 3,
-  "playerType": 2,
-  "api": "csp_XBPQ",
- "jar": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": {
-    "站名": "小幺女",
-    "主页url": "https://xxynhkaa1.buzz/sort/id/245.html",
-    "数组": "class=\"vod_box\">&&</li>",
-    "图片": "url('&&'",
-    "标题": "title=\"&&\"",
-    "链接": "https://xxynhkaa1.buzz/detail+href='/display&&'",
-    "跳转播放链接": "var playUrl = '&&'",
-    "直接播放": "1",
-    "嗅探词": "index.m3u8",
-    "分类数组": "<a&&</a",
-    "分类标题": "target=\"_blank\">&&</a[不包含:<h3>伦理作品</h3>#<h3>成人动漫</h3>#<h3>国产主播</h3>#<h3>自拍专区</h3>]",
-    "分类ID": "href=\"/sort/id/&&.html\"",
-    "分类url": "https://xxynhkaa1.buzz/type/id/{cateId}/{catePg}.html"
-  }
-},
+        },{"key":"csp_XBPQ_花心小妞","name":"🔞花心小妞","type":3,"api":"csp_XBPQ", "jar": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar","searchable":1,"quickSearch":1,"filterable":1, "ext":{"发布地址":"hxxn3a.top","请求头":"手机","站名":"花心小妞","主页url":"https://hxxn3a.top/gbook/?shouye","直接播放":"1","数组":"stui-vodlist__box&&</li>","标题":"title=\"&&\"","图片":"data-original=\"&&\"","副标题":"<p>&&</p >","链接":"https://hxxn3a.top/vodplay/+href=\"/voddetail/&&.html\"+-1-1.html","线路数组":"layui-btn-normal play-btn&&</a >","播放数组":"group-box bg-card&&</div>","免嗅":"1","搜索url":"https://hxxn3a.top/vodsearch/{wd}----------{pg}---.html","分类url":"https://hxxn3a.top/vodshow/{cateId}--------{catePg}---.html","分类数组":"<li&&</li>","分类标题":">&&</a >","分类ID":"/vodtype/&&.html\""}}, 
 	{
             "key": "纤纤影视福利版",
             "name": "🔞纤纤影视H版",
@@ -1320,13 +1295,12 @@
             "ext": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/lib/夜夜新郎.json"
         },
 	 {
-      "key": "JJAiPian",
-      "name": "🔞久久爱片 | 视频",
-      "type": 3,
-      "api": "csp_JJAiPian",
-      "searchable": 1,
-      "filterable": 1,"jar": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/jar/182.jar"
-    },
+            "key": "奶香m",
+            "name": "🔞采集.奶香香",
+            "type": 1,
+            "api": "https://Naixxzy.com/api.php/provide/vod/?ac=list",
+            "searchable": 1
+        },
 {
       "key": "XMVideo",
       "name": "🔞熊猫视频",
