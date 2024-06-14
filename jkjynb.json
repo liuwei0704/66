@@ -36,7 +36,22 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1
-    }, 
+    }, {
+            "key": "csp_Juqq",
+            "name": "⭕┃剧圈┃影视",
+            "type": 3,
+            "playerType": "2",
+            "api": "csp_Juqq"
+        },
+{
+            "key": "csp_Vidhub2",
+            "name": "🎼┃Vid┃影视",
+            "type": 3,
+            "api": "csp_Vidhub2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
      {"key": "PPTV06","name": "💖分享PPTV","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"分类url": "https://www.pptv06.com/vodshow/{cateId}-{area}-------{catePg}---{year}.html","分类": "电影$1#电视剧$2#动漫$4"}},
     {
             "key": "卫总影院",
@@ -270,6 +285,7 @@
     },
 	 {"key":"360_spider","name":"🐞360影视","type":3,"api":"csp_SP360","filterable":1,"quickSearch":1,"searchable":1,"jar": "./jar/7.jar"},
 	{"key":"蛋蛋影视","name":"蛋蛋影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/raw.githubusercontent.com/ltxxjs/TVBox-pizazzgy/main/XBPQ/蛋蛋影视.json"},
+	{"key":"麻衣呀呼","name":"麻衣呀呼","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/raw.githubusercontent.com/ltxxjs/TVBox-pizazzgy/main/XBPQ/麻衣呀呼.json"},
         {"key":"晴天","name":"☀晴天┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://43.154.162.194/ruifenglb_api.php/v1.vod"},
         {"key":"csp_AppMr","name":"👻明明","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1},
         {"key":"csp_Ddys","name":"🐞低端影视","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1,"jar": "./jar/7.jar"},
