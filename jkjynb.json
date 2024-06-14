@@ -36,22 +36,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1
-    }, {
-            "key": "csp_Juqq",
-            "name": "⭕┃剧圈┃影视",
-            "type": 3,
-            "playerType": "2",
-            "api": "csp_Juqq"
-        },
-{
-            "key": "csp_Vidhub2",
-            "name": "🎼┃Vid┃影视",
-            "type": 3,
-            "api": "csp_Vidhub2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+    }, 
      {"key": "PPTV06","name": "💖分享PPTV","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"分类url": "https://www.pptv06.com/vodshow/{cateId}-{area}-------{catePg}---{year}.html","分类": "电影$1#电视剧$2#动漫$4"}},
     {
             "key": "卫总影院",
