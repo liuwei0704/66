@@ -191,6 +191,36 @@
         "分类": "电影$1#纪录片$20#伦理片$21#战争片$12#喜剧片$7#动画片$35#动作片$6#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#电视剧$2#国产剧$25#香港剧$15#泰国剧$14#韩国剧$16#台湾剧$22#日本剧$23#欧美剧$24#海外剧$13#综艺$3#动漫$4"
       }
     },
+	 {
+            "key": "周六影库网",
+            "name": "周六|影库网",
+            "type": 3,
+            "api": "csp_XBPQ",
+			 "jar": "https://gitlab.com/guot55/bh/-/raw/main/pg/lib/XBPQ.jar",
+            "playerType": "2",
+            "ext": {
+                "请求头": "手机",
+                "主页url": "https://v.zlyka1.com/",
+                "数组": "class=\"video-item\">&&</a",
+                "图片": "< img data-original=\"&&\"",
+                "标题": "title=\"&&\"",
+                "副标题": "<div class=\"notes\">&&</div>",
+                "链接": "href=\"&&\"",
+                "简介": "",
+                "线路数组": "data-bs-target=\"#lines-*\"&&</li[排序:最大>>]",
+                "线路标题": "✨宝盒专享✨+aria-selected=\"true\">&&+专线",
+                "播放数组": "class=\"playlist column\">&&</ul>",
+                "播放列表": "<a&&</a",
+                "播放标题": ">&&</a",
+                "播放链接":      "href=\"&&\"",
+              "跳转播放链接": "urlDecode(var player_*\"url\":\"&&\")", 
+              "嗅探词": ".m3u8#https://ho7k.com/xcmfd.php?url=", 
+                "搜索url": "/vodsearch/{wd}----------{pg}---.html",
+                "分类url": "https://v.zlyka1.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html[https://v.zlyka1.com/t/{cateId}.html];;rc",
+                "分类": "电影&电视剧&动漫&综艺&言情片",
+                "分类值": "dianying&lianxuju&dongman&zongyi&yanqingpian"
+            }
+        },
      {"key": "PPTV06","name": "💖分享PPTV","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"分类url": "https://www.pptv06.com/vodshow/{cateId}-{area}-------{catePg}---{year}.html","分类": "电影$1#电视剧$2#动漫$4"}},
     {
             "key": "卫总影院",
