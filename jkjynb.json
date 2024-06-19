@@ -178,14 +178,7 @@
             "api": "https://cj.vodimg.top/api.php/provide/vod/",
             "searchable": 0,
             "quickSearch": 0
-        },{    "key": "puer电影",
-            "name": "💟puer电影",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": {
-"分类url":"http://www.puer720.com/spu/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html;;m"   
-    }
-    },
+        },
         {
             "key": "雨哥影视",
             "name": "🍟雨哥影视(聚)",
@@ -278,7 +271,6 @@
 	 {"key":"360_spider","name":"🐞360影视","type":3,"api":"csp_SP360","filterable":1,"quickSearch":1,"searchable":1,"jar": "./jar/7.jar"},
 	{"key":"cjy50","name":"爱坤资源","type":1,"api":"https://ikunzyapi.com/api.php/provide/vod/","searchable":1,"recordable":0},
 	{"key":"cjy74","name":"影图","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"recordable":0},
-	{    "key": "剧圈圈电影","name": "💟剧圈圈电影 ", "type": 3, "api": "csp_XBPQ", "ext": {"分类url":"https://www.jqqzx.cc/vodshow/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html;;m" } },
 	{"key":"蛋蛋影视","name":"蛋蛋影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/raw.githubusercontent.com/ltxxjs/TVBox-pizazzgy/main/XBPQ/蛋蛋影视.json"},
 	{"key":"麻衣呀呼","name":"麻衣呀呼","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/raw.githubusercontent.com/ltxxjs/TVBox-pizazzgy/main/XBPQ/麻衣呀呼.json"},
         {"key":"晴天","name":"☀晴天┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://43.154.162.194/ruifenglb_api.php/v1.vod"},
