@@ -12,7 +12,7 @@
         },
 	{"key":"drpy_555","name":"555[DR]","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/555.json"},
        {"key":"畅梦","name":"💯健教专享","type":3,"api":"./lib/drpy2.min.js","ext":"./y/changmeng.js"},
-	{"key":"drpy_js_yt","name":"🌙健教|速播","type":3,"api":"./lib/drpy2.min.js","ext":"./js/yt.js"},
+	{"key":"drpy_555","name":"健教速播","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/555.json"},,
     {"key": "csp_XBPQ_6V",
   "name": "🌙健教4K",
   "type": 3,
