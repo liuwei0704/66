@@ -178,7 +178,14 @@
             "api": "https://cj.vodimg.top/api.php/provide/vod/",
             "searchable": 0,
             "quickSearch": 0
-        },
+        },{    "key": "puer电影",
+            "name": "💟puer电影",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+"分类url":"http://www.puer720.com/spu/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html;;m"   
+    }
+    },
         {
             "key": "雨哥影视",
             "name": "🍟雨哥影视(聚)",
