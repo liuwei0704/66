@@ -1251,7 +1251,7 @@
             "style": {
                 "type": "rect",
                 "ratio": 1.33
-            }, {"key":"drpy_js_Pornhub_密_.js","name":"Pornhub_密_.js","type":3,"api":"https://gitlab.com/guot55/bh/-/raw/main/js/drpy2.min.js","ext":"https://gitlab.com/guot55/bh/-/raw/main/js/Pornhub_密_.js", "quickSearch":1, "changeable":1, "timeout":60
+            },  {"key":"drpy_js_Pornhub_密_.js","name":"Pornhub_密_.js","type":3,"api":"https://gitlab.com/guot55/bh/-/raw/main/js/drpy2.min.js","ext":"https://gitlab.com/guot55/bh/-/raw/main/js/Pornhub_密_.js", "quickSearch":1, "changeable":1, "timeout":60
                 }, {"key":"drpy_js_R18撸_密_.js","name":"R18撸_密_.js","type":3,"api":"https://gitlab.com/guot55/bh/-/raw/main/js/drpy2.min.js","ext":"https://gitlab.com/guot55/bh/-/raw/main/js/R18撸_密_.js", "quickSearch":1, "changeable":1, "timeout":60
                 }, {"key":"drpy_js_一点视频_密_.js","name":"一点视频_密_.js","type":3,"api":"https://gitlab.com/guot55/bh/-/raw/main/js/drpy2.min.js","ext":"https://gitlab.com/guot55/bh/-/raw/main/js/一点视频_密_.js", "quickSearch":1, "changeable":1, "timeout":60
                 }, {"key":"drpy_js_乐草TV_密_.js","name":"乐草TV_密_.js","type":3,"api":"https://gitlab.com/guot55/bh/-/raw/main/js/drpy2.min.js","ext":"https://gitlab.com/guot55/bh/-/raw/main/js/乐草TV_密_.js", "quickSearch":1, "changeable":1, "timeout":60
@@ -1274,13 +1274,7 @@
                 },{"key":"drpy_js_草莓秒播_密_.js","name":"草莓秒播_密_.js","type":3,"api":"https://gitlab.com/guot55/bh/-/raw/main/js/drpy2.min.js","ext":"https://gitlab.com/guot55/bh/-/raw/main/js/草莓秒播_密_.js", "quickSearch":1, "changeable":1, "timeout":60
                 },{"key":"drpy_js_黑料不打烊_密_.js","name":"黑料不打烊_密_.js","type":3,"api":"https://gitlab.com/guot55/bh/-/raw/main/js/drpy2.min.js","ext":"https://gitlab.com/guot55/bh/-/raw/main/js/黑料不打烊_密_.js", "quickSearch":1, "changeable":1, "timeout":60
                 },
-            "ext": {
-                "分类url": "https://p.pwxxx1.fun/pwxxx/vod/type/id/{cateId}/page/{catePg}.html",
-                "线路数组": "<ul class=\"stui-play__list clearfix\">&&/ul>",
-                "分类": "国产大区&亚洲大区&欧美大区&其它视频&网曝吃瓜&国产精品&自拍偷拍&传媒出品&网红主播&大神探花&抖阴视频&国产其它&亚洲精品&亚洲无码&亚洲有码&中文字幕&萝莉少女&人妻熟妇&韩国主播&亚洲其它&欧美精品&欧美无码&欧美另类&欧美其它&明星换脸&AV解说&三级伦理&成人动漫",
-                "分类值": "1&2&3&4&6&7&8&9&10&32&27&11&12&13&14&15&16&30&31&20&21&22&23&24&25&26&28&29"
-            }
-        },
+
 	{
             "key": "csp_XYQHiker_777影院",
             "name": "🔞777影院",
