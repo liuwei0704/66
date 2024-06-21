@@ -1093,7 +1093,7 @@
       "key": "sd", 
       "name": "蜀都", 
       "type": 1, 
-      "api": "https://tv.69mu.cn/api.php/provide/vod/", 
+      "api": "https://api.okzy.org/api.php/provide/vod/", 
       "searchable": 1, 
       "quickSearch": 1, 
       "filterable": 1
