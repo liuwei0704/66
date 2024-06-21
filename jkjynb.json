@@ -1099,9 +1099,9 @@
       "filterable": 1
     },{
       "key": "ya", 
-      "name": "ck", 
+      "name": "kk1", 
       "type": 1, 
-      "api": "https://ckzy.me/api.php/provide/vod/", 
+      "api": "https://kkzy.me/api.php/provide/vod/", 
       "searchable": 1, 
       "quickSearch": 1, 
       "filterable": 1
