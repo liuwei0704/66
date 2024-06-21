@@ -1091,7 +1091,7 @@
       "filterable": 1
     },{
       "key": "sd", 
-      "name": "蜀都", 
+      "name": "ok", 
       "type": 1, 
       "api": "https://api.okzy.org/api.php/provide/vod/", 
       "searchable": 1, 
