@@ -1101,7 +1101,7 @@
       "key": "ya", 
       "name": "kk1", 
       "type": 1, 
-      "api": "https://kkzy.me/api.php/provide/vod/", 
+      "api": "https://kkzy.me/api.php/provide/vod/?ac=list", 
       "searchable": 1, 
       "quickSearch": 1, 
       "filterable": 1
