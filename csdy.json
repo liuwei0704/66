@@ -247,26 +247,7 @@
                 "分类url": "https://wzznl.buzz/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&area={area}&year={year}&letter=&yuyan={lang}&state=&money=&ver=&jq=",
                 "分类": "电影$1#电视剧$2#综艺$3#动漫$4#动作片$5#爱情片$6#科幻片$7#恐怖片$8#战争片$9#喜剧片$10#纪录片$11#剧情片$12#大陆剧$13#港台剧$14#欧美剧$15#日韩剧$16"
             }
-        },{
-			"key": "haokongbu",
-			"name": "👿好恐怖|磁力|XBPQ",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1,
-			"ext": {
-				"主页url": "https://m.haokongbu.top/",
-				"分类url": "https://m.haokongbu.top/{cateId}/index_{catePg}.html[https://m.haokongbu.top/{cateId}/index.html]",
-				"分类": "国产剧$guochanju#港剧$gangju#动作片$dongzuopian#喜剧片$xijupian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#战争片$zhanzhengpian#剧情片$juqingpian#微电影$weidianying#记录片$m_jlp#高清$gaoqing#动漫$donghuapian#台湾$taiwanju#日本$riju#韩国$hanju#欧美$oumeiju#泰国$taiguoju#海外$haiwaiju",
-				"副标题": "class=\"typeset\"&&</i>",
-				"起始页": 2,
-				"倒序": 1,
-				"播放数组": "下载地址</h2>&&</ul>[不包含:网盘]",
-				"播放列表":"<ul>&&</div>[包含:magnet]"
-			},
-			"jar": "./jar/XBPQ.jar"
-		},
+        },
     {
       "key": "saohuo",
       "name": "🌙骚火┃电影",
