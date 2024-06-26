@@ -248,6 +248,26 @@
                 "分类": "电影$1#电视剧$2#综艺$3#动漫$4#动作片$5#爱情片$6#科幻片$7#恐怖片$8#战争片$9#喜剧片$10#纪录片$11#剧情片$12#大陆剧$13#港台剧$14#欧美剧$15#日韩剧$16"
             }
         },
+	 {
+      "key": "晨光电影",
+      "name": "晨光|电影网",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://gitlab.com/guot55/bh/-/raw/main/pg/lib/XBPQ.jar",
+      "playerType": 2,
+      "ext": {
+        "简介": "✨宝盒提醒:请勿相信影片里的广告内容!✨+>white-space: initial;\">&&</div>",
+        "数组": "fed-list-item fed-padding fed-col-xs4 fed-col-sm3 fed-col-md2\">&&</li>",
+        "图片": "data-original=\"&&\"",
+        "标题": "fed-visible fed-part-eone\" href=*>&&</a",
+        "副标题": "fed-text-white fed-text-center\">&&</span>",
+        "线路数组": "fed-drop-btns fed-padding fed-col-xs3 fed-col-md2\">&&</li>",
+        "线路标题": "✨宝盒专享✨+>&&<",
+        "跳转播放链接": "urlDecode(var player_*\"url\":\"&&\")",
+        "分类url": "https://www.cgdyw.net/s/{cateId}/area/{area}/page/{catePg}/year/{year}.html",
+        "分类": "短剧$duanju#电视剧$lianxuju#电影$dianying#动漫$dongman#综艺$zongyi"
+      }
+    },
     {
       "key": "saohuo",
       "name": "🌙骚火┃电影",
