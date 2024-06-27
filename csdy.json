@@ -259,7 +259,7 @@
       "jar": "./lib/XBPQ.jar",
       "ext": {
         "分类url": "https://www.qyzf88.com/qyvodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
-        "分类": "电影$1#电视剧$2#动漫$4#综艺$3",
+        "分类": "电影$1#爱情片$8#电视剧$2#动漫$4#综艺$3",
         "副标题": "class=\"pic-text text-right\"&&</span>",
         "简介": "+剧情介绍：&&</p >"
       }
