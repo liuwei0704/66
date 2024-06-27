@@ -328,7 +328,7 @@
         "线路标题": "✨宝盒专享✨+>&&<",
         "跳转播放链接": "urlDecode(var player_*\"url\":\"&&\")",
         "分类url": "https://www.cgdyw.net/s/{cateId}/area/{area}/page/{catePg}/year/{year}.html",
-        "分类": "短剧$duanju#电视剧$lianxuju#电影$dianying#动漫$dongman#综艺$zongyi"
+        "分类": "短剧$duanju#电视剧$lianxuju#电影$dianying#言情片$yanqingpian#动漫$dongman#综艺$zongyi"
       }
     },
      {
