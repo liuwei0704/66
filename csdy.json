@@ -285,7 +285,6 @@
         "分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi"
       }
     },
-     {"key": "PPTV06","name": "💖分享PPTV","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"分类url": "https://www.pptv06.com/vodshow/{cateId}-{area}-------{catePg}---{year}.html","分类": "电影$1#电视剧$2#动漫$4"}},
     {
             "key": "卫总影院",
             "name": "🌙卫总|影院",
@@ -499,14 +498,6 @@
                 "欧美动漫"
             ]
         },{
-      "key": "heimuer",
-      "name": "💖分享黑蘑",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/分享heimuer.json"
-    },{
       "key": "网飞影视",
       "name": "🌙网飞|影视",
       "type": 3,
@@ -519,15 +510,7 @@
             "api": "./lib/drpy2.min.js",
             "ext": "./lib/mr.js"
         },
-   {
-      "key": "rarbt",
-      "name": "💖分享rarbt",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "./lib/rarbt.json"
-    }, {
+  {
       "key": "XBPQ_黑狐影院",
       "name": "黑狐影院|XBPQ",
       "type": 3,
