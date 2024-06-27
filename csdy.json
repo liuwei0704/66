@@ -332,12 +332,13 @@
         "分类": "短剧$duanju#电视剧$lianxuju#电影$dianying#动漫$dongman#综艺$zongyi"
       }
     },
-    {
+     {
       "key": "saohuo",
-      "name": "🌙骚火┃电影",
+      "name": "🌙️骚火┃电影",
       "type": 3,
       "searchable": 1,
       "changeable": 1,
+      "jar": "https://gitlab.com/guot55/bh/-/raw/main/pg/yg.jar",
       "api": "csp_XBPQ",
       "ext": {
         "嗅探词": ".m3u8#.mp4#.m3u8?#freeok.mp4",
