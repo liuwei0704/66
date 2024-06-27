@@ -11,15 +11,24 @@
             "filterable": 0
         },
        {"key":"畅梦","name":"💯健教秒播","type":3,"api":"./lib/drpy2.min.js","ext":"./y/changmeng.js"},
-	{"key":"drpy_js_yt","name":"🌙健教|速播","type":3,"api":"./lib/drpy2.min.js","ext":"./js/yt.js"},
-    {"key": "csp_XBPQ_6V",
-  "name": "🌙健教4K",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext":"./h/6v.json"},{
+	 {
+      "key": "drpy_js_荐片",
+      "name": "荐片|优质",
+      "type": 3,
+      "api": "https://gitlab.com/guot55/bh/-/raw/main/lib/drpy2.min.js",
+      "ext": "https://gitlab.com/guot55/bh/-/raw/main/js/jp.js"
+    },
+    {
+      "key": "csp_LiteApple",
+      "name": "苹果┃影视",
+      "type": 3,
+      "playerType": "2",
+      "api": "csp_LiteApple",
+      "jar": "https://gitlab.com/guot55/bh/-/raw/main/pg/lib/ap.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },{
       "key": "可口可乐",
       "name": "♐┃可乐┃4K",
       "type": 3,
