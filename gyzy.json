@@ -38,16 +38,23 @@
       "changeable": 1,
       "ext": "./lib/rarbt.json"
     },
-     {
-      "key": "鸭奈飞1",
-      "name": "鸭奈飞",
+{
+      "key": "drpy_js_荐片",
+      "name": "荐片|优质",
       "type": 3,
-      "api": "csp_AppYsV2",
+      "api": "https://gitlab.com/guot55/bh/-/raw/main/lib/drpy2.min.js",
+      "ext": "https://gitlab.com/guot55/bh/-/raw/main/js/jp.js"
+    },
+    {
+      "key": "csp_LiteApple",
+      "name": "苹果┃影视",
+      "type": 3,
+      "playerType": "2",
+      "api": "csp_LiteApple",
+      "jar": "https://gitlab.com/guot55/bh/-/raw/main/pg/lib/ap.jar",
       "searchable": 1,
       "quickSearch": 1,
-      "jar": "https://agit.ai/smy/zy/raw/branch/master/JAR/c.txt;md5;bb155c3f0133bbce4756ad52003f5968",
-      "filterable": 1,
-      "ext": "https://yanetflix.me/api.php/app/"
+      "filterable": 1
     },{
       "key": "狐狸",
       "name": "狐狸",
@@ -130,15 +137,6 @@
             "api": "./lib/drpy2.min.js",
             "ext": "./lib/mr.js"
         },{
-      "key": "csp_黑狐",
-      "name": "🖤黑狐影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./a/黑狐影视.json"
-    },{
       "key": "csp_威士",
       "name": "🎉威士影视",
       "type": 3,
@@ -437,16 +435,6 @@
 {"key": "csp_日后","name": "🥇三思","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/wanda/4k/-/raw/main/json/348影视.json","jar":"https://jihulab.com/wanda/4k/-/raw/main/jar/yytt.jar"},
         {"key":"晴天","name":"☀晴天┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://43.154.162.194/ruifenglb_api.php/v1.vod"},
         {"key":"csp_AppMr","name":"👻明明","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1},
-	{
-            "key": "csp_XBPQ_lz",
-            "name": "┃黑乎┃影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/黑乎影视.json"
-      },
 {
         "key": "csp_xBPQ_qixing",
         "name": "┃七新┃影视",
