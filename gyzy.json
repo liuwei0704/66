@@ -38,6 +38,17 @@
       "changeable": 1,
       "ext": "./lib/rarbt.json"
     },
+	{
+      "key": "鸭奈飞1",
+      "name": "鸭奈飞",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "jar": "https://agit.ai/smy/zy/raw/branch/master/JAR/c.txt;md5;bb155c3f0133bbce4756ad52003f5968",
+      "filterable": 1,
+      "ext": "https://yanetflix.me/api.php/app/"
+    },
 {
       "key": "drpy_js_荐片",
       "name": "荐片|优质",
