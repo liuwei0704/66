@@ -222,6 +222,25 @@
       }
     },
 	{
+      "key": "歪影🏮秒播",
+      "name": "歪影|秒播",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://gitlab.com/guot55/bh/-/raw/main/pg/lib/XBPQ.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "简介": "健教提醒您,请勿相信影片中的广告，以免上当受骗！++module-info-introduction-content\">&&</div>",
+        "导演": "健教TV",
+        "主演": "主演：&&</div>",
+        "线路数组": "data-dropdown-value=&&</div>[不包含:SD源#BD源#TK源#UK源#WJ源#BJ源#HN源]",
+        "线路标题": "健教专享",
+        "分类url": "https://waipian14.com/show-{cateId}-{area}-{by}-{class}-----{catePg}---{year}/;;am0k",
+        "分类": "电影$dianying#电视剧$juji#综艺$zongyi#动漫$dongman#纪录片$jilupian"
+      }
+    },
+	{
       "key": "白嫖者",
       "name": "白飘|影视",
       "type": 3,
