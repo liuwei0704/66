@@ -201,36 +201,6 @@
       }
     },
 	 {
-            "key": "周六影库网",
-            "name": "周六|影库网",
-            "type": 3,
-            "api": "csp_XBPQ",
-			 "jar": "https://gitlab.com/guot55/bh/-/raw/main/pg/lib/XBPQ.jar",
-            "playerType": "2",
-            "ext": {
-                "请求头": "手机",
-                "主页url": "https://v.zlyka1.com/",
-                "数组": "class=\"video-item\">&&</a",
-                "图片": "< img data-original=\"&&\"",
-                "标题": "title=\"&&\"",
-                "副标题": "<div class=\"notes\">&&</div>",
-                "链接": "href=\"&&\"",
-                "简介": "",
-                "线路数组": "data-bs-target=\"#lines-*\"&&</li[排序:最大>>]",
-                "线路标题": "✨宝盒专享✨+aria-selected=\"true\">&&+专线",
-                "播放数组": "class=\"playlist column\">&&</ul>",
-                "播放列表": "<a&&</a",
-                "播放标题": ">&&</a",
-                "播放链接":      "href=\"&&\"",
-              "跳转播放链接": "urlDecode(var player_*\"url\":\"&&\")", 
-              "嗅探词": ".m3u8#https://ho7k.com/xcmfd.php?url=", 
-                "搜索url": "/vodsearch/{wd}----------{pg}---.html",
-                "分类url": "https://v.zlyka1.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html[https://v.zlyka1.com/t/{cateId}.html];;rc",
-                "分类": "电影&电视剧&动漫&综艺&言情片",
-                "分类值": "dianying&lianxuju&dongman&zongyi&yanqingpian"
-            }
-        },
-	 {
       "key": "农民❤️无广",
       "name": "农民|影视",
       "type": 3,
