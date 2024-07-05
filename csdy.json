@@ -29,6 +29,12 @@
       "quickSearch": 1,
       "filterable": 1
     },{
+      "key": "比特",
+      "name": "✌️️┃比特┃影视",
+      "type": 3,
+      "api": "csp_Bttwo"
+    },
+	{
       "key": "可口可乐",
       "name": "♐┃可乐┃4K",
       "type": 3,
