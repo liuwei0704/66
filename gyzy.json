@@ -39,6 +39,22 @@
       "ext": "./lib/rarbt.json"
     },
 	{
+			"key": "csp_Wexliyuan",
+			"name": "🎪看呗┃戏曲",
+			"type": 3,
+			"api": "csp_Wexliyuan",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 2,
+			"style": {
+				"type": "rect",
+				"ratio": 2
+			},
+			"jar": "https://gitlab.com/kerkier/yhb/-/raw/main/jar/ll.jar;md5;abd7de963094093f674c391183001b3a"
+		},
+
+	{
       "key": "鸭奈飞1",
       "name": "鸭奈飞",
       "type": 3,
