@@ -12,12 +12,12 @@
         },
        {"key":"畅梦","name":"💯健教秒播","type":3,"api":"./lib/drpy2.min.js","ext":"./y/changmeng.js"},
 	{"key":"drpy_js_yt","name":"🌙健教|速播","type":3,"api":"./lib/drpy2.min.js","ext":"./js/yt.js"},
-	{
+	 {
       "key": "drpy_js_荐片",
       "name": "荐片|优质",
       "type": 3,
-      "api": "https://gitlab.com/guot55/bh/-/raw/main/lib/drpy2.min.js",
-      "ext": "https://gitlab.com/guot55/bh/-/raw/main/js/jp.js"
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/lib/drpy2.min.js",
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/js/jp.js"
     },
     {
       "key": "csp_LiteApple",
@@ -25,7 +25,7 @@
       "type": 3,
       "playerType": "2",
       "api": "csp_LiteApple",
-      "jar": "https://gitlab.com/guot55/bh/-/raw/main/pg/lib/ap.jar",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/lib/ap.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
