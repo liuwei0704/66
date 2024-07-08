@@ -29,6 +29,16 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },{
+      "key": "jqq",
+      "name": "🌙剧圈圈｜影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/lib/XBPQ.jar",
+      "ext": {
+        "分类url":"https://www.jqqzx.cc/vodshow/id/{cateId}/page/{catePg}.html",
+        "分类": "电影$dianying#电视剧$juji#综艺$zongyi#动漫$dongman" 
+      }
     },
     {"key": "csp_XBPQ_6V",
   "name": "🌙健教4K",
