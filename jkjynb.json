@@ -48,7 +48,7 @@
       "ext": "http://4k.953365.cn:8090/xgapp.php/v3/"
     }, {"key":"快看影视","name":"🌙快看┃影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/lib/o.jar"},
 	{"key":"两个磁力","name":"🌙两个┃影视","type":3,"api":"csp_Wexbttwo","searchable":1,"changeable":1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/lib/o.jar"},
-	{"key":"机器人","name":"🌙机器┃影视","type":3,"api":"csp_Ikanbot","jar": "./lib/o.jar","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://v.aikanbot.com"},
+	{"key":"机器人","name":"🌙机器┃影视","type":3,"api":"csp_Ikanbot","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/lib/o.jar","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://v.aikanbot.com"},
      {"key": "PPTV06","name": "💖分享PPTV","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"分类url": "https://www.pptv08.com/vodshow/{cateId}-{area}-------{catePg}---{year}.html","分类": "电影$1#电视剧$2#动漫$4"}},
     {
             "key": "卫总影院",
