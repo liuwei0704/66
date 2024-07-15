@@ -39,20 +39,15 @@
       "ext": "./lib/rarbt.json"
     },
 	{
-			"key": "csp_Wexliyuan",
-			"name": "🎪健教┃戏曲",
-			"type": 3,
-			"api": "csp_Wexliyuan",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 2,
-			"style": {
-				"type": "rect",
-				"ratio": 2
-			},
-			"jar": "https://gitlab.com/kerkier/yhb/-/raw/main/jar/ll.jar;md5;7d529dc73079606268b3885dd814b79c"
-		},
+      "key": "戏曲杂苑",
+      "name": "🅱戏曲杂苑",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://py.nxog.eu.org/proxy/https://raw.githubusercontent.com/guot55/yg/main/a/哔哩戏曲.json"
+    },
  {
       "key": "saohuo",
       "name": "🌙骚火┃电影",
