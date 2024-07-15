@@ -40,7 +40,7 @@
     },
 	{
       "key": "戏曲杂苑",
-      "name": "🅱戏曲杂苑",
+      "name": "戏曲杂苑",
       "type": 3,
       "api": "csp_Bili",
       "jar": "https://py.nxog.eu.org/proxy/https://raw.githubusercontent.com/guot55/yg/main/lib/o.jar",
