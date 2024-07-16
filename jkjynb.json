@@ -35,6 +35,7 @@
       "name": "看一看影视(XYQH)",
       "type": 3,
       "api": "csp_XYQHiker",
+      "jar": "./custom_spider.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
