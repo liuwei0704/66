@@ -12,7 +12,6 @@
         },
        {"key":"畅梦","name":"💯健教秒播","type":3,"api":"./lib/drpy2.min.js","ext":"./y/changmeng.js"},
 	{"key":"drpy_js_yt","name":"🌙健教|速播","type":3,"api":"./lib/drpy2.min.js","ext":"./js/yt.js"},
-	{ "key": "kk", "name": "华人┃可可", "type": 3, "searchable": 1, "changeable": 1, "jar": "./lib/XBPQ.jar", "api": "csp_XBPQ", "ext": "./lib/kk.json" },
 	 {
       "key": "drpy_js_荐片",
       "name": "荐片|优质",
