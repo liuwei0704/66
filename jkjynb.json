@@ -1374,6 +1374,13 @@
             "api": "https://Naixxzy.com/api.php/provide/vod/?ac=list",
             "searchable": 1
         }, 
+	{
+            "key": "精品m",
+            "name": "🔞精品x",
+            "type": 1,
+            "api": "https://www.jingpinx.com/api.php/provide/vod/?ac=list",
+            "searchable": 1
+        }, 
 {
       "key": "XMVideo",
       "name": "🔞熊猫视频",
