@@ -1897,7 +1897,7 @@
             "key": "乐播",
             "name": "️🔞乐播采集",
             "type": 1,
-            "api": "https://lbapi9.com/api.php/provide/vod/",
+            "api": "https://py.nxog.eu.org/proxy/https://lbapi9.com/api.php/provide/vod/",
             "playUrl": "",
             "searchable": 1,
             "quickSearch": 1,
