@@ -1845,7 +1845,7 @@
             "key": "玉兔专场",
             "name": "🔞玉兔采集",
             "type": 1,
-            "api": "https://apiyutu.com/api.php/provide/vod/",
+            "api": "https://py.nxog.eu.org/proxy/https://apiyutu.com/api.php/provide/vod/",
             "playUrl": "",
             "searchable": 1,
             "quickSearch": 1,
