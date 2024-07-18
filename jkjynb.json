@@ -1128,7 +1128,7 @@
       "key": "sd", 
       "name": "ok", 
       "type": 1, 
-      "api": "https://api.okzy.org/api.php/provide/vod/", 
+      "api": "https://py.nxog.eu.org/proxy/https://api.okzy.org/api.php/provide/vod/", 
       "searchable": 1, 
       "quickSearch": 1, 
       "filterable": 1
@@ -1168,7 +1168,7 @@
       "key": "39", 
       "name": "39采集", 
       "type": 1, 
-      "api": "https://www.inmi.app/api.php/provide/vod/", 
+      "api": "https://py.nxog.eu.org/proxy/https://www.inmi.app/api.php/provide/vod/", 
       "searchable": 1, 
       "quickSearch": 1, 
       "filterable": 1
