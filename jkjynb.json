@@ -134,6 +134,14 @@
       "quickSearch": 1, 
       "filterable": 1
     },{
+      "key": "th", 
+      "name": "18禁桃花", 
+      "type": 1, 
+      "api": "https://thzy1.me/api.php/provide/vod/", 
+      "searchable": 1, 
+      "quickSearch": 1, 
+      "filterable": 1
+    },{
       "key": "牛Y", 
       "name": "牛Y", 
       "type": 1, 
