@@ -20,8 +20,8 @@
     "分类名称": "电影&电视剧&综艺&动漫",
     "分类名称替换词": "dianying&dianshiju&zongyi&dongman",
     "筛选数据": "ext",
-    "筛选子分类名称": "动作片&喜剧片&爱情片&科幻片&恐怖片&剧情片&战争片&纪录片||国产剧&港台剧&日韩剧&欧美剧",
-    "筛选子分类替换词": "dongzuopian&xijupian&aiqingpian&kehuanpian&kongbupian&juqingpian&zhanzhengpian&jilupian||guochanju&gangtaiju&rihanju&oumeiju",
+    "筛选子分类名称": "动作片&喜剧片&爱情片&科幻片&恐怖片&剧情片&战争片&纪录片&理论片||国产剧&港台剧&日韩剧&欧美剧",
+    "筛选子分类替换词": "dongzuopian&xijupian&aiqingpian&kehuanpian&kongbupian&juqingpian&zhanzhengpian&jilupian&lilun||guochanju&gangtaiju&rihanju&oumeiju",
     
     "分类截取模式": "1",
     "分类列表数组规则": "body&&.fed-list-item:has(.fed-list-remarks)",
