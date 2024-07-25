@@ -39,6 +39,16 @@
       "ext": "./lib/rarbt.json"
     },
 	{
+      "key": "csp_超前",
+      "name": "🍥超前点播",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./a/超前B站.json","jar": "./jar/4k.jar"
+    },
+	{
       "key": "戏曲杂苑",
       "name": "戏曲杂苑",
       "type": 3,
