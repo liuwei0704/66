@@ -691,7 +691,7 @@
       "filterable": 1,
       "ext": "./a/TVB云播.json"
     },
-   {"key":"农民影视","name":"农民影视","type":3,"api":"csp_WexNmys","jar":"./o.jar","searchable":1,"changeable":1},
+   {"key":"农民影视","name":"农民影视","type":3,"api":"csp_WexNmys","jar":"https://git.acwing.com/lw0704/66/-/raw/master/lib/o.jar","searchable":1,"changeable":1},
     {
       "key": "csp_疯狗",
       "name": "🐕疯狗影视",
