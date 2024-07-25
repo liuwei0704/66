@@ -13,6 +13,17 @@
        {"key":"畅梦","name":"💯健教秒播","type":3,"api":"./lib/drpy2.min.js","ext":"./y/changmeng.js"},
 	{"key":"drpy_js_yt","name":"🌙健教|速播","type":3,"api":"./lib/drpy2.min.js","ext":"./js/yt.js"},
 	{"key": "csp_XYQHiker_电影牛影院","name":"电影牛影院","type":3,"api":"csp_XYQHiker","jar": "./custom_spider.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/电影牛影院.json"},
+	{"key":"看看影视","name":"看看┃影视","type":3,"api":"csp_WebIV","jar":"https://git.acwing.com/lw0704/66/-/raw/master/lib/o.jar","searchable":1,"quickSearch":1,"filterable":0},
+	{"key":"农民影视","name":"农民影视","type":3,"api":"csp_WexNmys","jar":"https://git.acwing.com/lw0704/66/-/raw/master/lib/o.jar","searchable":1,"changeable":1},
+	{"key":"南瓜影视","name":"南瓜┃影视","type":3,"api":"csp_WexNgys","jar":"https://git.acwing.com/lw0704/66/-/raw/master/lib/o.jar","searchable":1,"quickSearch":1,"filterable":0},
+	{"key":"愉悦影视","name":"愉悦┃影视","type":3,"api":"csp_Wexyuyueys","jar":"https://git.acwing.com/lw0704/66/-/raw/master/lib/o.jar","searchable":1,"changeable":1},
+	{"key":"FreeOK","name":"富瑞┃影视","type":3,"api":"csp_FreeOK","jar":"https://git.acwing.com/lw0704/66/-/raw/master/lib/o.jar","searchable":1,"quickSearch":1,"filterable":1},
+	{"key":"桃子┃影视","name":"桃子┃影视","type":3,"api":"csp_Taozi","jar":"https://git.acwing.com/lw0704/66/-/raw/master/lib/o.jar","searchable":1,"quickSearch":1,"filterable":1},
+	{"key":"笙歌┃影视","name":"笙歌┃影视","type":3,"api":"csp_AppYY","jar":"https://git.acwing.com/lw0704/66/-/raw/master/lib/o.jar","searchable":1,"quickSearch":0,"changeable":0},
+	{"key":"全网┃影视","name":"全网┃影视","type":3,"api":"csp_Quanwk","jar":"https://git.acwing.com/lw0704/66/-/raw/master/lib/o.jar","searchable":1,"quickSearch":1,"filterable":1},
+	{"key":"最新┃影视","name":"最新┃影视","type":3,"api":"csp_Zx1080","jar":"https://git.acwing.com/lw0704/66/-/raw/master/lib/o.jar","searchable":1,"quickSearch":1,"filterable":1},
+	{"key":"剧圈影视","name":"剧圈┃影视","type":3,"api":"csp_Juqq","jar":"https://git.acwing.com/lw0704/66/-/raw/master/lib/o.jar","searchable":1,"quickSearch":1,"filterable":1},
+	{"key":"毛驴影视","name":"毛驴┃影视","type":3,"api":"csp_MaoLv","jar":"https://git.acwing.com/lw0704/66/-/raw/master/lib/o.jar","searchable":1,"quickSearch":1,"filterable":1},
 	 {
       "key": "drpy_js_荐片",
       "name": "荐片|优质",
@@ -691,7 +702,6 @@
       "filterable": 1,
       "ext": "./a/TVB云播.json"
     },
-   {"key":"农民影视","name":"农民影视","type":3,"api":"csp_WexNmys","jar":"https://git.acwing.com/lw0704/66/-/raw/master/lib/o.jar","searchable":1,"changeable":1},
     {
       "key": "csp_疯狗",
       "name": "🐕疯狗影视",
