@@ -17,7 +17,6 @@
 	{"key":"南瓜影视","name":"南瓜┃影视","type":3,"api":"csp_WexNgys","jar":"./lib/o.jar","searchable":1,"quickSearch":1,"filterable":0},
 	{"key":"愉悦影视","name":"愉悦┃影视","type":3,"api":"csp_Wexyuyueys","jar":"./lib/o.jar","searchable":1,"changeable":1},
 	{"key":"FreeOK","name":"富瑞┃影视","type":3,"api":"csp_FreeOK","jar":"./lib/o.jar","searchable":1,"quickSearch":1,"filterable":1},
-	{"key":"剧圈影视","name":"剧圈┃影视","type":3,"api":"csp_Juqq","jar":"./lib/o.jar","searchable":1,"quickSearch":1,"filterable":1},
 	{"key":"毛驴影视","name":"毛驴┃影视","type":3,"api":"csp_MaoLv","jar":"./lib/o.jar","searchable":1,"quickSearch":1,"filterable":1},
 	 {
       "key": "drpy_js_荐片",
