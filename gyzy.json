@@ -13,8 +13,11 @@
 	{"key":"drpy_555","name":"555[DR]","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/555.json"},
        {"key":"畅梦","name":"💯专享┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./y/changmeng.js"},
 	{"key":"drpy_555","name":"健教┃影视","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/555.json"},
+	{"key":"农民影视","name":"农民影视","type":3,"api":"csp_WexNmys","jar":"./lib/o.jar","searchable":1,"changeable":1},
+	{"key": "csp_XYQHiker_看一看影视","name":"看一看影视","type":3,"api":"csp_XYQHiker","jar": "./custom_spider.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/看一看影视.json"},
+{"key": "csp_XYQHiker_电影牛影院","name":"电影牛影院","type":3,"api":"csp_XYQHiker","jar": "./custom_spider.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/电影牛影院.json"},	
     {"key": "csp_XBPQ_6V",
-  "name": "🌙健教4K",
+  "name": "🌙影视4K",
   "type": 3,
   "api": "csp_XBPQ",
   "searchable": 1,
@@ -162,7 +165,7 @@
                 "搜索链接": "href=\"&&\"",
                 "搜索url": "https://wzznl.buzz/search.php?page={pg}&searchword={wd}&searchtype=",
                 "分类url": "https://wzznl.buzz/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&area={area}&year={year}&letter=&yuyan={lang}&state=&money=&ver=&jq=",
-                "分类": "电影$1#电视剧$2#综艺$3#动漫$4#动作片$5#爱情片$6#科幻片$7#恐怖片$8#战争片$9#喜剧片$10#纪录片$11#剧情片$12#大陆剧$13#港台剧$14#欧美剧$15#日韩剧$16"
+                "分类": "电影$1#电视剧$2#18禁$11#动漫$4#动作片$5#爱情片$6#科幻片$7#恐怖片$8#战争片$9#喜剧片$10#综艺$3#剧情片$12#大陆剧$13#港台剧$14#欧美剧$15#日韩剧$16"
             }
         },
 	{
