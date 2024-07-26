@@ -1021,7 +1021,7 @@
             "name":"🍭Voflix",
             "type":3,
             "api":"./lib/drpy2.min.js",
-            "ext":"https://xhdwc.tk/js/Voflix.js"
+            "ext":"./js/Voflix.js"
         },
 	{
     "key":"zy_天空资源",
