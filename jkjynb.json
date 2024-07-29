@@ -1429,7 +1429,7 @@
             "playerType": "2",
             "ext": {
                 "请求头": "手机",
-                "主页url": "http://www.dsxdy.shop/index.php/vodtype/dianying.html",
+                "主页url": "http://xtys.site/index.php/vodtype/dianying.html",
                 "数组": "class=\"stui-vodlist__box\">&&</div>",
                 "图片": "src=\"&&\"",
                 "标题": "title=\"&&\"",
@@ -1445,7 +1445,7 @@
                 "分类数组": "<a&&</a",
                 "分类标题": ">&&</a",
                 "分类ID": "href=\"/index.php/vodshow/&&-----------.html\"",
-                "分类url": "http://www.dsxdy.shop/index.php/vodshow/{cateId}--------{catePg}---.html"
+                "分类url": "http://xtys.site/index.php/vodshow/{cateId}--------{catePg}---.html"
             }
         },
  {
