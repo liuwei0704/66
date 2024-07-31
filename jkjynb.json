@@ -24,8 +24,8 @@
       "key": "drpy_js_荐片",
       "name": "荐片|优质",
       "type": 3,
-      "api": "https://py.nxog.eu.org/proxy/https://raw.githubusercontent.com/guot55/yg/main/lib/drpy2.min.js",
-      "ext": "https://py.nxog.eu.org/proxy/https://raw.githubusercontent.com/guot55/yg/main/js/jp.js"
+      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/drpy2.min.js",
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/js/jp.js"
     },
     {
       "key": "csp_LiteApple",
@@ -33,7 +33,7 @@
       "type": 3,
       "playerType": "2",
       "api": "csp_LiteApple",
-      "jar": "https://py.nxog.eu.org/proxy/https://raw.githubusercontent.com/guot55/yg/main/lib/ap.jar",
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/ap.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -74,9 +74,9 @@
       "filterable": 1,
       "ext": "http://4k.953365.cn:8090/xgapp.php/v3/"
     },{"key": "csp_XYQHiker_电影港","name":"🧲电影港(XYQH)","type":3,"api":"csp_XYQHiker","jar": "./custom_spider.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/电影港磁力.json"},
-	{"key":"快看影视","name":"🌙快看┃影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://py.nxog.eu.org/proxy/https://raw.githubusercontent.com/guot55/yg/main/lib/o.jar"},
-	{"key":"两个磁力","name":"🌙两个┃影视","type":3,"api":"csp_Wexbttwo","searchable":1,"changeable":1,"jar": "https://py.nxog.eu.org/proxy/https://raw.githubusercontent.com/guot55/yg/main/lib/o.jar"},
-	{"key":"机器人","name":"🌙机器┃影视","type":3,"api":"csp_Ikanbot","jar": "https://py.nxog.eu.org/proxy/https://raw.githubusercontent.com/guot55/yg/main/lib/o.jar","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://v.aikanbot.com"},
+	{"key":"快看影视","name":"🌙快看┃影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/o.jar"},
+	{"key":"两个磁力","name":"🌙两个┃影视","type":3,"api":"csp_Wexbttwo","searchable":1,"changeable":1,"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/o.jar"},
+	{"key":"机器人","name":"🌙机器┃影视","type":3,"api":"csp_Ikanbot","jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/o.jar","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://v.aikanbot.com"},
      {"key": "PPTV06","name": "💖分享PPTV","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"分类url": "https://www.pptv09.com/vodshow/{cateId}-{area}-------{catePg}---{year}.html","分类": "电影$1#电视剧$2#动漫$4"}},
     {
             "key": "卫总影院",
@@ -1138,7 +1138,7 @@
       "key": "sd", 
       "name": "ok", 
       "type": 1, 
-      "api": "https://py.nxog.eu.org/proxy/https://api.okzy.org/api.php/provide/vod/", 
+      "api": "https://mirror.ghproxy.com/https://api.okzy.org/api.php/provide/vod/", 
       "searchable": 1, 
       "quickSearch": 1, 
       "filterable": 1
@@ -1162,7 +1162,7 @@
       "key": "shandian", 
       "name": "闪电", 
       "type": 1, 
-      "api": "https://py.nxog.eu.org/proxy/https://sdzyapi.com/api.php/provide/vod/", 
+      "api": "https://sdzyapi.com/api.php/provide/vod/", 
       "searchable": 1, 
       "quickSearch": 1, 
       "filterable": 1
@@ -1178,7 +1178,7 @@
       "key": "39", 
       "name": "39采集", 
       "type": 1, 
-      "api": "https://py.nxog.eu.org/proxy/https://www.inmi.app/api.php/provide/vod/", 
+      "api": "https://www.inmi.app/api.php/provide/vod/", 
       "searchable": 1, 
       "quickSearch": 1, 
       "filterable": 1
@@ -1859,7 +1859,7 @@
             "key": "玉兔专场",
             "name": "🔞玉兔采集",
             "type": 1,
-            "api": "https://py.nxog.eu.org/proxy/https://apiyutu.com/api.php/provide/vod/",
+            "api": "https://apiyutu.com/api.php/provide/vod/",
             "playUrl": "",
             "searchable": 1,
             "quickSearch": 1,
@@ -1911,7 +1911,7 @@
             "key": "乐播",
             "name": "️🔞乐播采集",
             "type": 1,
-            "api": "https://py.nxog.eu.org/proxy/https://lbapi9.com/api.php/provide/vod/",
+            "api": "https://lbapi9.com/api.php/provide/vod/",
             "playUrl": "",
             "searchable": 1,
             "quickSearch": 1,
