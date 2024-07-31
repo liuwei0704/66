@@ -82,11 +82,11 @@
       "name": "戏曲杂苑",
       "type": 3,
       "api": "csp_Bili",
-      "jar": "https://py.nxog.eu.org/proxy/https://raw.githubusercontent.com/guot55/yg/main/lib/o.jar",
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/o.jar",
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://py.nxog.eu.org/proxy/https://raw.githubusercontent.com/guot55/yg/main/a/哔哩戏曲.json"
+      "ext": "https://mirror.ghproxy.comy/https://raw.githubusercontent.com/guot55/yg/main/a/哔哩戏曲.json"
     },
  {
       "key": "saohuo",
@@ -112,8 +112,8 @@
       "key": "drpy_js_荐片",
       "name": "荐片|优质",
       "type": 3,
-      "api": "https://py.nxog.eu.org/proxy/https://raw.githubusercontent.com/guot55/yg/main/lib/drpy2.min.js",
-      "ext": "https://py.nxog.eu.org/proxy/https://raw.githubusercontent.com/guot55/yg/main/js/jp.js"
+      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/drpy2.min.js",
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/js/jp.js"
     },
     {
       "key": "csp_LiteApple",
@@ -121,7 +121,7 @@
       "type": 3,
       "playerType": "2",
       "api": "csp_LiteApple",
-      "jar": "https://py.nxog.eu.org/proxy/https://raw.githubusercontent.com/guot55/yg/main/lib/ap.jar",
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/ap.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
