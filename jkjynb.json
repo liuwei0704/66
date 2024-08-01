@@ -15,6 +15,7 @@
 	{"key": "白嫖者","name": "白飘|影视","type": 3,"api": "csp_XBPQ","jar": "./lib/XBPQ.jar","ext": {"分类url": "https://www.qyzf88.com/qyvodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","分类":"电影$1#电视剧$2#动漫$4#综艺$3","副标题":"class=\"pic-text text-right\"&&</span>","简介":"+剧情介绍：&&</p >"}},
 	{"key": "csp_XYQHiker_电影牛影院","name":"电影牛影院","type":3,"api":"csp_XYQHiker","jar": "./custom_spider.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/电影牛影院.json"},
 	{"key":"农民影视","name":"农民影视","type":3,"api":"csp_WexNmys","jar":"./lib/o.jar","searchable":1,"changeable":1},
+	{"key":"sc影视","name":"🌸盛城影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./y/sc1080.json"},
 	{"key":"看看影视","name":"看看┃影视","type":3,"api":"csp_WebIV","jar":"./lib/o.jar","searchable":1,"quickSearch":1,"filterable":0},
 	{"key":"南瓜影视","name":"南瓜┃影视","type":3,"api":"csp_WexNgys","jar":"./lib/o.jar","searchable":1,"quickSearch":1,"filterable":0},
 	{"key":"愉悦影视","name":"愉悦┃影视","type":3,"api":"csp_Wexyuyueys","jar":"./lib/o.jar","searchable":1,"changeable":1},
