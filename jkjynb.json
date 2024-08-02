@@ -219,7 +219,7 @@
       "key": "文才",
       "name": "文才",
       "type": 1,
-      "api": "https://api.zeqaht.com/api.php/provide/vod/",
+      "api": "https://api.zeqaht.com/api.php/provide/vod/at/xml",
       "searchable": 1,
       "changeable": 1
     },{
