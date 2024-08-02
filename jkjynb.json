@@ -216,15 +216,12 @@
       "quickSearch": 1, 
       "filterable": 1
     },{
-      "key": "鸭奈飞1",
-      "name": "鸭奈飞",
-      "type": 3,
-      "api": "csp_AppYsV2",
+      "key": "文才",
+      "name": "文才",
+      "type": 1,
+      "api": "https://api.zeqaht.com/api.php/provide/vod/",
       "searchable": 1,
-      "quickSearch": 1,
-      "jar": "https://agit.ai/smy/zy/raw/branch/master/JAR/c.txt;md5;bb155c3f0133bbce4756ad52003f5968",
-      "filterable": 1,
-      "ext": "https://www.yanaifei.net/api.php/app/"
+      "changeable": 1
     },{
       "key": "暴風",
       "name": "暴風",
