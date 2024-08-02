@@ -1466,6 +1466,7 @@
 	{"key":"csp_xBPQ_香蕉国产","name":"🏆香蕉国产","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./h/香蕉国产.json","jar":"./jar/Yoursmile2.jar"},
 	{"key":"csp_xBPQ_香蕉搜索","name":"🏆香蕉搜索","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./h/香蕉搜索.json","jar":"./jar/Yoursmile2.jar"},
 	{"key":"csp_xBPQ_香蕉资源","name":"🏆香蕉资源","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./h/香蕉资源.json","jar":"./jar/Yoursmile2.jar"},
+	{"key":"csp_xBPQ_黄仓库","name":"🏆黄仓库","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./h/%e9%bb%84%e4%bb%93%e5%ba%93.json","jar":"./jar/Yoursmile2.jar"},
 	{ "key": "KpgxdyE", "name": "🔞黄AV资源(已修复)", "type": 0, "api": "https://www.pgxdy.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 	{"key": "橘猫资源","name": "🔞橘猫资源","type": 1,"api": "https://to.to-long.com/api.php/provide/vod/", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 	{"key":"雪豹资源","name":"雪豹资源","type":1,"api":"https://api.xbapi.cc/api.php/provide/vod/at/json","searchable":1,"quickSearch":1},
