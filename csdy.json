@@ -24,6 +24,16 @@
             }
         },
 	 {
+      "key": "ssys",
+      "name": "三思┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/348.json"
+    }, 
+	 {
       "key": "drpy_js_荐片",
       "name": "荐片|优质",
       "type": 3,
