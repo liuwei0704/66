@@ -11,6 +11,7 @@
             "filterable": 0
         },
        {"key":"畅梦","name":"💯测试秒播","type":3,"api":"./lib/drpy2.min.js","ext":"./y/changmeng.js"},
+	{"key":"drpy_js_酷吧","name":"酷吧[js]|磁","type":3,"api":"./lib/drpy2.min.js","ext":"./js/kuba.js", "quickSearch":1, "changeable":1, "timeout":60},
 	 {
       "key": "drpy_js_荐片",
       "name": "荐片|优质",
