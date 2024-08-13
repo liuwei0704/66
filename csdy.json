@@ -28,6 +28,7 @@
       "name": "三思┃影视",
       "type": 3,
       "api": "csp_XBPQ",
+      "jar": "./lib/XBPQ.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -106,7 +107,7 @@
         "播放列表": "<li>&&</li>",
         "播放标题": ">&&</a>",
         "分类url": "http://www.qiyoudy1.com/list/{cateId}_{catePg}.html[http://www.qiyoudy1.com/list/{cateId}.html];;ak",
-        "分类": "电影$1#电视剧$2#动漫$3#综艺$4"
+        "分类": "电影$1#电视剧$2#动漫$3#综艺$4#18禁$6"
       }
     }, {
       "key": "热播💋蓝光",
