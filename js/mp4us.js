@@ -6,7 +6,7 @@ var rule = {
 	filter_url:'{{fl.class}}',
 	filter:{
 	},
-	searchUrl: '/search/**-1.html',
+	searchUrl: '/list/**-1.html',
 	searchable:2,
 	quickSearch:0,
 	filterable:0,
