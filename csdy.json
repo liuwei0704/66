@@ -18,7 +18,6 @@
       "api": "https://py.nxog.eu.org/proxy/https://raw.githubusercontent.com/guot55/yg/main/lib/drpy2.min.js",
       "ext": "https://py.nxog.eu.org/proxy/https://raw.githubusercontent.com/guot55/yg/main/js/jp.js"
     },
-	{"key":"drpy_js_MP4US","name":"MP4电影[js]|磁","type":3,"api":"./lib/drpy2.min.js","ext":"./js/mp4us.js", "quickSearch":1, "changeable":1, "timeout":60},
     {
       "key": "csp_LiteApple",
       "name": "苹果┃影视",
