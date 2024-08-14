@@ -43,6 +43,7 @@
   "name": "🌙影视4K",
   "type": 3,
   "api": "csp_XBPQ",
+  "jar": "./lib/0606.jar",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
