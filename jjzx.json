@@ -28,7 +28,8 @@
             "ext": {
                 "分类url": "http://m.disc800.com/species/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html",
                 "分类": "电影$1#连续剧$2#动漫$3#综艺$4#纪录片$5#18禁$6"
-            }}, {"key": "csp_XBPQ_6V",
+            }
+  }, {"key": "csp_XBPQ_6V",
   "name": "影视4K",
   "type": 3,
   "api": "csp_XBPQ",
