@@ -19,7 +19,7 @@
 	{"key":"愉悦影视","name":"愉悦┃影视","type":3,"api":"csp_Wexyuyueys","jar":"./lib/o.jar","searchable":1,"changeable":1},
 	{"key":"FreeOK","name":"富瑞┃影视","type":3,"api":"csp_FreeOK","jar":"./lib/o.jar","searchable":1,"quickSearch":1,"filterable":1},
  { "key": "911影院", "name": "九妖|影院", "type":3,"api":"csp_XBPQ","jar":"./lib/o.jar", "ext": {"简介":"健教中心防失联:+style=\"text-indent:2em;\">&&</span>","数组":"u-movie\">&&</article>","标题":"title=\"&&\"","副标题":"zhuangtai\">&&</span>","线路数组":"<h4 class=\"ctitle\">&&</h4>","分类url":"https://911meiju.com/show/{cateId}/page/{catePg}.html","分类":"电视剧$dsj#电影$dy#美剧$mj#喜剧片$xjp#剧情片$jqp#18禁$llp#动作片$dzp#悬疑片$xyp#科幻片$khp"}},
-  {
+   {
             "key": "xcys",
             "name": "星辰｜影视",
             "type": 3,
@@ -29,16 +29,7 @@
                 "分类url": "http://m.disc800.com/species/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html",
                 "分类": "电影$1#连续剧$2#动漫$3#综艺$4#纪录片$5#18禁$6"
             }
-  }, {"key": "csp_XBPQ_6V",
-  "name": "影视4K",
-  "type": 3,
-  "api": "csp_XBPQ",
-"jar": "./lib/0606.jar",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext":"./h/6v.json"},
-  {
+             }, {
       "key": "ssys",
       "name": "三思┃影视",
       "type": 3,
@@ -48,7 +39,15 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/348.json"
-    },  {
+    },  {"key": "csp_XBPQ_6V",
+  "name": "🌙影视4K",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext":"./h/6v.json"},
+ {
       "key": "csp_New6v",
       "name": "🧲新6V",
       "type": 3,
