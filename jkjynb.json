@@ -1334,7 +1334,66 @@
         "分类url": "https://urcccg.dbtav9.today/vodtype/{cateId}/{catePg}/;;a",
         "分类": "国产精品$20#主播大秀$21#唯美视频$22#口交视频$23#日本有碼$24#日本無碼$25#动漫视频$26#欧美视频$27#日韩视频$28#欧美视频$29#动漫视频$30#伦理影片$31"
     }
-},
+},{"key": "SOAV",
+            "name": "🔞SOAV",
+            "type": 3,
+            "api": "csp_XBPQ",
+   "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
+            "style": {
+                "type": "rect",
+                "ratio": 1.5
+            },
+            "ext": {
+                "主页url": "https://www.wantav.co/",
+                "搜索url": "https://777080.xyz/?s={wd}",
+                "数组": "data-video-uid=&&</div>",
+                "图片": "data-src=\"&&\"",
+                "标题": "alt=\"&&\"",
+                "副标题": "</i>&&</span>",
+                "链接": "href=\"&&\"",
+                "简介": "⚠️少看点，再看你就废了！！！",
+                "分类url": "https://777080.xyz/category/{cateId}/page/{catePg}/;;z",
+                "分类": "國產精選$國產精選#探花約炮$探花約炮#日韓影片$日韓影片#無碼素人$無碼素人#歐美專區$歐美專區#中字動漫$中字動漫"
+            }
+        },{
+            "key": "RJAV",
+            "name": "🔞RJAV",
+            "type": 3,
+            "api": "csp_XBPQ",
+           "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
+            "ext": {
+                "主页url": "https://rjav.tv/zh/",
+                "直接播放": "1",
+                "数组": "class=\"mb15\"&&</li>",
+                "图片": "src=\"&&\"",
+                "标题": "title=\"&&\"",
+                "链接": "href=\"&&\"",
+                "分类url": "https://rjav.tv/zh/videotype/{cateId}-{catePg}/",
+                "分类": "FC2-PPV$FC2-PPV#日本無碼$JAV_Uncensored#馬賽克破壞$Mosaic_Removed#國產$Asian_Amateur#日本有碼$JAV_Censored#MGS動画$MGS#中文字幕$JAV+CHN.SUBs#動畫$Anime#歐美成人$Western_Porn#Korean BJ Dance$Korean_BJ_Dance#寫真$Adult_IDOL"
+            }
+        },{"key":"天堂岛",
+        "name":"🔞天堂岛",
+        "type":3,
+        "api":"csp_XBPQ",
+         "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
+        "searchable":1,
+        "quickSearch":1,
+        "filterable":1,
+        "ext":{
+        "主页url":"https://www.ttdao666.buzz",
+        "数组":"<div class=\"item&&</a",
+        "图片":"data-original=\"&&\"",
+        "标题":"title=\"&&\"",
+        "副标题":"<em>&&</em",
+        "简介":"description\" content=\"&&剧情",
+        "链接":"https://www.ttdao666.buzz/vod/play/id/+href=\"/vod/detail/id/&&/\"+/sid/1/nid/1/",
+        "跳转播放链接":"var player_*\"url\":\"&&\"",
+        "搜索模式":"1",
+        "搜索url":"https://www.ttdao666.buzz/vod/search/page/{pg}/wd/{wd}/",
+        "分类数组":"<a&&/a",
+        "分类标题":">&&<",
+        "分类ID":"/vod/type/id/&&/",
+        "分类url":"https://www.ttdao666.buzz/vod/type/id/{cateId}/page/{catePg}/;;z"}}, 
 	{
             "key": "csp_XYQHiker_777影院",
             "name": "🔞777影院",
