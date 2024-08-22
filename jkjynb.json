@@ -248,10 +248,10 @@
       "quickSearch": 1, 
       "filterable": 1
     },{
-      "key": "文才",
-      "name": "文才",
+      "key": "文才1",
+      "name": "文才1",
       "type": 1,
-      "api": "https://api.zeqaht.com/api.php/provide/vod/at/xml",
+      "api": "https://api.zeqaht.com/api.php/provide/vod/",
       "searchable": 1,
       "changeable": 1
     },{
