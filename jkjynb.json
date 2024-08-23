@@ -1290,6 +1290,15 @@
                 "分类url": "http://gqxhp.top/index.php/vod/type/id/{cateId}/page/{catePg}.html"
             }
         },{
+            "key": "农夫与少妇",
+            "name": "🔞农夫与少妇",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/nfsf.json"
+        },{
             "key": "纤纤影视",
             "name": "纤纤影视",
             "type": 3,
