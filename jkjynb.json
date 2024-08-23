@@ -1294,6 +1294,7 @@
             "name": "🔞农夫与少妇",
             "type": 3,
             "api": "csp_XBPQ",
+	    "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
