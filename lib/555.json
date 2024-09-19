@@ -1,6 +1,6 @@
    var rule = {
   title:'555电影[V2]', 
-  desc:'https://jlghjy.com/',
+  desc:'https://555flix.com/',
   host:'https://e3wuwu4.com/',
   homeUrl:'/api.php/app/index_video',
   url:'/api.php/app/video?tid=fyclassfyfilter&limit=20&pg=fypage',
