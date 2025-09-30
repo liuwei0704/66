@@ -2,7 +2,7 @@
 "sites":[
 {
             "key": "js豆瓣1",
-            "name": "🧿国庆快乐",
+            "name": "🐀国庆快乐",
             "type": 3,
             "api": "./lib/drpy2.min.js",
             "ext": "./lib/douban.js",
@@ -1497,4 +1497,5 @@
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ]
 }
+
 
