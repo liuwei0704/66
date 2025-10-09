@@ -28,6 +28,21 @@
             }
         },
         {
+      "key": "539",
+      "name": "🖥️539剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+         "简介": "+detail-content\" style=*>&&</span>",
+    "分类url": "https://www.539539.xyz/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+    "分类": "短剧$25#电视剧$2#电影$1#动漫$4#综艺$3#伦理$26#写真$27"
+      }
+},
+        {
       "key": "PUA外剧",
       "name": "🖥️PUA外剧",
       "type": 3,
@@ -38,9 +53,81 @@
       "filterable": 1,
       "ext": {
         "分类url": "https://www.p-ua.com/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-        "分类": "欧美剧$22#海外剧$23#日韩剧$24#卡通剧$25#福利剧$49"
+        "分类": "欧美剧$26#海外剧$29#日韩剧$16#卡通剧$28#福利剧$49"
       }
 },
+{
+      "key": "奇异",
+      "name": "奇异",
+      "type": 0,
+      "api": "https://iqiyizyapi.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "changeable": 1,
+      "playurl": "json:https://www.iqiyizyjx.com/?url="
+    },
+    {
+      "key": "斗笔",
+      "name": "豆瓣1080",
+      "type": 0,
+      "api": "https://caiji.dbzy5.com/api.php/provide/vod/from/dbm3u8/at/xml/",
+      "searchable": 1,
+      "changeable": 1,
+      "playurl": "json:https://www.dbjiexi.com:966/jx/?url="
+    },
+    {
+      "key": "茅台",
+      "name": "茅台",
+      "type": 0,
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod/from/mtm3u8/at/xml/",
+      "searchable": 1,
+      "changeable": 1,
+      "playurl": "json:https://mtjiexi.cc:966/?url="
+    },
+    {
+      "key": "醒吧",
+      "name": "杏吧",
+      "type": 0,
+      "api": "https://sex8zy7.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "changeable": 1,
+      "playurl": "json:https://xbww888.com/?url="
+    },
+    {
+      "key": "kuai",
+      "name": "快播",
+      "type": 0,
+      "api": "https://gayapi.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "changeable": 1,
+      "playurl": "json:https://gayzyjiexi.com/play/?url="
+    },
+{
+            "key": "疯猫影视",
+            "name": "疯猫AV影视(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "请求头":"手机",
+"站名":"疯猫av",
+"主页url":"https://bb.fmav711.icu",
+"数组":"col-md-3 resent-grid recommended-grid&&</div></div></div>", 
+"标题":"title\"&&</a>",
+"图片":"data-original=\"&&\"", 
+"副标题":"views views-info\"&&</p>",
+"线路数组":"glyphicon-play-circle\"&&</a>",
+"播放数组":"myList&&</ul>",
+"播放标题":"</span>&&/a>",
+"搜索url":"/ss/key_{wd}_p{pg}.html",
+"简介":"myList\"&&</p>",
+"嗅探词": ".m3u8#.mp4#.flv#.mp3#.m4a",
+"分类url":"/fly/{cateId}B4_p{catePg}.html",
+"分类数组":"<a&&</a>",
+"分类标题": ">&&/a>", 
+"分类ID":"/fly/&&B4_p.html"
+            },
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar"
+        },
+
 {
   "key": "o站影视",
   "name": "🍊O站影视",
@@ -2804,29 +2891,15 @@
                 "分类": "电影$1#剧集$2#港台剧$14#日韩剧$15#美剧$16#动漫$4#综艺$3#短剧$20#伦理剧$21"
             }
         },
-     {
-            "key": "爱优影视",
-            "name": "🧿爱优┃蓝光",
-            "type": 3,
-            "api": "csp_XBPQ",
-             "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-              "主页url": "https://www.dami6fy.wiki/index/home.html",
-                "影片地区": "圥忈制作",
-                "影片年代": "<div class=\"module-info-tag\">&&</div>",
-                "影片状态": "备注：&&</div>",
-                "影片类型": "module-info-tag\">&&立即播放",
-                "简介": "请勿相信影片中的广告，以免上当受骗。+style=\"line-height: 20px;\"&&</div>",
-                "线路数组": "data-dropdown-value=&&</div>",
-                "线路标题": "<span>&&</span>",
-                "图片": "data-src=\"&&\"",
-                "分类url": "https://www.dami6fy.wiki/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-                "分类": "电影$20#电视剧$21#动漫$22#综艺$23#伦理$35"
-            }
-        },
+    {
+      "key": "zp0110",
+      "name": "🧿成人资源",
+      "type": 1,
+      "api": "https://www.avre10.com/api.php/Prodao/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
         {
             "key": "水牛影视",
             "name": "🧿水牛┃蓝光",
