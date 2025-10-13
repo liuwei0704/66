@@ -6,7 +6,7 @@
             "type": 3,
             "api": "./lib/drpy2.min.js",
             "ext": "./lib/douban.js",
-            "searchable": 0,
+            "searchable": 0,.
             "quickSearch": 0,
             "filterable": 0
         },
@@ -1367,3 +1367,4 @@
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ]
 }
+
