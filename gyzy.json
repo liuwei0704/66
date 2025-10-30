@@ -300,6 +300,15 @@
     },
     {"key":"大米星球","name":"🐀大米┃影视","type":3,"api":"csp_AppDaMi","jar":"https://gitee.com/lwlxh/tvhome/raw/master/o2.jar","searchable":1,"quickSearch":0,"filterable":0},
 {"key":"csp_xBPQ可可","name":"🐀可可┃影视","type":3,"api":"csp_XBPQ", "jar": "https://gitee.com/lwlxh/tvhome/raw/master/bhtv.txt","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/可可影视.json"},
+	{
+      "key": "csp_Jpys",
+      "name": "🐀金牌┃影视",
+		"jar": "https://pan.qingyuji.cn/f/Pm3yi4/1028logo.jpg",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 0,
+      "api": "csp_Jpys"
+    },
 {
       "key": "牛Y", 
       "name": "🐀牛Y┃影视", 
@@ -1367,5 +1376,6 @@
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ]
 }
+
 
 
