@@ -235,7 +235,7 @@
       "name": "🐀360┃影视",
       "type": 1,
       "api": "https://360zy.com/api.php/provide/vod",
-      "playUrl": "json:https://www.360jiexi.com/player/?url= ",
+      "playUrl": "json:https://www.360jiexi.com/player/?url=",
       "categories": [
         "爽文短剧",
         "国产剧",
@@ -1376,6 +1376,7 @@
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ]
 }
+
 
 
 
