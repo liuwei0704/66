@@ -412,7 +412,7 @@
     },
 	 {
             "key": "冷心",
-            "name": "冷心｜APP",
+            "name": "🐀冷心┃蓝光",
             "type": 3,
             "api": "csp_AppMuou",
 		 "jar": "https://gitee.com/lwlxh/tvhome/raw/master/spider1.jar",
@@ -1387,6 +1387,7 @@
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ]
 }
+
 
 
 
