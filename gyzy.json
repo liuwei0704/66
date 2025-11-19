@@ -414,11 +414,13 @@
             "key": "冷心",
             "name": "🐀冷心┃蓝光",
             "type": 3,
-            "api": "csp_AppMuou",
+            "quickSearch": 1,
+            "api": "csp_AppQi",
 		 "jar": "https://gitee.com/lwlxh/tvhome/raw/master/spider1.jar",
             "ext": {
-                "url": "http://app.789dd.cn",
-                "name": "火猫影视"
+                "site": "https://jingyu4k-1312635929.cos.ap-nanjing.myqcloud.com/1.json",
+                "dataKey": "AAdgrdghjfgswerA",
+                "dataIv": "AAdgrdghjfgswerA"
             }
         },{
       "key": "热播💋蓝光",
@@ -1387,6 +1389,7 @@
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ]
 }
+
 
 
 
