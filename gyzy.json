@@ -33,14 +33,6 @@
                 "分类": "电影$1#电视剧$2#动漫$4#综艺$3#伦理$5"
             }
         },
-	 {
-            "key": "333",
-            "name": "🐀三九┃蓝光",
-             "type": 3,
-		 "jar": "https://gitee.com/lwlxh/tvhome/raw/master/spider1.jar",
-      "api": "csp_XBPQ",
-      "ext": "https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/tvbox/XBPQ/三九影视.json"
-    },
      {"key":"快看影视","name":"🐀快看┃影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar"},
      { "key": "zycj_天天", "name": "🐀海燕┃采集", "type": 1, "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8", "playUrl": "", "categories": [ "内地剧", "动作片","伦理片", "科幻片", "战争片", "喜剧片", "爱情片", "恐怖片", "犯罪片", "剧情片", "冒险片", "记录片",  "韩剧", "香港剧", "台湾剧", "欧美剧", "日剧", "马泰剧", "体育赛事", "综艺", "动画片", "中国动漫", "日本动漫", "欧美动漫" ] },
      {"key":"New6v","name":"🐀六威┃磁力","type":3,"api":"csp_New6v","jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.xb6v.com"},
@@ -1405,6 +1397,7 @@
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ]
 }
+
 
 
 
