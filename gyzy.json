@@ -38,7 +38,7 @@
             "name": "🐀三九┃蓝光",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://gitee.com/baohe2025/bh/raw/master/spider.jar",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/spider1.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -1411,6 +1411,7 @@
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ]
 }
+
 
 
 
