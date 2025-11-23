@@ -363,7 +363,7 @@
             "name": "🐀星辰┃影视",
             "type": 3,
             "api": "csp_XBPQ",
-	  "jar": "./lib/XBPQ.jar",
+	  "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "ext": {
                 "分类url": "http://m.disc800.com/sort/{cateId}--------{catePg}---{year}.html",
                 "分类": "电影$1#连续剧$2#动漫$3#综艺$4#纪录片$5#私密$6"
@@ -1397,6 +1397,7 @@
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ]
 }
+
 
 
 
