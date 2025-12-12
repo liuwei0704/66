@@ -92,6 +92,15 @@
       "changeable": 1,
       "playurl": "json:https://xbww888.com/?url="
     },
+	 {
+      "key": "souAV",
+      "name": "搜AV",
+      "type": 0,
+      "api": "https://api.souavzy.vip/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "changeable": 1,
+      "playurl": "json:https://souavzy.info/m3u8/?url="
+    },
     {
       "key": "kuai",
       "name": "快播",
