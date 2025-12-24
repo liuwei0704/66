@@ -93,6 +93,15 @@
       "playurl": "json:https://xbww888.com/?url="
     },
 	 {
+      "key": "新吧",
+      "name": "幸资源",
+      "type": 0,
+      "api": "https://xzybb1.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "changeable": 1,
+      "playurl": "json:https://19xzy.com/?url="
+    },
+	 {
       "key": "souAV",
       "name": "搜AV",
       "type": 0,
