@@ -415,7 +415,6 @@
       "name": "电影🌀天堂",
       "type": 1,
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/json/?ac=list",
-		"jar": "https://gitee.com/lwlxh/tvhome/raw/master/spider1.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
@@ -1438,6 +1437,7 @@
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ]
 }
+
 
 
 
