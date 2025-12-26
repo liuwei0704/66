@@ -54,7 +54,7 @@
       "key": "py_xiaohong",
       "name": "小红🌀蓝光",
       "type": 3,
-      "api": "./py/小红影视.py",
+      "api": "https://cnb.cool/baoheapi/bhmb/-/git/raw/main/dp/py/%E5%B0%8F%E7%BA%A2%E5%BD%B1%E8%A7%86.py",
 		 "jar": "https://cnb.cool/baoheapi/jar/-/git/raw/main/spider.jar",
       "searchable": 1,
       "quickSearch": 0,
@@ -1448,6 +1448,7 @@
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ]
 }
+
 
 
 
