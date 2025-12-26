@@ -53,6 +53,7 @@
 	 {
       "key": "py_4K影院",
       "name": "4K🌀影院",
+		 "jar": "https://gitee.com/lwlxh/tvhome/raw/master/spider1.jar",
       "api": "https://bitbucket.org/guot55/bhkj/raw/main/pro/py/4K%E5%BD%B1%E9%99%A2.py",
       "filterable": 1,
       "quickSearch": 1,
@@ -1483,6 +1484,7 @@
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ]
 }
+
 
 
 
