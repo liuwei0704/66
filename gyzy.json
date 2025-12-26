@@ -55,7 +55,7 @@
       "name": "小红🌀蓝光",
       "type": 3,
       "api": "./py/小红影视.py",
-		 "jar": "https://gitee.com/lwlxh/tvhome/raw/master/spider1.jar",
+		 "jar": "https://cnb.cool/baoheapi/jar/-/git/raw/main/spider.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
@@ -1448,6 +1448,7 @@
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ]
 }
+
 
 
 
