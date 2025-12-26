@@ -66,8 +66,8 @@
       "name": "剧集🌀永久",
       "type": 3,
       "changeable": 0,
-      "api": "https://cnb.cool/baoheapi/bhmb/-/git/raw/main/dp/py/AppV2.py",
 		 "jar": "https://cnb.cool/baoheapi/jar/-/git/raw/main/spider.jar",
+      "api": "https://cnb.cool/baoheapi/bhmb/-/git/raw/main/dp/py/AppV2.py",
       "ext": {
         "api": "http://yjer.jumianfei.com/icciu_api.php/v1.vod",
         "apisignkey": "lvdoutv-1.0.0"
@@ -1460,6 +1460,7 @@
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ]
 }
+
 
 
 
