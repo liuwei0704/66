@@ -54,7 +54,7 @@
       "key": "py_xiaohong",
       "name": "小红🌀蓝光",
       "type": 3,
-      "api": ".py/小红影视.py",
+      "api": "./py/小红影视.py",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
@@ -1447,6 +1447,7 @@
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ]
 }
+
 
 
 
