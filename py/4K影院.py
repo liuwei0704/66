@@ -319,7 +319,7 @@ class Spider(Spider):
                 bofang = bofang + name + '$' + id + '#'
 
             bofang = bofang[:-1]
-            xianlu = '宝盒专享'
+            xianlu = '4K专享'
 
         else:
             res = requests.get(url=did, headers=headerx)
@@ -330,7 +330,7 @@ class Spider(Spider):
             content = '剧情介绍📢' + self.extract_middle_text(res, '<meta name="description" content="', '"', 0)
 
             bofang = self.extract_middle_text(res, "data-postid='", "'", 0)
-            xianlu = '宝盒专享'
+            xianlu = '4K专享'
 
         videos.append({
             "vod_id": did,
