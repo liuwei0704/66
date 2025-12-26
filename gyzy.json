@@ -50,6 +50,16 @@
                 "分类": "电影$1#连续剧$2#伦理片$34#动漫$4#综艺$3#体育$59#短剧$53"
             }
         },
+	 {
+      "key": "py_xiaohong",
+      "name": "小红🌀蓝光",
+      "type": 3,
+      "api": ".py/小红影视.py",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0
+    },
         {
             "key": "人人影视",
             "name": "🐀人人┃蓝光",
@@ -1437,6 +1447,7 @@
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ]
 }
+
 
 
 
