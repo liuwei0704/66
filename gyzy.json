@@ -50,16 +50,6 @@
                 "分类": "电影$1#连续剧$2#伦理片$34#动漫$4#综艺$3#体育$59#短剧$53"
             }
         },
-	 {
-      "key": "py_4K影院",
-      "name": "4K🌀影院",
-		 "jar": "https://gitee.com/lwlxh/tvhome/raw/master/spider1.jar",
-      "api": "https://bitbucket.org/guot55/bhkj/raw/main/pro/py/4K%E5%BD%B1%E9%99%A2.py",
-      "filterable": 1,
-      "quickSearch": 1,
-      "searchable": 1,
-      "type": 3
-    },
         {
             "key": "人人影视",
             "name": "🐀人人┃蓝光",
@@ -1484,6 +1474,7 @@
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ]
 }
+
 
 
 
