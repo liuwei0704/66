@@ -50,29 +50,6 @@
                 "分类": "电影$1#连续剧$2#伦理片$34#动漫$4#综艺$3#体育$59#短剧$53"
             }
         },
-	 {
-      "key": "py_xiaohong",
-      "name": "小红🌀蓝光",
-      "type": 3,
-      "api": "https://cnb.cool/baoheapi/bhmb/-/git/raw/main/dp/py/%E5%B0%8F%E7%BA%A2%E5%BD%B1%E8%A7%86.py",
-		 "jar": "https://cnb.cool/baoheapi/jar/-/git/raw/main/spider.jar",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0
-    },
-	 {
-      "key": "剧永久",
-      "name": "剧集🌀永久",
-      "type": 3,
-      "changeable": 0,
-		 "jar": "https://cnb.cool/baoheapi/jar/-/git/raw/main/spider.jar",
-      "api": "https://cnb.cool/baoheapi/bhmb/-/git/raw/main/dp/py/AppV2.py",
-      "ext": {
-        "api": "http://yjer.jumianfei.com/icciu_api.php/v1.vod",
-        "apisignkey": "lvdoutv-1.0.0"
-      }
-    },
         {
             "key": "人人影视",
             "name": "🐀人人┃蓝光",
@@ -473,6 +450,43 @@
         "动画片"
       ]
     },
+	 {
+            "key": "萱花",
+            "name": "🐀雪花┃蓝光",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+               "站名": "雪花",
+    "主页url": "https://n3300.com/",
+    "分类url": "https://n3300.com/ekOtxEBafND5Chtml/{cateId}/list_{catePg}.html",
+    "分类": "喜剧片$xiju#爱情片$aiqing#科幻片$kehuan#剧情片$juqing#悬疑片$xuannian#战争片$zhanzheng#恐怖片$kongbu#灾难片$zainan#连续剧$lianxuju#动漫$dongman#综艺片$zongyijiemu",
+    "二次截取": "",
+    "数组": "默认--pic\">&&</li>||首页--col-sm&&</li>",
+    "图片": "src=\"&&\"",
+    "标题": "FF0000'>&&<",
+    "链接": "href=\"&&\"",
+    "副标题": "4K",
+    "影片年代": "年　　代&&<br>",
+    "影片地区": "产　　地&&<br>",
+    "影片类型": "类　　别&&<br>",
+    "状态": "片　　长　&&<br>",
+    "导演": "导　　演&&<br>",
+    "主演": "主　　演&&<br>",
+    "简介": "简　　介&&</div>",
+    "线路数组": "下载地址列表&&<h3>",
+    "线路标题": "磁力",
+    "播放二次截取": "本站专用电影&&</body",
+    "播放数组": "<ul>&&</div>",
+    "播放列表": "<a&&/a>",
+    "播放链接": "href=\"&&\\&",
+    "播放标题": "dn=&&<",
+    "搜索url": "https://n3300.com/plus/search.php?kwtype=0&keyword={wd}"
+            }
+        },
 	 {
             "key": "冷心",
             "name": "🐀冷心┃蓝光",
@@ -1460,6 +1474,7 @@
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ]
 }
+
 
 
 
