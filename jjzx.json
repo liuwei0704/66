@@ -110,6 +110,15 @@
       "changeable": 1,
       "playurl": "json:https://souavzy.info/m3u8/?url="
     },
+	 {
+      "key": "JKUN",
+      "name": "JKUN资源",
+      "type": 0,
+      "api": "https://jkunzyapi.com/api.php/seaxml/vod/at/xml",
+      "searchable": 1,
+      "changeable": 1,
+      "playurl": "json:https://www.jkunzyjx.com/?url="
+    },
     {
       "key": "kuai",
       "name": "快播",
