@@ -421,6 +421,7 @@
       "playUrl": "json:https://py.doube.eu.org/parse_dytt?url=",
       "categories": [
         "动作片",
+		"伦理片",
         "喜剧片",
         "爱情片",
         "科幻片",
@@ -444,7 +445,6 @@
         "日韩动漫",
         "欧美动漫",
         "港台动漫",
-        "伦理片",
         "短剧",
         "动画片"
       ]
@@ -1473,6 +1473,7 @@
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ]
 }
+
 
 
 
