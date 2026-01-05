@@ -888,7 +888,7 @@
       "api": "csp_XBPQ",
       "ext": {
         "嗅探词": ".m3u8#.mp4#.m3u8?#freeok.mp4",
-        "分类url": "https://shdy2.com/list/{cateId}-{catePg}.html;;vr1au0",
+        "分类url": "https://shdy5.us/list/{cateId}-{catePg}.html;;vr1au0",
         "分类": "电影$1#剧情$15#电视剧$2#韩剧$22#美剧$23#动漫$4",
         "数组二次截取": "class=\"v_list\">&&</ul>",
         "数组": "\"v_img\"&&/div>",
@@ -1568,6 +1568,7 @@
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ]
 }
+
 
 
 
