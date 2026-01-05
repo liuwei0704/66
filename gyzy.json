@@ -504,7 +504,7 @@
       "name": "🐀永乐┃蓝光",
       "type": 3,
       "api": "csp_XBPQ",
-		"jar": "https://cnb.cool/baoheapi/jar/-/git/raw/main/spider.jar",
+		"jar": "https://gitee.com/lwlxh/tvhome/raw/master/zx.jar",
       "ext": "https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/tvbox/XBPQ/永乐影视.json"
     },{
       "key": "热播💋蓝光",
@@ -1568,6 +1568,7 @@
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ]
 }
+
 
 
 
