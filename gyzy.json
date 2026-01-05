@@ -660,6 +660,19 @@
         "ratio": 1.597
       }
     },
+	{
+      "key": "戏曲多多",
+      "name": "戏曲🌀多多",
+      "type": 3,
+      "api": "csp_AppLY",
+		"jar": "https://cnb.cool/baoheapi/jar/-/git/raw/main/spider.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "style": {
+        "type": "list"
+      }
+    },
 {
             "key": "高清资源网",
             "name": "🐀高清┃2K",
@@ -1555,6 +1568,7 @@
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ]
 }
+
 
 
 
