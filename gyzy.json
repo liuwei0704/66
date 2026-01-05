@@ -647,7 +647,7 @@
       "name": "哔哩🌀戏曲",
       "type": 3,
       "api": "csp_Bili",
-	 "jar": "https://cnb.cool/baoheapi/jar/-/git/raw/main/spider.jar",
+	 "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
@@ -1555,6 +1555,7 @@
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ]
 }
+
 
 
 
