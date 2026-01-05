@@ -642,16 +642,23 @@
       }
     },
  {"key": "奈飞影视","name":"🐀鸭奈飞┃影视","type":3,"api":"csp_XYQHiker", "jar": "https://gitee.com/juanxiao/bh/raw/master/wc.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/pg/lib/ynf.json"},
-{
-      "key": "戏曲杂苑",
-      "name": "🐀戏曲┃杂苑",
+ {
+      "key": "哔哩哔哩戏曲",
+      "name": "哔哩🌀戏曲",
       "type": 3,
       "api": "csp_Bili",
-      "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+	 "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
       "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/guot55/yg/main/a/%E5%93%94%E5%93%A9%E6%88%8F%E6%9B%B2.json"
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": {
+        "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
+        "json": "https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/tvbox/json/哔哩哔哩戏曲.json"
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      }
     },
 {
             "key": "高清资源网",
@@ -1473,6 +1480,7 @@
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ]
 }
+
 
 
 
