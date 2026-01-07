@@ -88,8 +88,8 @@
             }
         },
 	{
-            "key": "青春影视",
-            "name": "🐀青春┃蓝光",
+            "key": "937影视",
+            "name": "🐀937┃蓝光",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
@@ -97,7 +97,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "分类url": "https://gqc7.top/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+                "分类url": "https://www.937tv.vip/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
                 "分类": "电影$dianying#连续剧$lianxuju#动漫$dongman#综艺$zongyi"
             }
         },
@@ -1595,6 +1595,7 @@
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ]
 }
+
 
 
 
