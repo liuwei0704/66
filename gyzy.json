@@ -217,8 +217,8 @@
             }
         },
          {
-            "key": "没事影院",
-            "name": "🐀没事┃蓝光",
+            "key": "青蛙影院",
+            "name": "🐀青蛙┃蓝光",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
@@ -226,8 +226,8 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "分类url": "https://www.2ksj.com/lys/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
-                "分类": "剧集$juji#电影$dianying#综艺$zongyi#动漫$dongman#短剧$duanju"
+                "分类url": "https://www.airuok.com/index.php/vod/type/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+                "分类": "剧集$2#电影$1#综艺$3#动漫$4#福利$24#伦理$37"
             }
         },
      {
@@ -1568,6 +1568,7 @@
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ]
 }
+
 
 
 
