@@ -460,7 +460,6 @@
       "quickSearch": 0,
       "filterable": 0,
       "changeable": 0,
-      "playUrl": "json:https://vip.dyttzyplay.com/?url=",
       "categories": [
         "动作片",
 		"伦理片",
@@ -1609,6 +1608,7 @@
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ]
 }
+
 
 
 
