@@ -88,8 +88,8 @@
             }
         },
 	{
-            "key": "奈非影视",
-            "name": "🐀奈非┃蓝光",
+            "key": "影巢影视",
+            "name": "🐀影巢┃蓝光",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
@@ -97,8 +97,8 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "分类url": "https://www.netflixgc.com/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-                "分类": "电影$1#连续剧$2#动漫$3#综艺$23#伦理$30"
+                "分类url": "https://www.movie1080.xyz/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+                "分类": "电影$20#连续剧$37#动漫$43#综艺$45"
             }
         },
         {
@@ -1581,6 +1581,7 @@
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ]
 }
+
 
 
 
