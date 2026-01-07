@@ -102,6 +102,20 @@
             }
         },
 	{
+            "key": "映像影视",
+            "name": "🐀映像┃蓝光",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "分类url": "https://yxxq3.cc/top/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+                "分类": "电影$1#连续剧$2#动漫$4#综艺$3"
+            }
+        },
+	{
             "key": "影巢影视",
             "name": "🐀影巢┃蓝光",
             "type": 3,
@@ -1595,6 +1609,7 @@
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ]
 }
+
 
 
 
