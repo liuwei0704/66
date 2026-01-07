@@ -87,6 +87,20 @@
                 "分类": "电视剧$dianshiju#电影$dianying#综艺$zongyi#动漫$dongman#纪录片$jilupian"
             }
         },
+	{
+            "key": "奈非影视",
+            "name": "🐀奈非┃蓝光",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "分类url": "https://www.netflixgc.com/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+                "分类": "电影$1#连续剧$2#动漫$3#综艺$23#伦理$30"
+            }
+        },
         {
             "key": "kankan影视",
             "name": "🐀看看屋┃蓝光",
@@ -641,7 +655,6 @@
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
       }
     },
- {"key": "奈飞影视","name":"🐀鸭奈飞┃影视","type":3,"api":"csp_XYQHiker", "jar": "https://gitee.com/juanxiao/bh/raw/master/wc.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/pg/lib/ynf.json"},
  {
       "key": "哔哩哔哩戏曲",
       "name": "哔哩🌀戏曲",
@@ -1568,6 +1581,7 @@
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ]
 }
+
 
 
 
