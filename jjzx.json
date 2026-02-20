@@ -723,20 +723,6 @@
       }
     },
     {
-      "key": "csp_XBPQ_huoniaoys",
-      "name": "👀火鸟影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
-      "ext": {
-        "分类url": "https://www.isantai.com/sec-{cateId}-pg-{catePg}.html",
-        "分类": "电影$mys#电视剧$2#综艺$3#动漫$dongman#短剧$weiduanju#午夜$juqingpian"
-      }
-    },
-    {
             "key": "大师兄",
             "name": "拾光☪大师兄(XBPQ)",
             "type": 3,
