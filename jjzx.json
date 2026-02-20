@@ -251,7 +251,7 @@
                 "分类url": "https://777tv.ai/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
                 "分类": "电视剧$2#电影$1#动漫$30#综艺$29"
             },
-            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar"
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/spider1.jar"
         },
         {
             "key": "玫瑰",
