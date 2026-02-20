@@ -102,15 +102,6 @@
       "playurl": "json:https://19xzy.com/?url="
     },
 	 {
-      "key": "souAV",
-      "name": "搜AV",
-      "type": 0,
-      "api": "https://api.souavzy.vip/api.php/provide/vod/at/xml",
-      "searchable": 1,
-      "changeable": 1,
-      "playurl": "json:https://souavzy.info/m3u8/?url="
-    },
-	 {
       "key": "JKUN",
       "name": "JKUN资源",
       "type": 0,
@@ -118,15 +109,6 @@
       "searchable": 1,
       "changeable": 1,
       "playurl": "json:https://www.jkunzyjx.com/?url="
-    },
-    {
-      "key": "kuai",
-      "name": "快播",
-      "type": 0,
-      "api": "https://gayapi.com/api.php/provide/vod/at/xml",
-      "searchable": 1,
-      "changeable": 1,
-      "playurl": "json:https://gayzyjiexi.com/play/?url="
     },
 {
             "key": "疯猫影视",
@@ -154,19 +136,6 @@
             },
             "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar"
         },
-
-{
-  "key": "o站影视",
-  "name": "🍊O站影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
-  "ext": {
-           "简介": "小橙子剧情介绍:+line-height: 20px;\">&&</div>",
-           "分类url": "https://www.omofun.site/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-           "分类": "电视剧$2#电影$1#动漫$4#综艺$3"
-         }
-},	
 {
       "key": "艾旦影视",
       "name": "🍊艾旦海外",
@@ -236,7 +205,7 @@
                 "站名": "吃瓜影视",
                 "主页url": "https://www.chiguafilm.com/",
                 "分类": "电影$1#连续剧$2#综艺$3#动漫$4#午夜$24",
-                "分类url": "https://www.chiguafilm.com/index.php/vod/show/area/{area}/by/time/id/{cateId}/page/{catePg}/year/{year}.html"
+                "分类url": "https://www.chiguafilm.com/index.php/vod/type/area/{area}/by/time/id/{cateId}/page/{catePg}/year/{year}.html"
             },
             "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar"
         },
