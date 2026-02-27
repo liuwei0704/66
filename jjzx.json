@@ -1806,7 +1806,7 @@
             "key": "玉兔专场",
             "name": "🔞玉兔采集",
             "type": 1,
-            "api": "https://py.nxog.eu.org/https://apiyutu.com/api.php/provide/vod/",
+            "api": "https://gh-proxy.com/https://apiyutu.com/api.php/provide/vod/",
             "playUrl": "",
             "searchable": 1,
             "quickSearch": 1,
@@ -1858,7 +1858,7 @@
             "key": "乐播",
             "name": "️🔞乐播采集",
             "type": 1,
-            "api": "https://py.nxog.eu.org/https://lbapi9.com/api.php/provide/vod/",
+            "api": "https://gh-proxy.com/https://lbapi9.com/api.php/provide/vod/",
             "playUrl": "",
             "searchable": 1,
             "quickSearch": 1,
@@ -2001,55 +2001,15 @@
         "分类": "国产视频$6#欧美高清$24#日韩视频$23#熟女人妻$32#国产传媒$12#亚洲专区$22#中文字幕$25#三级电影$26#高清名优$38#日本素人$37#少女萝莉$31#强奸乱伦$29#制服丝袜$30#童颜巨乳$28"
       }
     },
-        {
-            "key": "奈落",
-            "name": "奈落┃蓝光",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
-            "filterable": 1,
-            "ext": {
-                "请求头": "User-Agent$MOBILE_UA",
-                "主页url": "",
-                "搜索url": "https://www.newfii.com/vodsearch/{wd}----------{pg}---.html",
-                "播放组数": "module-blocklist&&</div>",
-                "跳转播放链接": "var player_*url\":\"&&\"",
-                "跳转解析": "默认$var Player*url=",
-                "数组": "module-item&&</div>",
-                "线路标题": "<span>&&</span>",
-                "标题": "title=\"&&\"",
-                "图片": "data-src=\"&&\"",
-                "副标题": ">&&</div>",
-                "线路数组": "module-tab-item tab-item&&</div>",
-                "简介": "<span>&&</span>",
-                "链接": "href=\"&&\"",
-                "分类url": "https://www.newfii.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
-                "分类": "电影$1#剧集$2#综艺$4#动漫$3#记录片$5#B站$39#短剧$53#体育$45#私密$52",
-                "筛选": ""
-            }
-        }, 
-     {
-      "key": "醉挽清风",
-      "name": "❤️墨玉┃4K纯净",
-      "type": 3,
-      "api": "http://我不是.摸鱼儿.top/json/js/drpy.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "playUrl": "json:http://103.117.123.51:6523/zhuimi666.php?url=",
-      "ext": "https://gitee.com/XIYANkong123/536992286/raw/moyuer/qingfeng.js",
-    "jar": "http://我不是.摸鱼儿.top/by/jar/moyu.php;md5;be6121b5c37471b191114027123912d2"
-    },
      {"key":"drpy_555","name":"速播┃影视","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/555.json"},
      {"key": "白嫖者","name": "白飘|影视","type": 3,"api": "csp_XBPQ","jar": "./lib/XBPQ.jar","ext": {"分类url": "https://www.qyzf88.com/qyvodtype/{cateId}-{catePg}.html","分类":"18禁$8#电影$1#电视剧$2#动漫$4#综艺$3","副标题":"class=\"pic-text text-right\"&&</span>","简介":"+剧情介绍：&&</p >"}},
-     {"key":"快看影视","name":"快看┃影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://py.nxog.eu.org/https://raw.githubusercontent.com/guot55/yg/main/lib/o.jar"},
+     {"key":"快看影视","name":"快看┃影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gh-proxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/o.jar"},
 {
       "key": "drpy_js_荐片",
       "name": "荐片|优质",
       "type": 3,
-      "api": "https://py.nxog.eu.org/https://raw.githubusercontent.com/guot55/yg/main/lib/drpy2.min.js",
-      "ext": "https://py.nxog.eu.org/https://raw.githubusercontent.com/guot55/yg/main/js/jp.js"
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/drpy2.min.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/guot55/yg/main/js/jp.js"
     },
     {
       "key": "csp_LiteApple",
@@ -2057,7 +2017,7 @@
       "type": 3,
       "playerType": "2",
       "api": "csp_LiteApple",
-      "jar": "https://py.nxog.eu.org/https://raw.githubusercontent.com/guot55/yg/main/lib/ap.jar",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/ap.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -2309,7 +2269,7 @@
             "name": "🌙卫总|影院",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://py.nxog.eu.org/https://raw.githubusercontent.com/guot55/yg/main/lib/XBPQ2.jar",
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/XBPQ2.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -2335,11 +2295,11 @@
       "name": "戏曲杂苑",
       "type": 3,
       "api": "csp_Bili",
-      "jar": "https://py.nxog.eu.org/https://raw.githubusercontent.com/guot55/yg/main/lib/o.jar",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/o.jar",
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://py.nxog.eu.org/https://raw.githubusercontent.com/guot55/yg/main/a/哔哩戏曲.json"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/guot55/yg/main/a/哔哩戏曲.json"
     },
 {
             "key": "高清资源网",
