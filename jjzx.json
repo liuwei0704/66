@@ -1790,7 +1790,6 @@
         "主页url": "https://www.777mmx.com/yazhouxingai/index.html",
         "播放数组":"mod play-list&&</ul",
         "跳转播放链接": "var playUrl=\"&&\"",
-        "链接": "href=\"&&\"",
        "标题": "alt=\"&&\"",
        "直接播放":"1",
         "分类url": "https://www.777mmx.com/{cateId}/{class}/index.html",
