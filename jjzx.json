@@ -587,7 +587,7 @@
             "ext": {
                 "简介": "<p class=\"col-pd\">&&</p>",
                 "跳转播放链接": "var player_*\"url\":\"&&\"",
-                "分类url": "https://www.ccttv1.cc/video/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}/",
+                "分类url": "https://www.ccttv6.cc/video/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}/",
                 "分类": "电影&连续剧&综艺&动漫&爽文短剧&伦理片",
                 "分类值": "dianying&lianxuju&zongyi&dongman&shuangwenduanju&lunlipian"
             },
