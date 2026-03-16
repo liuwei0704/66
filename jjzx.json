@@ -997,7 +997,7 @@
                 "线路标题": "\">&&</",
                 "跳转播放链接": "var player_*\"url\":\"&&\"",
                 "分类url": "https://www.maipianhj.com/s/{cateId}/area/{area}/by/{by}/lang/{lang}/page/{catePg}/year/{year}.html",
-                "分类": "电影$dianying#连续剧$lianxuju#综艺$zongyi#动漫$dongman",
+                "分类": "电影$dianying#连续剧$lianxuju#综艺$zongyi#动漫$dongman#午夜$yanqingpian",
                 "类型": "电影$dianying#动作片$dongzuopian#喜剧片$xijupian#乐哥最爱👙$aiqingpian#科幻片$kehuanpian#言情片$yanqingpian#恐怖片$kongbupian#剧情片$juqingpian#战争片$zhanzhengpian||连续剧$lianxuju#国产剧$guochanju#港台剧$gangtaiju#日韩剧$rihanju#欧美剧$oumeiju#其他剧$qitaju||空||空"
             }
         },
