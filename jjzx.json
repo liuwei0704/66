@@ -571,7 +571,7 @@
                 "线路数组": "<option&&option>",
                 "线路标题": ".:影视:.+>&&</",
                 "跳转播放链接": "var player_*\"url\":\"&&\"",
-                "分类url": "https://www.pkmp4.xyz/ms/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+                "分类url": "https://www.pkmp4.xyz/vt/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
                 "分类": "电影$1#剧集$2#综艺$3#动漫$4#短剧$30"
             },
             "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar"
