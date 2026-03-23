@@ -27,6 +27,15 @@
                 "地区": "大陆$大陆#香港$香港#台湾$台湾#美国$美国#法国$法国#英国$英国#日本$日本#韩国$韩国#德国$德国#泰国$泰国#印度$印度#意大利$意大利#西班牙$西班牙#加拿大$加拿大"
             }
         },
+	 {
+      "key": "zhiqiu",
+      "name": "🐀听风｜知秋",
+      "type": 3,
+      "api": "csp_zhiqiu",
+		   "jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260323/3GL4/fish03231604.php",
+      "searchable": 1,
+      "ext": "https://fishapi.wya6.com/fish/zhiqiu.php"
+    },
         {
       "key": "539",
       "name": "🖥️539剧",
