@@ -10,6 +10,15 @@
             "quickSearch": 0,
             "filterable": 0
         },
+	  {
+      "key": "zhiqiu",
+      "name": "🐀听风｜知秋",
+      "type": 3,
+      "api": "csp_zhiqiu",
+		   "jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260323/3GL4/fish03231604.php",
+      "searchable": 1,
+      "ext": "https://fishapi.wya6.com/fish/zhiqiu.php"
+    },
      {"key":"drpy_555","name":"🐀速播┃影视","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/555.json"},
      {"key": "白嫖者","name": "🐀白飘┃影视","type": 3,"api": "csp_XBPQ","jar": "./lib/XBPQ.jar","ext": {"分类url": "https://www.qyzf88.com/qyvodtype/{cateId}-{catePg}.html","分类":"伦理$8#电影$1#电视剧$2#动漫$4#综艺$3","副标题":"class=\"pic-text text-right\"&&</span>","简介":"+剧情介绍：&&</p >"}},
      {
