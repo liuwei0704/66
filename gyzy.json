@@ -93,6 +93,13 @@
       "searchable": 1,
       "filterable": 1
     },
+	 {
+      "key": "坚果影视",
+      "name": "💡坚果｜影视",
+      "type": 3,
+      "api": "csp_AppJg"
+		 "jar": "https://xn--zq2ao005e.u.xn--dkw.xn--6qq986b3xl/m/jar?id=index;md5;678e6aa8cd76dad3bf565c8d98238bce",
+    },
 	{
             "key": "937影视",
             "name": "🐀937┃蓝光",
