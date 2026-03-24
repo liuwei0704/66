@@ -84,6 +84,15 @@
       "searchable": 1,
       "changeable": 1
     },
+	 {
+      "key": "TvDy",
+      "name": "天堂｜影视",
+      "type": 3,
+      "api": "csp_TvDy",
+	  "jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260323/3GL4/fish03231604.php",	 
+      "searchable": 1,
+      "filterable": 1
+    },
 	{
             "key": "937影视",
             "name": "🐀937┃蓝光",
