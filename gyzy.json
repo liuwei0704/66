@@ -151,6 +151,30 @@
 		 "jar": "https://xn--zq2ao005e.u.xn--dkw.xn--6qq986b3xl/m/jar?id=index;md5;678e6aa8cd76dad3bf565c8d98238bce",
       "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/月光影视.js"
     },
+	 {
+      "key": "视界",
+      "name": "🍙视界┃多线",
+      "type": 3,
+      "api": "csp_AppSxGuard",
+		  "jar": "https://oss4liview.moji.com/thd_file/2026/03/16/50a9c8c5e7874ca0102df30d6ba99cc7.jpg;md5;c067633ea703159709d6c4e522c3dae5",
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "rfOX1voDIQhH8epBwpmIsuS1pDrb3t3j0G9nLcv9Hk5HJ1EK9mVu7apib64Gl9tN42ugKclqmXsYtX9DROtqWIyC+ajCEDTiGLA="
+    },
+	 {
+      "key": "花花",
+      "name": "🥝花花┃多线",
+      "type": 3,
+      "api": "csp_AppSxGuard",
+		 "jar": "https://oss4liview.moji.com/thd_file/2026/03/16/50a9c8c5e7874ca0102df30d6ba99cc7.jpg;md5;c067633ea703159709d6c4e522c3dae5",
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "rfOb1uAWbkRHp7hdxprG9un3+TbEn4q2l2kibom2DB9cJ0IB72Vu7apib64Gl9Ew6WDTJcIVzWsluDxqEaBqWIyM77GBXCPqCPmCyOr3RGfwjlsjchkArMHzTFT1VY9QUooz8m8BXA2mSa/whkG7SpZP100qUm6hMmTjm8YQQ51m6mxEE7hhEK1eNQ=="
+    },
 	{
             "key": "937影视",
             "name": "🐀937┃蓝光",
