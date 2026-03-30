@@ -63,16 +63,15 @@
             "key": "人人影视",
             "name": "🐀人人┃蓝光",
             "type": 3,
-            "api": "csp_XBPQ",
+            "api": "csp_HBPQ",
             "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "影片类型": "圥忈制作",
-                "简介": "请勿相信影片中的广告，以免上当受骗。+<div class=\"stui-pannel_bd\"&&</div>",
-                "分类url": "https://www.567dyy.com/list/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
-                "分类": "电影$1#电视剧$2#动漫$4#综艺$3#短剧$5"
+                "简介": "+detail-content\" style=*>&&</span>",
+    "分类url": "https://www.539539.xyz/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+    "分类": "短剧$25#电视剧$2#电影$1#动漫$4#综艺$3#午夜$26"
             }
         },
         {
