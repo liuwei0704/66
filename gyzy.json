@@ -352,7 +352,7 @@
         },
          {
             "key": "影视",
-            "name": "🐀80先生┃蓝光",
+            "name": "🐀星星┃蓝光",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
@@ -360,8 +360,25 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "分类url": "https://www.hd8090.cc/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-                "分类": "电影$1#连续剧$2#动漫$3#综艺$5#伦理$22#写真$34"
+                "请求头": "手机",
+        "主页url": "https://www.guosheji.com/",
+        "数组": "myui-vodlist__thumb&&</a>",
+        "简介": "简介：&&</a>",
+        "副标题": "<span class=\"pic-text text-right\">&&</span>",
+        "线路数组": "#playlist&&</li>[不包含:秒播]",
+        "线路标题": "+>&&</a>+",
+        "搜索标题": "title=\"&&\"",
+        "搜索副标题": "text-right\">&&</span>",
+        "搜索图片": "data-original=\"&&\"",
+        "搜索链接": "href=\"&&\"",
+        "播放数组": "<ul class=\"myui-content__list&&</ul>",
+        "播放标题": ">&&</a>[不包含:дрр滈凊]",
+        "播放列表": "<li&&</li>",
+        "跳转解析": "默认$https://jiexi.ddmz6.com/api/publicApi.php?url=",
+        "搜索url": "https://www.guosheji.com/xingsc/{wd}-------------.html",
+        "嗅探词": ".m3u8#.mp4#.flv#.mp3#.m4a",
+        "分类": "电影$1#电视剧$2#动漫$4#综艺$3",
+        "分类url": "https://www.guosheji.com/xingsw/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}/;;ak"
             }
         },
          {
