@@ -42,7 +42,6 @@
                 "分类": "电影$1#电视剧$2#动漫$4#综艺$3#伦理$5"
             }
         },
-     {"key":"快看影视","name":"🐀快看┃影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar"},
      { "key": "zycj_天天", "name": "🐀海燕┃采集", "type": 1, "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8", "playUrl": "", "categories": [ "内地剧", "动作片","伦理片", "科幻片", "战争片", "喜剧片", "爱情片", "恐怖片", "犯罪片", "剧情片", "冒险片", "记录片",  "韩剧", "香港剧", "台湾剧", "欧美剧", "日剧", "马泰剧", "体育赛事", "综艺", "动画片", "中国动漫", "日本动漫", "欧美动漫" ] },
      {"key":"New6v","name":"🐀六威┃磁力","type":3,"api":"csp_New6v","jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.xb6v.com"},
     {
@@ -263,8 +262,8 @@
             }
         },
         {
-            "key": "飞飞",
-            "name": "🐀飞飞┃蓝光",
+            "key": "234",
+            "name": "🐀三四┃蓝光",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
@@ -272,14 +271,17 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "影片年代": "<div class=\"module-info-tag\">&&</div>",
-                "影片地区": "圥忈制作",
-                "影片状态": "备注：&&</div>",
-                "影片类型": "module-info-tag\">&&立即播放",
-                "线路数组": "data-dropdown-value=&&</div>",
-                "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
-                "分类url": "https://www.ffys.fun/vodshow/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
-                "分类": "电影$20#剧集$21#动漫$22#综艺$23#记录片$24#爽剧$25"
+                  "首页": "0",
+        "数组": "class=\"stui-vodlist__thumb&&</h4>",
+        "图片": "original=\"&&\"",
+        "标题": "title=\"&&\"",
+        "副标题": "text-right\">&&</span>",
+        "链接": "href=\"&&\"",
+        "免嗅": "1",
+        "播放数组": "<ul class=\"stui-content__playlist&&</ul>",
+        "播放列表": "<li&&</li>",
+        "分类url": "https://ikan234.com/list/{cateId}-{catePg}.html",
+        "分类": "电视剧$2#电影$1#动漫$4#短剧$5#综艺$3"
             }
         },
     {
