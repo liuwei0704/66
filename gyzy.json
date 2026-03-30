@@ -60,8 +60,8 @@
             }
         },
         {
-            "key": "人人影视",
-            "name": "🐀人人┃蓝光",
+            "key": "39影视",
+            "name": "🐀三九┃蓝光",
             "type": 3,
             "api": "csp_HBPQ",
             "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
