@@ -9,7 +9,7 @@
 "主页url": "https://www.keke7.app",
 "首页": "120",
 "起始页": "1",
-"分类url": "/show/{cateId}-{class}-{area}-{lang}-{year}-{by}-{catePg}.html;;mrcd0",
+"分类url": "/show/1------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html;;mrcd0",
 "分类": "电影&剧集&综艺&动漫&短剧",
 "分类值": "1&2&4&3&6",
 
