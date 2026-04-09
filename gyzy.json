@@ -391,6 +391,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
+				"图片": "src=\"&&\"",
                 "分类url": "https://www.dmy8i3b6m7.shop/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
                 "分类": "剧集$21#电影$20#综艺$23#动漫$22#午夜$35"
             }
