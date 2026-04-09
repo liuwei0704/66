@@ -36,6 +36,24 @@
       "searchable": 1,
       "ext": "https://fishapi.wya6.com/fish/zhiqiu.php"
     },
+	 {
+      "key": "Guazi",
+      "name": "瓜子｜影视",
+      "type": 3,
+      "api": "csp_Guazi",
+		 "jar": "https://gitee.com/lwlxh/tvhome/raw/master/moyu.php",
+      "searchable": 1
+    },
+	 {
+      "key": "Ikanbot",
+      "name": "爱看｜影视",
+      "type": 3,
+      "api": "csp_Ikanbot",
+		 "jar": "https://gitee.com/lwlxh/tvhome/raw/master/moyu.php",
+      "searchable": 1,
+      "filterable": 0,
+      "ext": "{\"box\": \"TVBox\", \"danmu\": false}"
+    },
         {
       "key": "539",
       "name": "🖥️539剧",
