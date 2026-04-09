@@ -462,12 +462,12 @@
         "欧美综艺"
       ]
     },
-    {"key":"大米星球","name":"🐀大米┃影视","type":3,"api":"csp_AppDaMi","jar":"https://gitee.com/lwlxh/tvhome/raw/master/o.jar","searchable":1,"quickSearch":0,"filterable":0},
+    {"key":"大米星球","name":"🐀大米┃影视","type":3,"api":"csp_AppDaMi","jar":"https://gitee.com/lwlxh/tvhome/raw/master/o2.jar","searchable":1,"quickSearch":0,"filterable":0},
 {"key":"csp_xBPQ可可","name":"🐀可可┃影视","type":3,"api":"csp_XBPQ", "jar": "https://gitee.com/lwlxh/tvhome/raw/master/bhtv.txt","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/可可影视.json"},
 	{
       "key": "Jpys",
       "name": "🐀金牌┃影视",
-		"jar": "http://我不是.摸鱼儿.com/d/moyu.php",
+		"jar": "https://gitee.com/lwlxh/tvhome/raw/master/moyu.php",
   "type": 3,
       "api": "csp_Jpys",
       "searchable": 1,
