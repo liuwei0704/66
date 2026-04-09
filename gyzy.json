@@ -15,7 +15,7 @@
       "name": "🐀听风｜知秋",
       "type": 3,
       "api": "csp_zhiqiu",
-		   "jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260323/3GL4/fish03231604.php",
+		   "jar": "https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2F564d9241-b150-464f-858f-2da5b7ce4521.php;md5;8e01f71a08cc2da2b0426256771905c7",
       "searchable": 1,
       "ext": "https://fishapi.wya6.com/fish/zhiqiu.php"
     },
@@ -78,7 +78,7 @@
       "name": "🐀茶杯狐｜影视",
       "type": 3,
       "api": "csp_CupFox",
-	  "jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260323/3GL4/fish03231604.php",
+	  "jar": "https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2F564d9241-b150-464f-858f-2da5b7ce4521.php;md5;8e01f71a08cc2da2b0426256771905c7",
       "searchable": 1,
       "changeable": 1
     },
@@ -87,7 +87,7 @@
       "name": "天堂｜影视",
       "type": 3,
       "api": "csp_TvDy",
-	  "jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260323/3GL4/fish03231604.php",	 
+	  "jar": "https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2F564d9241-b150-464f-858f-2da5b7ce4521.php;md5;8e01f71a08cc2da2b0426256771905c7",	 
       "searchable": 1,
       "filterable": 1
     },
