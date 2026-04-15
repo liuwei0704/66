@@ -68,7 +68,7 @@
 "quickSearch": 1,            
 "filterable": 1,            
 "ext": {                
-"分类url": "https://www.ddys.run/list/{cateId}--------{catePg}---.html[firstPg=https://www.ddys.run/category/{cateId}.html]",                
+"分类url": "https://www.ddys.run/category/{cateId}--------{catePg}---.html[firstPg=https://www.ddys.run/category/{cateId}.html]",                
 "分类名称": "电影&电视剧&动漫",
     "分类名称替换词": "dianying&juji&dongman"            
 }        
