@@ -58,6 +58,21 @@
                 "分类": "电影$1#连续剧$2#伦理片$34#动漫$4#综艺$3#体育$59#短剧$53"
             }
         },
+	 {            
+"key": "低端",            
+"name": "🐀低端┃蓝光",            
+"type": 3,            
+"api": "csp_XBPQ",            
+"jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",            
+"searchable": 1,            
+"quickSearch": 1,            
+"filterable": 1,            
+"ext": {                
+"分类url": "https://www.ddys.run/list/{cateId}--------{catePg}---.html[firstPg=https://www.ddys.run/category/{cateId}.html]",                
+"分类名称": "电影&电视剧&动漫",
+    "分类名称替换词": "dianying&juji&dongman"            
+}        
+},
         {
             "key": "39影视",
             "name": "🐀三九┃弹幕",
