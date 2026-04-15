@@ -58,24 +58,9 @@
                 "分类": "电影$1#连续剧$2#伦理片$34#动漫$4#综艺$3#体育$59#短剧$53"
             }
         },
-	 {            
-"key": "低端",            
-"name": "🐀低端┃蓝光",            
-"type": 3,            
-"api": "csp_XYQHiker",            
-"jar": "https://jihulab.com/yoursmile2/TVBox/-/raw/master/Yoursmile.jar",            
-"searchable": 1,            
-"quickSearch": 1,            
-"filterable": 1,            
-  "ext": {                
-"分类url": "https://www.ddys.run/list/{cateId}--------{catePg}---.html[firstPg=https://www.ddys.run/category/{cateId}.html]",                
-"分类名称": "电影&电视剧&动漫",
-    "分类名称替换词": "dianying&juji&dongman"            
-}        
-},
 	 {
       "key": "Ikanbot",
-      "name": "爱看机器人",
+      "name": "🐀bot┃蓝光",
       "type": 3,
       "api": "csp_Ikanbot",
 		 "jar": "https://cnb.cool/fish2018/zx/-/git/raw/master/custom_spider.jar", 
