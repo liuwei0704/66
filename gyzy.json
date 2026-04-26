@@ -15,7 +15,7 @@
       "name": "🐀听风｜知秋",
       "type": 3,
       "api": "csp_zhiqiu",
-		   "jar": "https://gitee.com/lwlxh/tvhome/raw/master/moyu.php",
+		   "jar": "",
       "searchable": 1,
       "ext": "https://fishapi.wya6.com/fish/zhiqiu.php"
     },
@@ -90,7 +90,7 @@
       "name": "🐀茶杯狐｜影视",
       "type": 3,
       "api": "csp_CupFox",
-	  "jar": "https://gitee.com/lwlxh/tvhome/raw/master/moyu.php",
+	  "jar": "",
       "searchable": 1,
       "changeable": 1
     },
@@ -99,7 +99,7 @@
       "name": "天堂｜影视",
       "type": 3,
       "api": "csp_TvDy",
-	  "jar": "https://gitee.com/lwlxh/tvhome/raw/master/moyu.php",	 
+	  "jar": "",	 
       "searchable": 1,
       "filterable": 1
     },
