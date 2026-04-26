@@ -489,13 +489,11 @@
     {"key":"大米星球","name":"🐀大米┃影视","type":3,"api":"csp_AppDaMi","jar":"https://gitee.com/lwlxh/tvhome/raw/master/o2.jar","searchable":1,"quickSearch":0,"filterable":0},
 {"key":"csp_xBPQ可可","name":"🐀可可┃影视","type":3,"api":"csp_XBPQ", "jar": "https://gitee.com/lwlxh/tvhome/raw/master/bhtv.txt","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/可可影视.json"},
 	{
-      "key": "Jpys",
-      "name": "🐀金牌┃影视",
-		"jar": "https://gitee.com/lwlxh/tvhome/raw/master/moyu.php",
-  "type": 3,
-      "api": "csp_Jpys",
-      "searchable": 1,
-      "ext": "https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.jiabaide.cn"
+      "key": "csp_Jpys",
+      "name": "🥇️┃金牌┃影视",
+      "type": 3,
+		"jar": "https://img2.gelonghui.com/library/9c8e4-b797010b-366e-48f9-86b6-16be897c90c2.png;md5;9c8e45f60d3d413d8b140ec21811deb0",
+      "api": "csp_Jpys"
     },
 {
       "key": "牛Y", 
