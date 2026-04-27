@@ -28,31 +28,29 @@
             }
         },
 	 {
-      "key": "zhiqiu",
-      "name": "🐀听风｜知秋",
+      "key": "独播库",
+      "name": "🥇播库┃影视",
+		   "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0406/21/5b2f258907bc956ee3538c9f5cdf4b83.jpg;md5;5af5edf697f25b99eb189fb800e1d098",
       "type": 3,
-      "api": "csp_zhiqiu",
-		   "jar": "https://gitee.com/lwlxh/tvhome/raw/master/moyu.php",
-      "searchable": 1,
-      "ext": "https://fishapi.wya6.com/fish/zhiqiu.php"
+      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/VmOlRys8_vip.js"
     },
-	 {
-      "key": "Guazi",
-      "name": "瓜子｜影视",
+	{
+      "key": "橘皮",
+      "name": "💡橘皮｜影视",
       "type": 3,
-      "api": "csp_Guazi",
-		 "jar": "https://gitee.com/lwlxh/tvhome/raw/master/moyu.php",
-      "searchable": 1
+      "api": "csp_Jpys",
+      "playerType": 1,
+      "jar": "https://ncstatic.clewm.net/rsrc/2025/0915/15/e210975c2c794cbc8bb1839b54ac213e.png;md5;939FFBC2941A28CA533F2653FA4B449E",
+      "ext": "7lj763gg402i7942463j9j9jh84l8798l8gli652828g332i"
     },
-	 {
-      "key": "Ikanbot",
-      "name": "爱看｜影视",
+	  {
+      "key": "柠檬",
+      "name": "💡柠檬｜影视",
       "type": 3,
-      "api": "csp_Ikanbot",
-		 "jar": "https://gitee.com/lwlxh/tvhome/raw/master/moyu.php",
-      "searchable": 1,
-      "filterable": 0,
-      "ext": "{\"box\": \"TVBox\", \"danmu\": false}"
+      "api": "csp_Nmvod",
+      "playerType": 2,
+      "jar": "https://ncstatic.clewm.net/rsrc/2025/0915/15/e210975c2c794cbc8bb1839b54ac213e.png;md5;939FFBC2941A28CA533F2653FA4B449E",
+      "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
     },
         {
       "key": "539",
