@@ -372,6 +372,7 @@
         "请求头": "User-Agent$MOBILE_UA",
         "编码": "UTF-8",
 				"数组": "myui-vodlist__thumb&&</a>",
+				"线路数组": "#playlist&&</li>[不包含:秒播]",
 				"播放标题": ">&&</a>[不包含:дрр滈凊]",
 				"播放列表": "<li&&</li>[不包含:дрр滈凊]",
 				"跳转解析": "默认$https://jiexi.ddmz6.com/api/publicApi.php?url=",
