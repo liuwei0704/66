@@ -373,7 +373,7 @@
         "编码": "UTF-8",
 				  "简介": "简介：&&</a>",
         "副标题": "<span class=\"pic-text text-right\">&&</span>",
-        "线路数组": "#playlist&&</li>[不包含:秒播]",
+        "线路数组": "#playlist&&</li>",
         "线路标题": "+>&&</a>+",
         "搜索标题": "title=\"&&\"",
         "搜索副标题": "text-right\">&&</span>",
