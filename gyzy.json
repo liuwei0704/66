@@ -37,7 +37,7 @@
                 "线路数组": "data-dropdown-value=&&</div>",
                 "线路标题": "<span>&&</span>",
                 "分类url": "https://www.ddmf.net/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-                "分类": "电影$1#电视剧$2#动漫$4#综艺$3#伦理$5"
+                "分类": "电影$1#电视剧$2#动漫$4#综艺$3#午夜港台$65#午夜韩国$66#午夜西方$67#午夜日本$68#午夜伦理$17"
             }
         },
      { "key": "zycj_天天", "name": "🐀海燕┃采集", "type": 1, "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8", "playUrl": "", "categories": [ "内地剧", "动作片","伦理片", "科幻片", "战争片", "喜剧片", "爱情片", "恐怖片", "犯罪片", "剧情片", "冒险片", "记录片",  "韩剧", "香港剧", "台湾剧", "欧美剧", "日剧", "马泰剧", "体育赛事", "综艺", "动画片", "中国动漫", "日本动漫", "欧美动漫" ] },
