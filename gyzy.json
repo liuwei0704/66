@@ -371,7 +371,7 @@
 				 "副标题": "GY专属",
         "请求头": "User-Agent$MOBILE_UA",
         "编码": "UTF-8",
-                "分类url": "https://m.ycblcw.com/bukatp/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+                "分类url": "https://m.ycblcw.com/bukatp/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
                 "分类": "电影$1#连续剧$2#动漫$4#综艺$3#短剧$5"
             }
         },
