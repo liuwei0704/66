@@ -258,7 +258,6 @@
             "api": "csp_XBPQ",
             "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "ext": {
-                "作者": "",
     "站名": "免费影院",
     "请求头": "User-Agent$MOBILE_UA",
     "编码": "UTF-8",
