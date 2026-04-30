@@ -252,6 +252,17 @@
             }
         },
 	{
+            "key": "208影视",
+            "name": "208影院",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+            "ext": {
+                "分类": "电影$1#电视剧$2#综艺$4#动漫$3",
+                "分类url": "https://www.knvod.com/vshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"
+            }
+        },
+	{
             "key": "一凡影视",
             "name": "一凡影院",
             "type": 3,
