@@ -252,6 +252,17 @@
             }
         },
 	{
+            "key": "一凡影视",
+            "name": "一凡影院",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+            "ext": {
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
+                "分类url": "https://www.iyf.lv/k/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"
+            }
+        },
+	{
             "key": "MF影视",
             "name": "自营影院",
             "type": 3,
@@ -261,13 +272,14 @@
     "站名": "免费影院",
     "请求头": "User-Agent$MOBILE_UA",
     "编码": "UTF-8",
-    "图片代理": "",
+    "副标题": "自营",
     "直接播放": "0",
     "播放请求头": "",
     "过滤词": "",
     "主页url": "https://www.hangtong168.com/",
     "首页": "120",
-    "起始页": "1",
+	"起始页": "1",
+    "搜索url": "/index.php/ajax/suggest?mid=1&wd={wd}&page={pg}",
     "分类url": "/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
     "分类": "电影&电视剧&综艺&动漫&午夜",
     "分类值": "1&2&3&4&33"
