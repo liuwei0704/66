@@ -511,7 +511,7 @@
                 "跳转播放链接": "data-play=\"&&\"",
                 "搜索url": "https://www.hanpian.tv/search/{wd}-------------/",
                 "分类url": "https://www.hanpian.tv/so/{cateId}/{area}-{by}--{lang}----{catePg}---{year}/",
-                "分类": "电影$movie#电视剧$tv#综艺$variety#动漫片$anime"
+                "分类": "电影$movie#电视剧$tv#综艺$variety#动漫片$anime#伦理片$ll"
             },
             "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar"
         },
