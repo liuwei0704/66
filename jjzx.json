@@ -262,6 +262,17 @@
                 "分类url": "https://www.iyf.lv/k/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"
             }
         },
+	{            
+"key": "泥影视",            
+"name": "妮妮影院",            
+"type": 3,            
+"api": "csp_XBPQ",            
+"jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",            
+"ext": {                
+"分类": "电影$1#电视剧$2#综艺$3#动漫$4",                
+"分类url": "https://www.nivod.vip/k/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"            
+}        
+},
 	{
             "key": "MF影视",
             "name": "自营影院",
