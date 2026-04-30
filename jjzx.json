@@ -251,6 +251,29 @@
                 "分类url": "https://www.tomato-china.net/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"
             }
         },
+	{
+            "key": "MF影视",
+            "name": "自营影院",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+            "ext": {
+                "作者": "",
+    "站名": "免费影院",
+    "请求头": "User-Agent$MOBILE_UA",
+    "编码": "UTF-8",
+    "图片代理": "",
+    "直接播放": "0",
+    "播放请求头": "",
+    "过滤词": "",
+    "主页url": "https://www.hangtong168.com/",
+    "首页": "120",
+    "起始页": "1",
+    "分类url": "/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+    "分类": "电影&电视剧&综艺&动漫&午夜",
+    "分类值": "1&2&3&4&33",
+            }
+        },
         {
             "key": "柠檬影视",
             "name": "🍋柠檬影视(XBPQ)",
