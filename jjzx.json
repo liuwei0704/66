@@ -324,7 +324,7 @@
 				"线路标题": "",
 				"跳转播放链接": "var player_*\"url\":\"&&\"",
 				"主页url": "http://114bate.com/",
-				"分类url": "http://114bate.com/vodgenre/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+				"分类url": "http://114bate.com/vodgenre/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html",
 				"分类": "电影$1#电视剧$2#综艺$3#动漫$4#午夜$rihan"
 			}
 		},
