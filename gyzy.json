@@ -605,6 +605,22 @@
       }
     },
 	{
+		"key":"xiaozhen",
+		"name":"🐀小镇┃影视",
+		"type":3,
+		"api":"csp_XBPQ",
+		"jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+		"searchable":1,
+		"quickSearch":1,
+		"filterable":1,
+	    "ext":{
+		"线路数组":"<a data-toggle=\"tab\"&&/a>",
+		"线路标题":">&&<",
+		"分类url":"http://dyxz.tv/list/{cateId}_{catePg}.html",
+		"分类":"电影$1#电视剧$2#动漫$3#综艺$4#🔞午夜$6"
+	  }
+	},
+	{
       "key": "t1_dian_ying_tian_tang_02",
       "name": "电影🌀天堂",
       "type": 1,
