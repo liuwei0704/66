@@ -28,7 +28,7 @@
             }
         },
 	{"key": "5x5x",
-            "name": "🔞5x5x",
+            "name": "🔞5x5xx",
             "type": 3,
             "api": "csp_XBPQ",
    "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
@@ -38,8 +38,8 @@
             },
             "ext": {
 				
-                "主页url": "https://www.omuv0n.com/",
-                "分类url": "https://www.omuv0n.com/category/{cateId}/page/{catePg}",
+                "主页url": "https://www.ruscdt.com/",
+                "分类url": "https://www.ruscdt.com/category/{cateId}/page/{catePg}",
                 "分类": "大陆$1#日韩$2#欧美$3$#动画$4#三级$5"
             }
         },
