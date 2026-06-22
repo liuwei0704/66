@@ -27,22 +27,22 @@
                 "地区": "大陆$大陆#香港$香港#台湾$台湾#美国$美国#法国$法国#英国$英国#日本$日本#韩国$韩国#德国$德国#泰国$泰国#印度$印度#意大利$意大利#西班牙$西班牙#加拿大$加拿大"
             }
         },
-	{"key": "5x5x",
-            "name": "🔞5x5xx",
-            "type": 3,
-            "api": "csp_XBPQ",
-   "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
-            "style": {
-                "type": "rect",
-                "ratio": 1.5
-            },
-            "ext": {
-				
-                "主页url": "https://www.ruscdt.com/",
-                "分类url": "https://www.ruscdt.com/category/{cateId}/page/{catePg}",
-                "分类": "大陆$1#日韩$2#欧美$3$#动画$4#三级$5"
-            }
-        },
+	{
+			"key": "优酷视频",
+			"name": "💧┃优酷┃视频",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": {
+				"影片类型": "类型：&&</li>",
+				"简介": "简介：&&</div>",
+				"分类url": "https://72jycvwfrccvjjnjzwixbw5vdamzm.youkushijie.sbs/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+				"分类": "动漫$1#中文字幕$2#绿帽$14#解说$3#欧美$16#传媒$4"
+			}
+		},
 	{
             "key": "66影院",
             "name": "66影院",
