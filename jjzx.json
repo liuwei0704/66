@@ -29,7 +29,7 @@
         },
 	{
 			"key": "优酷视频",
-			"name": "┃优酷┃视频",
+			"name": "优酷┃视频",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
