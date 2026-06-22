@@ -37,6 +37,7 @@
                 "ratio": 1.5
             },
             "ext": {
+				
                 "主页url": "https://www.omuv0n.com/",
                 "分类url": "https://www.omuv0n.com/category/{cateId}/page/{catePg}/;;z",
                 "分类": "大陆$1#日韩$2#欧美$3$#动画$4#三级$5"
