@@ -28,7 +28,7 @@
             }
         },
 	{"key": "5x5x",
-            "name": "🔞5x5x5",
+            "name": "🔞5x5x",
             "type": 3,
             "api": "csp_XBPQ",
    "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
@@ -37,13 +37,7 @@
                 "ratio": 1.5
             },
             "ext": {
-                "主页url": "https://www.omuv0n.com/category/2/",
-                "数组": "data-video-uid=&&</div>",
-                "图片": "data-src=\"&&\"",
-                "标题": "alt=\"&&\"",
-                "副标题": "</i>&&</span>",
-                "链接": "href=\"&&\"",
-                "简介": "⚠️少看点，再看你就废了！！！",
+                "主页url": "https://www.omuv0n.com/",
                 "分类url": "https://www.omuv0n.com/category/{cateId}/page/{catePg}/;;z",
                 "分类": "大陆$1#日韩$2#欧美$3$#动画$4#三级$5"
             }
