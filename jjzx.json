@@ -1723,7 +1723,7 @@
             "key": "奶香m",
             "name": "🔞采集.奶香香",
             "type": 1,
-            "api": "https://naixxzy4.com/api.php/provide/vod/?ac=list",
+            "api": "https://naixxzy2.com/api.php/provide/vod/?ac=list",
             "searchable": 1
         }, 
 {
@@ -1907,7 +1907,7 @@
             "key": "玉兔专场",
             "name": "🔞玉兔采集",
             "type": 1,
-            "api": "https://gh-proxy.com/https://apiyutu.com/api.php/provide/vod/",
+            "api": "https://apiyutu.com/api.php/provide/vod/",
             "playUrl": "",
             "searchable": 1,
             "quickSearch": 1,
@@ -1959,7 +1959,7 @@
             "key": "乐播",
             "name": "️🔞乐播采集",
             "type": 1,
-            "api": "https://gh-proxy.com/https://lbapi9.com/api.php/provide/vod/",
+            "api": "https://lbapi9.com/api.php/provide/vod/",
             "playUrl": "",
             "searchable": 1,
             "quickSearch": 1,
