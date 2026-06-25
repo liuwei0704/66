@@ -1,4 +1,4 @@
-{"spider":"https://gitee.com/lwlxh/tvhome/raw/master/spider1.jar",
+{"spider":"https://gitee.com/lwlxh/tvhome/raw/master/spider.jar",
 "sites":[
 {
             "key": "js豆瓣1",
@@ -35,7 +35,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "api": "./py/好色™ Tv.py",
-	  "jar": "https://gitee.com/lwlxh/tvhome/raw/master/spider1.jar",
             "order_num": 5,
             "ext": ""
         },
