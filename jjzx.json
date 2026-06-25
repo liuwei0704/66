@@ -45,6 +45,29 @@
             }
         },
 	{
+            "key": "快递🔞",
+            "name": "快递🔞",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "主页url": "https://www.xjjkdfw.sbs/",
+                "数组": "thumbnail-group clearfix&&</li",
+                "标题": ">&&<",
+                "图片": "original=\"&&\"",
+                "链接": "href=\"&&\"[替换:voddetail>>vodplay#.html>>-1-1.html]",
+                "分类url": "https://www.xjjkdfw.sbs/vodtype/{cateId}/page/{catePg}.html",
+                "分类二次截取": "<div class=\"area\">&&</div",
+                "分类数组": "<a&&/a>",
+                "分类标题": ">&&<",
+                "分类ID": "/vodtype/&&.html"
+            }
+        },
+	{
             "key": "66影院",
             "name": "66影院",
             "type": 3,
