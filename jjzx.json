@@ -27,23 +27,16 @@
                 "地区": "大陆$大陆#香港$香港#台湾$台湾#美国$美国#法国$法国#英国$英国#日本$日本#韩国$韩国#德国$德国#泰国$泰国#印度$印度#意大利$意大利#西班牙$西班牙#加拿大$加拿大"
             }
         },
- {
-            "key": "222cou",
-            "name": "222cou",
+  {
+            "key": "好色™ Tv",
+            "name": "Aries|好色™ Tv.py",
             "type": 3,
-            "api": "csp_XBPQ",
-	 "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
-            "ext": {
-                "主页url": "http://224cuo.com/",
-                "直接播放": "1",
-                "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
-                "跳转播放链接": "var playUrl=\"&&\"",
-                "图片": "data-original=\"&&\"",
-                "标题": "title=\"&&\"",
-                "链接": "href=\"&&\"",
-                "分类url": "http://224cuo.com/{cateId}/list_{catePg}.html;;RC",
-                "分类": "亚洲AV$yazhouav#自拍偷拍$zipaitoupai#欧美AV$oumeiav#3D动画$3ddonghua#熟女人妻$shunvrenqi#丝袜制服$siwazhifu#主播直播$zhubozhibo#SM另类$smlinglei#亚洲性爱$yazhouxingai#偷拍自拍$toupaizipai#成人卡通$chengrenkatong#欧美性爱$oumeixingai#制服丝袜$zhifusiwa#经典三级$sanjijingdian#乱伦熟女$luanlunshunv#另类变态$lingleibiantai"
-            }
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "./py/好色™ Tv.py",
+            "order_num": 5,
+            "ext": ""
         },
 	{
             "key": "66影院",
