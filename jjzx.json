@@ -15,7 +15,6 @@
             "name": "小呗┃影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "ext": {
                 "线路二次截取": "<ul class=\"nav nav-tabs ff-playurl-tab&&</ul>",
                 "线路数组": "<li&&</li>",
@@ -43,7 +42,6 @@
             "name": "66影院",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
