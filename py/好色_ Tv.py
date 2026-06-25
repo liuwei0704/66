@@ -13,11 +13,11 @@ class Spider(Spider):
     def __init__(self):
         # 基础配置
         self.name = '好色TV（优）'
-        self.host = 'https://hsex.icu/'
+        self.host = 'https://hsex.tv/'
         self.candidate_hosts = [
-            "https://hsex.icu/",
+            "https://hsex.tv/",
             "https://hsex1.icu/",
-            "https://hsex.tv/"
+            "https://hsex.icu/"
         ]
         self.headers = {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
