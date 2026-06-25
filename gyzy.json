@@ -790,7 +790,7 @@
         "搜索链接": "href=\"&&\"",
         "线路数组": "</a><h3&&/h3>",
         "线路标题": "影视专享",
-        "分类url": "http://www.tvyb03.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
+        "分类url": "http://www.viptv01.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
       }
     }, {
