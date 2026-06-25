@@ -249,6 +249,79 @@
                 "分类url": "/vodshow/{cateId}-----{letter}---{catePg}---.html"
             }
         },
+	 {
+            "key": "魔法少女",
+            "name": "魔法少女",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "作者": "魔法少女",
+                "站名": "",
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "分类url": "https://618970.xyz/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+                "分类": "香蕉精品$13#动漫中字$53#日本无码$52#中文字幕$33#国产自拍$32",
+                "数组": "vodbox\"&&</a>",
+                "标题": "多吃枸杞啊",
+                "图片": "data-original=\"&&\"",
+                "链接": "?v=&&\\&",
+                "嗅探词": ".m3u8",
+                "直接播放": 1,
+                "搜索url": "https://618970.xyz/index.php/vod/type/id/2/wd/{wd}/page/{pg}.html"
+            }
+        },
+        {
+            "key": "魔法少女1",
+            "name": "魔法少女1",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "作者": "魔法少女",
+                "站名": "",
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "分类url": "https://6181006.xyz/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+                "分类": "FC2$9#中文$7#无码$8#国产$6#国S-CUTE$11#PREST$12#GANA$26#一本道$10#国播$61#LUXU$27#HeyZo$28#人妻斩$60#韩播$62",
+                "数组": "vodbox\"&&</a>",
+                "标题": "多吃枸杞啊",
+                "副标题": "🍵",
+                "图片": "data-original=\"&&\"",
+                "播放链接": "https://6181006.xyz/html/abou.html?url=&&",
+                "直接播放": 1,
+                "搜索url": "https://6181006.xyz/index.php/vod/type/id/{cateId}/page/{catePg}.html"
+            }
+        },
+        {
+            "key": "魔法少女2",
+            "name": "魔法少女2",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "作者": "魔法少女",
+                "站名": "",
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "分类url": "https://6180130.xyz/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+                "分类": "国产AV$37#探花AV$43#黑料吃瓜$24#网黄UP主$40#绿帽淫妻$49#国产传媒$44#福利姬$41#字幕$39#水果π$45#主播直播$42#欧美$38#FC2$66#性爱教学$46#三级$48#动漫$47",
+                "数组": "thumbnail\"&&<li",
+                "标题": "多吃枸杞啊",
+                "副标题": "🍵",
+                "图片": "data-original=\"&&\"",
+                "链接": "?v=&&\\&",
+                "嗅探词": ".m3u8",
+                "直接播放": 1,
+                "搜索url": "https://6180130.xyz/index.php/vod/type/id/{cateId}/page/{catePg}.html"
+            }
+        },
 
 	 {
       "key": "新吧",
