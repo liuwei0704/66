@@ -23,7 +23,7 @@
 "播放链接":"href=\"&&\"",
 "免嗅":"1",
 "分类":"GAOAA$1",
-"分类url":"https://54gaoac.com/gaotype/{cateId}/page/{catePg}.html",
+"分类url":"https://54gaoac.com/gaotype/{cateId}-{catePg}.html",
 "筛选":{
 "1":[
 {
