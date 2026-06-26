@@ -38,6 +38,17 @@
             "ext": "./h/精工厂.json"
         },
 	 {
+            "key": "一个纯粹的x站",
+            "name": "Aries|一个纯粹的x站",
+            "type": 3,
+            "playerType": 2,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./h/一个纯粹的x站.json"
+        },
+	 {
             "key": "自排偷拍",
             "name": "Aries|自排偷拍",
             "type": 3,
