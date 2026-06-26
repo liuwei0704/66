@@ -26,6 +26,18 @@
                 "地区": "大陆$大陆#香港$香港#台湾$台湾#美国$美国#法国$法国#英国$英国#日本$日本#韩国$韩国#德国$德国#泰国$泰国#印度$印度#意大利$意大利#西班牙$西班牙#加拿大$加拿大"
             }
         },
+	 {
+            "key": "GAOAA",
+            "name": "GAOAA",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./h/GAOAA.json",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
   {
             "key": "痴迷视频",
             "name": "痴迷视频",
