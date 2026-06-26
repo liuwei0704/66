@@ -37,6 +37,17 @@
             "filterable": 1,
             "ext": "./h/精工厂.json"
         },
+	  {
+            "key": "文件夹",
+            "name": "Aries|文件夹",
+            "type": 3,
+            "playerType": 2,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./h/文件夹.json"
+        },
 	 {
             "key": "GAOAA",
             "name": "GAOAA",
