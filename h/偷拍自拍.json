@@ -1,9 +1,9 @@
 {
     "作者": "Aries",
-    "站名": "https://caq.tpzp6.pics/cn/",
+    "站名": "https://caq.tpzp6.pics/cn/home/web/index.php",
     "请求头": "User-Agent$MOBILE_UA",
     "编码": "UTF-8",
-    "主页url": "https://caq.tpzp6.pics/cn/",
+    "主页url": "https://caq.tpzp6.pics/cn/home/web/index.php",
     "首页": "120",
     "起始页": "1",
     "分类url": "https://caq.tpzp6.pics/cn/home/web/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z",
