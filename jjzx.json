@@ -2336,7 +2336,7 @@
  {
       "key": "奇优🏮秒播",
       "name": "奇优|播",
-     "jar": "./lib/XBPQ.jar",
+     
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
