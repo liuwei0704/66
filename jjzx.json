@@ -2213,7 +2213,7 @@
       "filterable": 1,
       "ext": {
         "主页url": "https://cmyy.amjtc.cn/yazhouxingai/index.html",
-        
+       "播放数组":"mod play-list&&</ul", 
       "跳转播放链接": "var playUrl=\"&&\"", 
        "标题": "alt=\"&&\"",
 		   "链接": "href=\"&&\"",
