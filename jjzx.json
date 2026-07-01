@@ -2283,7 +2283,7 @@
       }
     },
      {"key":"drpy_555","name":"速播┃影视","type":3,"api":"./lib/drpy2.min.js","jar": "https://gitee.com/lwlxh/tvhome/raw/master/pg.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/555.json"},
-     {"key": "白嫖者","name": "白飘|影视","type": 3,"api": "csp_XBPQ","jar": ","ext": {"分类url": "https://www.qyzf88.com/qyvodtype/{cateId}-{catePg}.html","分类":"18禁$8#电影$1#电视剧$2#动漫$4#综艺$3","副标题":"class=\"pic-text text-right\"&&</span>","简介":"+剧情介绍：&&</p >"}},
+     {"key": "白嫖者","name": "白飘|影视","type": 3,"api": "csp_XBPQ","ext": {"分类url": "https://www.qyzf88.com/qyvodtype/{cateId}-{catePg}.html","分类":"18禁$8#电影$1#电视剧$2#动漫$4#综艺$3","副标题":"class=\"pic-text text-right\"&&</span>","简介":"+剧情介绍：&&</p >"}},
 {
       "key": "牛Y", 
       "name": "牛Y┃影视", 
