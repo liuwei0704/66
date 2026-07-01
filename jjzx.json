@@ -1957,7 +1957,7 @@
       "key": "zp011",
       "name": "🐝78资源",
       "type": 1,
-      "api": "https://lbapi9.com/api.php/provide/vod/",
+      "api": "https://lbapi9.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
