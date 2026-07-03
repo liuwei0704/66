@@ -27,21 +27,14 @@
             }
         },
 	{
-			"key": "暴风视频",
-			"name": "💧┃暴飞┃视频",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": {
-				"影片类型": "类型：&&</li>",
-				"简介": "简介：&&</div>",
-				"分类url": "https://bfzy.tv/index.php/vod/type/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
-				"分类": "福利$73#电影$20#连续剧$30#动漫$39#综艺$45#伦理$29"
-			}
-		},
+      "key": "暴风",
+      "name": "暴风",
+      "type": 0,
+      "api": "https://bfzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1,
+      "playurl": "json:https://vip.vipuuvip.com/?url="
+    },
 	 {
             "key": "精工厂",
             "name": "Aries|精工厂",
