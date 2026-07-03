@@ -38,7 +38,7 @@
 			"ext": {
 				"影片类型": "类型：&&</li>",
 				"简介": "简介：&&</div>",
-				"分类url": "https://bfzy.tv/index.php/vod/type/id/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+				"分类url": "https://bfzy.tv/index.php/vod/type/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
 				"分类": "福利$73#电影$20#连续剧$30#动漫$39#综艺$45#伦理$29"
 			}
 		},
