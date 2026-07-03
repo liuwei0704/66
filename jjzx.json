@@ -28,8 +28,8 @@
         },
 	{
       "key": "暴风",
-      "name": "暴风",
-      "type": 0,
+      "name": "暴风1",
+      "type": 1,
       "api": "https://bfzyapi.com/api.php/provide/vod/",
       "searchable": 1,
       "changeable": 1,
