@@ -45,8 +45,8 @@
       "filterable": 1,
       "ext": {
          
-    "分类url": "https://bfzy.tv/index.php/vod/type/id/{cateId}/page/{catePg}.html",
-    "分类": "短剧$25#电视剧$2#电影$1#动漫$4#综艺$3#伦理$26#写真$27"
+    "分类url": "https://bfzy.tv/index.php/vod/type/id/{cateId}.html/page/{catePg}.html",
+    "分类": "短剧$25#电视剧$2#电影$20#动漫$4#综艺$3#伦理$26#写真$27"
       }
 },
 	 {
