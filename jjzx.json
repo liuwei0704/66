@@ -2523,7 +2523,6 @@
       "name": "农民|影院",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/XBPQ.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -2535,7 +2534,7 @@
         "搜索url": "/search.php;post;searchword={wd}",
         "线路数组": "<h3&&/h3>",
         "线路标题": "影视专享",
-        "分类url": "https://www.wwgz.cn/vod-list-id-{cateId}-pg-{catePg}-order--by-{by}-class-0-year-{year}-letter--area-{area}-lang-.html;;ak",
+        "分类url": "https://vip.wwgz.cn:5200/vod-list-id-{cateId}-pg-{catePg}-order--by-{by}-class-0-year-{year}-letter--area-{area}-lang-.html;;ak",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
       }
     },
