@@ -328,8 +328,16 @@
             "name": "小镇 💡 影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "https://bitbucket.org/guot55/bhmb/raw/e4666a8c905abb1627d77df1b0d84f9d37d1d3c2/TVBoxOSC/tvbox/XBPQ/%E5%B0%8F%E9%95%87%E5%BD%B1%E8%A7%86.json"
-        },
+           "searchable":1,
+		"quickSearch":1,
+		"filterable":1,
+	    "ext":{
+		"线路数组":"<a data-toggle=\"tab\"&&/a>",
+		"线路标题":">&&<",
+		"分类url":"http://dyxz.tv/list/{cateId}_{catePg}.html",
+		"分类":"电影$1#电视剧$2#动漫$3#综艺$4#🔞午夜$6"
+	  }
+	},
 	{
 		"key":"2k",
 		"name":"2k 💡 影视",
