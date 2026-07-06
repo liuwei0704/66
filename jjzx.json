@@ -58,7 +58,7 @@
         },
 	 {
             "key": "橘汁",
-            "name": "橘汁 💡 APP",
+            "name": "橘汁$APP",
             "type": 3,
             "api": "csp_AppDrama",
 		 "jar": "https://gitee.com/lwlxh/tvhome/raw/master/lw.jar",
