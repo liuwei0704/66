@@ -10,6 +10,22 @@
             "quickSearch": 0,
             "filterable": 0
         },
+	  {
+            "key": "橙子99",
+            "name": "橙子 💡 APP",
+            "type": 3,
+            "api": "csp_App99",
+            "ext": {
+                "host": "http://113.31.180.218:19987/app/bn",
+                "LoginPath": "/app/log",
+                "appkey": "6e8f3764a0644f3686ab5cdd57bcdf48",
+                "versionName": "4.3.1",
+                "name": "小橙子",
+                "package": "com.xchengzix.app",
+                "buildNumber": "2001",
+                "buildSignature": "99DA983CF878CEC016616175464A91A94775E20A489F07F76FCDEA1A0F2B6B45"
+            }
+        },
          {
         "key": "剧下饭",
         "name": "下饭4K💡臻彩视界",
