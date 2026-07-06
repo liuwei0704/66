@@ -40,6 +40,7 @@
             "name": "华谊 💡 APP",
             "type": 3,
             "api": "csp_AppDrama",
+		"jar": "https://gitee.com/lwlxh/tvhome/raw/master/lw.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
