@@ -10,15 +10,16 @@
             "quickSearch": 0,
             "filterable": 0
         },
-	 {
-        "key": "剧下饭",
-        "name": "下饭4K💡臻彩视界",
-        "type": 3,
-        "changeable": 0,
-        "api": "https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/tvbox/py/AppV2.py",
-    "searchTop": true,
-      "ext": "http://38.47.213.61:41271/mogai_api.php/v1.vod"
-    },
+	{            
+"key": "闪影",            
+"name": "闪影 💡 APP",            
+"type": 3,            
+"api": "csp_AppYsV2",            
+"searchable": 1,            
+"quickSearch": 1,            
+"filterable": 1,            
+"ext": "http://38.47.213.61:41271/mogai_api.php/v1.vod"        
+},
 	{
         "key": "瓜子影视",
         "name": "瓜子💡影视",
@@ -198,16 +199,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://99cms.jj99.icu:8199/api.php/app/"
-        },
-        {
-            "key": "闪影",
-            "name": "闪影 💡 APP",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://38.47.213.61:41271/mogai_api.php/v1.vod"
         },
 	{
             "key": "蓝鹰",
