@@ -2331,14 +2331,14 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-        "主页url": "https://www.112vv.me/vodtype/26.html",
+        "主页url": "https://www.tzsp.me/vodtype/32.html",
         "播放数组":"mod play-list&&</ul",
         "跳转播放链接": "var player_aaaa*url\":\"&&\"",
         "链接": "href=\"&&\"",
        "标题": "alt=\"&&\"",
        "直接播放":"1",
        "分类url": "https://www.112vv.me/vodtype/{cateId}-{catePg}.html;;z",
-        "分类": "国产视频$6#欧美高清$24#日韩视频$23#熟女人妻$32#国产传媒$12#亚洲专区$22#中文字幕$25#三级电影$26#高清名优$38#日本素人$37#少女萝莉$31#强奸乱伦$29#制服丝袜$30#童颜巨乳$28"
+        "分类": "国产视频$6#欧美高清$24#日韩视频$21#熟女人妻$32#国产传媒$12#亚洲专区$22#中文字幕$25#三级电影$26#高清名优$38#日本素人$37#少女萝莉$31#强奸乱伦$29#制服丝袜$30#童颜巨乳$28"
       }
     },
      {"key":"drpy_555","name":"速播┃影视","type":3,"api":"./lib/drpy2.min.js","jar": "https://gitee.com/lwlxh/tvhome/raw/master/pg.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/555.json"},
