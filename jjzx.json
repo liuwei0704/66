@@ -85,6 +85,17 @@
             }
         },
 	 {
+            "key": "dsd",
+            "name": "Aries|dsd",
+            "type": 3,
+            "playerType": 2,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./h/dsd.json"
+        },
+	 {
             "key": "精工厂",
             "name": "Aries|精工厂",
             "type": 3,
