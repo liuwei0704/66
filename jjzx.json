@@ -26,6 +26,16 @@
                 "buildSignature": "99DA983CF878CEC016616175464A91A94775E20A489F07F76FCDEA1A0F2B6B45"
             }
         },
+	 {
+            "key": "云朵",
+            "name": "云朵",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "分类url": ""分类url": "https://ds3xy2yunsa.xyz/type/{cateId}/?page/{catePg}/;;z",",
+                "分类": "电影$1#剧集$2#动漫$3#综艺$4"
+            }
+        },
          {
         "key": "剧下饭",
         "name": "下饭4K💡臻彩视界",
