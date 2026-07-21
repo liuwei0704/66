@@ -10,19 +10,9 @@
             "quickSearch": 0,
             "filterable": 0
         },
-	{            
-"key": "闪影",            
-"name": "闪影 💡 APP",            
-"type": 3,            
-"api": "csp_AppYsV2",            
-"searchable": 1,            
-"quickSearch": 1,            
-"filterable": 1,            
-"ext": "http://38.47.213.61:41271/mogai_api.php/v1.vod"        
-},
 	{
         "key": "瓜子影视",
-        "name": "瓜子💡影视",
+        "name": "瓜子💡影视0",
         "type": 3,
         "api": "csp_Gz360",
         "searchable": 1,
