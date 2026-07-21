@@ -180,16 +180,6 @@
                 "decrypt": "0"
             }
         },
-	  {
-            "key": "久久",
-            "name": "久久 💡 APP",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://99cms.jj99.icu:8199/api.php/app/"
-        },
 	{
             "key": "蓝鹰",
             "name": "蓝鹰 💡 APP",
@@ -216,19 +206,6 @@
                 "url": "https://app.95112475.xyz",
                 "dataKey": "5a9w6x58dsq6z3a6",
                 "dataIv": "5a9w6x58dsq6z3a6"
-            }
-        },
-        {
-            "key": "茉莉",
-            "name": "茉莉 💡 APP",
-            "type": 3,
-            "api": "csp_AppGet",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": {
-                "site": "https://gitee.com/wmmoliill/wimg/raw/master/img/bk/9.txt",
-                "dataKey": "88689667dce61725",
-                "dataIv": "88689667dce61725"
             }
         },
 	  {
