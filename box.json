@@ -10,16 +10,6 @@
             "quickSearch": 0,
             "filterable": 0
         },
-	{            
-"key": "闪影",            
-"name": "闪影 💡 APP",            
-"type": 3,            
-"api": "csp_AppYsV2",            
-"searchable": 1,            
-"quickSearch": 1,            
-"filterable": 1,            
-"ext": "http://38.47.213.61:41271/mogai_api.php/v1.vod"        
-},
 	{
         "key": "瓜子影视",
         "name": "瓜子💡影视",
@@ -29,6 +19,69 @@
         "quickSearch": 1,
         "filterable": 1
       },
+	 {
+            "key": "薯条",
+            "name": "薯条 💡 APP",
+            "type": 3,
+            "api": "csp_AppDrama",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "appName": "薯条影视",
+                "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
+                "dataKey": "A1VACZJWDKRZY1P3MFV0DDRAZ3F3PT0=",
+                "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+                "pkg": "com.st.standroid",
+                "host": "",
+                "site": "https://dyttandroid-1372779881.cos.ap-guangzhou.myqcloud.com/app_dyttandroid.txt",
+                "version": "5.0.0.1",
+                "decrypt": "0"
+            }
+        },
+	  {
+            "key": "茉莉",
+            "name": "茉莉 💡 APP",
+            "type": 3,
+            "api": "csp_AppGet",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": {
+                "site": "https://allinadmin.oss-cn-hangzhou.aliyuncs.com/bk/9.txt",
+                "dataKey": "88689667dce61725",
+                "dataIv": "88689667dce61725"
+            }
+        },
+	{
+            "key": "枫叶影视",
+            "name": "枫叶 💡 影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "请求头": "手机",
+                "简介": "text cor3\">[*],&&</div>",
+                "图片": "data-src=\"&&\"[替换:amp;>>空]",
+                "主页url": "https://www.cd-zj.com/label/qq.html",
+                "副标题": "ft2\">&&</i>",
+                "线路数组": "<i class=\"fa ds-dianying\">&&</span>",
+                "播放数组": "anthology-list-play size\">&&</ul>",
+                "分类url": "https://www.cd-zj.com/cupfox-list/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"
+            }
+        },
+	 {
+            "key": "面包影视",
+            "name": "面包 💡 影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "分类url": "https://v.aiwule.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+                "分类": "电影$20#电视剧$21#动漫$23#综艺$22#短剧$47",
+                "简介": "简介：&&"
+            }
+        },
 	 {
             "key": "热播影视",
             "name": "热播 💡 APP",
@@ -41,6 +94,12 @@
                 "url": "http://v.rbotv.cn"
             }
         },
+	 {
+      "key": "荐片",
+      "name": "荐片💡磁力",
+      "api": "csp_JianPian",
+      "type": 3
+    },
 	  {
             "key": "三秋影视",
             "name": "三秋 💡 APP",
@@ -63,6 +122,18 @@
                 "buildSignature": "03DD38CE4C3D62D0F0DEFACC06768D14EB382C7BD77A05B2EBF4D66E154A0D47"
             }
         },
+	 {
+      "key": "山楂影视",
+      "name": "山楂 💡 影视",
+      "type": 3,
+      "api": "csp_PianKu8"
+    },
+    {
+      "key": "飞娱影视",
+      "name": "飞娱 💡 影视",
+      "type": 3,
+      "api": "csp_Feiyu"
+    },
 	 {
             "key": "橙子99",
             "name": "橙子 💡 APP",
@@ -190,16 +261,6 @@
                 "decrypt": "0"
             }
         },
-	  {
-            "key": "久久",
-            "name": "久久 💡 APP",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://99cms.jj99.icu:8199/api.php/app/"
-        },
 	{
             "key": "蓝鹰",
             "name": "蓝鹰 💡 APP",
@@ -228,42 +289,25 @@
                 "dataIv": "5a9w6x58dsq6z3a6"
             }
         },
-        {
-            "key": "茉莉",
-            "name": "茉莉 💡 APP",
-            "type": 3,
-            "api": "csp_AppGet",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": {
-                "site": "https://gitee.com/wmmoliill/wimg/raw/master/img/bk/9.txt",
-                "dataKey": "88689667dce61725",
-                "dataIv": "88689667dce61725"
-            }
-        },
 	  {
             "key": "三六零",
             "name": "三六零 💡 视频",
             "type": 3,
             "api": "csp_SP360"
         },
-	{
-            "key": "无极99",
-            "name": "无极 💡 APP",
-            "type": 3,
-            "api": "csp_App99",
-            "ext": {
-                "host": "http://111.170.140.70:19987/app/bn",
-                "LoginPath": "/app/log",
-                "version": "",
-                "appkey": "c403317c2a2946659b0bcbabdd5de43a",
-                "versionName": "1.0.1",
-                "name": "无极影视",
-                "package": "com.wujiys.app",
-                "buildNumber": "2001",
-                "buildSignature": "A0859BDC35AD3E81D4051E2A4678C77C62773EDB3423DDF1DEFF94CB331D398E"
-            }
-        },
+	 {
+      "key": "魔方",
+      "name": "魔方 💡 APP",
+      "type": 3,
+      "api": "csp_AppGet",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "url": "https://www.douy32mf.top",
+        "dataKey": "1234567887654321",
+        "dataIv": "1234567887654321"
+      }
+    },
 	 {
             "key": "独播影视",
             "name": "独播 💡 影视",
