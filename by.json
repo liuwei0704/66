@@ -94,6 +94,12 @@
                 "url": "http://v.rbotv.cn"
             }
         },
+	 {
+      "key": "荐片",
+      "name": "荐片💡磁力",
+      "api": "csp_JianPian",
+      "type": 3
+    },
 	  {
             "key": "三秋影视",
             "name": "三秋 💡 APP",
