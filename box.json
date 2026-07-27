@@ -407,7 +407,7 @@
             "key": "奥斯卡",
             "name": "🔞采集.奥斯卡",
             "type": 0,
-            "api": "https://aosikazy1.com/api.php/provide/vod/at/xml",
+            "api": "https://aosikazy.com/api.php/provide/vod/at/xml",
             "searchable": 1
         },
 {
