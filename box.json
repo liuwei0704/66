@@ -353,6 +353,13 @@
             "api": "csp_Jpys",
             "ext": "https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
         },
+	 {
+            "key": "永乐影视",
+            "name": "永乐 💡 影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "https://bitbucket.org/guot55/bhmb/raw/e4666a8c905abb1627d77df1b0d84f9d37d1d3c2/TVBoxOSC/tvbox/XBPQ/%E6%B0%B8%E4%B9%90%E5%BD%B1%E8%A7%86.json"
+        },
         {
             "key": "修罗影视",
             "name": "修罗 💡 影视",
@@ -652,14 +659,7 @@
     "分类url": "https://2gkka.com/typegaokk/{cateId}_{catePg}.html[https://https://2gkka.com/typegaokk/{cateId}.html",
     "搜索url": "https://2gkka.com/vodsearch/{wd}----------{pg}---.html"
   }
-},
-	  {
-            "key": "永乐影视",
-            "name": "永乐 💡 影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": "https://bitbucket.org/guot55/bhmb/raw/e4666a8c905abb1627d77df1b0d84f9d37d1d3c2/TVBoxOSC/tvbox/XBPQ/%E6%B0%B8%E4%B9%90%E5%BD%B1%E8%A7%86.json"
-        }
+} 
 	],
 	 "parses": [
         {
