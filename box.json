@@ -410,6 +410,15 @@
             "api": "https://naixxzy2.com/api.php/provide/vod/?ac=list",
             "searchable": 1
         }, 
+	{
+      "key": "醒吧",
+      "name": "🔞杏吧",
+      "type": 0,
+      "api": "https://sex8zy8.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "changeable": 1,
+      "playurl": "json:https://xbww888.com/?url="
+    },
 {
       "key": "XMVideo",
       "name": "🔞熊猫视频",
