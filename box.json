@@ -420,21 +420,21 @@
         },
 	 {
             "key": "森林",
-            "name": "🔞采集.森林资源",
+            "name": "森林 🔞 资源",
             "type": 1,
             "api": "https://beiyong.slapibf.com/api.php/provide/vod/?ac=list",
             "searchable": 1
         },
 {
             "key": "奶香m",
-            "name": "🔞采集.奶香香",
+            "name": "采集 🔞 奶香",
             "type": 1,
             "api": "https://naixxzy2.com/api.php/provide/vod/?ac=list",
             "searchable": 1
         }, 
 	{
       "key": "醒吧",
-      "name": "🔞杏吧",
+      "name": "杏吧 🔞 资源",
       "type": 0,
       "api": "https://sex8zy8.com/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -443,7 +443,7 @@
     },
 {
       "key": "XMVideo",
-      "name": "🔞熊猫视频",
+      "name": "熊猫 🔞 视频",
       "type": 3,
       "api": "csp_XMVideo",
       "searchable": 1,
@@ -451,7 +451,7 @@
     },
 {
             "key": "森林专场",
-            "name": "🔞森林采集",
+            "name": "森林 🔞 采集",
             "type": 1,
             "api": "https://beiyong.slapibf.com/api.php/provide/vod/",
             "playUrl": "",
@@ -505,7 +505,7 @@
         },
  {
             "key": "大地专场",
-            "name": "🔞大地采集",
+            "name": "大地 🔞 采集",
             "type": 0,
             "api": "https://dadiapi.com/api.php",
             "playUrl": "",
@@ -538,7 +538,7 @@
         },
  {
             "key": "乐播",
-            "name": "️🔞乐播采集",
+            "name": "️乐播 🔞 采集",
             "type": 1,
             "api": "https://lbapi9.com/api.php/provide/vod/",
             "playUrl": "",
@@ -566,7 +566,7 @@
         },
  {
             "key": "155专场",
-            "name": "🔞155采集",
+            "name": "155 🔞 采集",
             "type": 1,
             "api": "https://155api.com/api.php/provide/vod/",
             "playUrl": "",
@@ -602,7 +602,7 @@
         },
  {
             "key": "番外",
-            "name": "🔞番外采集",
+            "name": "番外 🔞 采集",
             "type": 1,
             "api": "http://fhapi9.com/api.php/provide/vod/",
             "playUrl": "",
@@ -630,7 +630,7 @@
         },
 {
   "key": "色花堂33",
-  "name": "🔞色花堂 | XBPQ",
+  "name": "色花 🔞 资源",
   "type": 3,
   "api": "csp_XBPQ",
     
