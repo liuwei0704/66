@@ -403,13 +403,6 @@
             "api": "https://beiyong.slapibf.com/api.php/provide/vod/?ac=list",
             "searchable": 1
         },
- {
-            "key": "奥斯卡",
-            "name": "🔞采集.奥斯卡",
-            "type": 1,
-            "api": "https://aosikazy.com/api.php/provide/vod/",
-            "searchable": 1
-        },
 {
             "key": "玉兔专场",
             "name": "🔞玉兔采集",
@@ -466,7 +459,7 @@
             "key": "森林专场",
             "name": "🔞森林采集",
             "type": 1,
-            "api": "https://slapibf.com/api.php/provide/vod/",
+            "api": "https://beiyong.slapibf.com/api.php/provide/vod/",
             "playUrl": "",
             "searchable": 1,
             "quickSearch": 1,
@@ -640,20 +633,6 @@
                 "人妖系列",
                 "虚拟VR"
             ]
-        },
-{
-            "key": "色最色",
-            "name": "🔞色最色",
-            "type": 3,
-            "api": "csp_XBPQ",
-    
-            "ext": {
-                "主页url": "https://xn--zovv42dba.com/",
-                "直接播放": "1",
-                "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
-                "分类url": "https://xn--zovv42dba.com/list-read-id-{cateId}-p-{catePg}",
-                "分类": "国产精品$19#偷拍自拍$20#欧美成人$26#中文无码$23#中文字幕$22#亚洲情色$21#卡通动漫$24#成人伦理$25"
-            }
         },
 {
   "key": "色花堂33",
