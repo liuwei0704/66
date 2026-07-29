@@ -6,9 +6,9 @@
             "type": 3,
             "api": "./lib/drpy2.min.js",
             "ext": "./lib/douban.js",
-            "searchable": 0,
+            "searchable": 0,.
             "quickSearch": 0,
-            "filterable": 0.
+            "filterable": 0
         },
 	   {
       "key": "独播库",
