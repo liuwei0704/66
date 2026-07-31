@@ -49,19 +49,6 @@
         "filterable": 1
       },
  {
-            "key": "茉莉",
-            "name": "茉莉 💡 APP",
-            "type": 3,
-            "api": "csp_AppGet",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": {
-                "site": "https://allinadmin.oss-cn-hangzhou.aliyuncs.com/bk/9.txt",
-                "dataKey": "88689667dce61725",
-                "dataIv": "88689667dce61725"
-            }
-        },
- {
       "key": "山楂影视",
       "name": "山楂 💡 影视",
       "type": 3,
@@ -73,22 +60,6 @@
       "type": 3,
       "api": "csp_Feiyu"
     },
-	 {
-            "key": "橙子99",
-            "name": "橙子 💡 APP",
-            "type": 3,
-            "api": "csp_App99",
-            "ext": {
-                "host": "http://113.31.180.218:19987/app/bn",
-                "LoginPath": "/app/log",
-                "appkey": "6e8f3764a0644f3686ab5cdd57bcdf48",
-                "versionName": "4.3.1",
-                "name": "小橙子",
-                "package": "com.xchengzix.app",
-                "buildNumber": "2001",
-                "buildSignature": "99DA983CF878CEC016616175464A91A94775E20A489F07F76FCDEA1A0F2B6B45"
-            }
-        },
  {
             "key": "橘汁",
             "name": "橘汁 💡 APP",
@@ -129,6 +100,19 @@
                 "decrypt": "1"
             }
         },
+	{            
+"key": "茉莉",            
+"name": "茉莉 💡 APP",            
+"type": 3,            
+"api": "csp_AppGet",            
+"searchable": 1,            
+"changeable": 1,            
+"ext": {                
+"site": "https://allinadmin.oss-cn-hangzhou.aliyuncs.com/bk/9.txt",                
+"dataKey": "88689667dce61725",                
+"dataIv": "88689667dce61725"            
+}        
+},
      {"key":"drpy_555","name":"💡速播┃影视","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/555.json"},
      { "key": "zycj_天天", "name": "💡海燕┃采集", "type": 1, "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8/at/xml", "playUrl": "https://huyajx.com/play?url=", "categories": [ "内地剧", "动作片","伦理片", "科幻片", "战争片", "喜剧片", "爱情片", "恐怖片", "犯罪片", "剧情片", "冒险片", "记录片",  "韩剧", "香港剧", "台湾剧", "欧美剧", "日剧", "马泰剧", "体育赛事", "综艺", "动画片", "中国动漫", "日本动漫", "欧美动漫" ] },
      {"key":"New6v","name":"💡六威┃磁力","type":3,"api":"csp_New6v","jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.xb6v.com"},
