@@ -448,8 +448,8 @@
 	 {
       "key": "JKUN",
       "name": "JKUN资源",
-      "type": 0,
-      "api": "https://jkunzyapi.com/api.php/seaxml/vod/at/xml",
+      "type": 1,
+      "api": "https://www.jkunzyapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "changeable": 1,
       "playurl": "json:https://www.jkunzyjx.com/?url="
