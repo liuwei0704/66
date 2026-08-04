@@ -379,7 +379,7 @@
 {
       "key": "奇异",
       "name": "奇异",
-      "type": 0,
+      "type": 1,
       "api": "https://www.iqiyizyapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "changeable": 1,
