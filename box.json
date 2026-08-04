@@ -428,7 +428,7 @@
             "key": "森林专场",
             "name": "森林 🔞 采集",
             "type": 1,
-            "api": "https://beiyong.slapibf.com/api.php/provide/vod/",
+            "api": "https://slapibf.com/api.php/provide/vod/",
             "playUrl": "",
             "searchable": 1,
             "quickSearch": 1,
