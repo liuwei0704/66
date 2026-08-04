@@ -380,7 +380,7 @@
       "key": "奇异",
       "name": "奇异",
       "type": 0,
-      "api": "https://iqiyizyapi.com/api.php/provide/vod/at/xml/",
+      "api": "https://www.iqiyizyapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "changeable": 1,
       "playurl": "json:https://www.iqiyizyjx.com/?url="
