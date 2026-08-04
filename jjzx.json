@@ -449,7 +449,7 @@
       "key": "JKUN",
       "name": "JKUN资源",
       "type": 0,
-      "api": "https://www.jkunzyapi.com/api.php/provide/vod/?ac=list",
+      "api": "https://jkunzyapi.com/api.php/provide/vod/at/xml",
       "searchable": 1,
       "changeable": 1,
       "playurl": "json:https://www.jkunzyjx.com/?url="
