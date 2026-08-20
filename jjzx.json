@@ -82,7 +82,7 @@
       "key": "hgai",
       "name": "AI成人剧",
       "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hkuc/public/main/box/ai.js",
+      "api": "./js/ai.js",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
