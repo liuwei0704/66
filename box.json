@@ -41,6 +41,19 @@
         "分类": "电影$1#电视剧$2#动漫$3#综艺$4#🔞午夜成人$6"
       }
     },
+	 {
+      "key": "世界",
+      "name": "世界 💡 APP",
+      "type": 3,
+      "api": "csp_AppGet",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "url": "https://appcms.4ksj.app",
+        "dataKey": "O3K6rYx75Q4xtiIE",
+        "dataIv": "O3K6rYx75Q4xtiIE"
+      }
+    },
 	{
       "key": "半日99",
       "name": "半日 💡 APP",
