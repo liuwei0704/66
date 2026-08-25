@@ -52,7 +52,7 @@
       "key": "hgai",
       "name": "AI 💡 短剧",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/liuwei0704/66/refs/heads/master/js/ai.js",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hkuc/public/main/box/ai.js",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
