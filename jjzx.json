@@ -78,6 +78,51 @@
                 "decrypt": "1"
             }
         },
+	 {
+
+      "key": "airav",
+
+      "name": "💕AirAv",
+
+      "type": 3,
+
+      "api": "csp_XBPQ",
+
+      "style": {
+
+        "type": "rect",
+
+        "ratio": 1.5
+
+      },
+
+      "ext": {
+
+        "直接播放": 1,
+
+        "主页url": "https://airav.io/",
+
+        "数组": "div class=\"row row-cols-2 row-cols-lg-4 g-2 mt-0\"&&</div>",
+
+        "图片": "img src=\"&&\"",
+
+        "标题": "alt=\"&&\"",
+
+        "链接": "a href=\"&&\"",
+
+        "简介": "div class=\"oneVideo-body\"&&</div>",
+
+        "线路数组": "div class=\"owl-carousel owl-carousel-banner owl-theme\"&&</div>",
+
+        "线路标题": "div class=\"oneVideo-body\"&&</div>",
+
+        "分类url": "https://airav.io/{cateId}/{catePg}.html",
+
+        "分类": "最新發行$recent/1#最熱門$popular/2#最多觀看$mostviewed/3#最新影片$newest/4#女優專區$actress/5#類型一覽$type/6#AV影評$review/7#遊戲專區$game/8"
+
+      }
+
+    },
 	{
 
       "key": "色最色",
