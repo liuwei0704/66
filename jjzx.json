@@ -10,6 +10,16 @@
             "quickSearch": 0,
             "filterable": 0
         },
+	{
+            "key": "游击队1",
+            "name": "AI短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "分类url": "https://huangguoai.com/{cateId}/{catePg}/",
+                "分类": "AI成人短剧$ai-duanju#AI成人漫剧$ai-manju#AI换脸$ai-huanlian#AI魔改$ai-mogai"
+            }
+        },
 	  {
       "key": "优质资源lz",
       "name": "优质┃影视",
@@ -372,7 +382,7 @@
             "api": "csp_XBPQ",
             "ext": {
                 "分类url": "https://bpp.qsyjd3.buzz/cn/home/web/index.php/vod/type/{area}/id/{cateId}/page/{catePg}/{year}.html",
-                "分类": "最近更新$19#亚洲情色$20#制服师生$21#卡通动漫$22#三级伦理$23#强奸乱伦$24#偷拍自拍$25#中文字幕$26#欧美性爱$27#人妻熟女$28#无码专区$29#"
+                "分类": "最近更新$19#亚洲情色$20#制服师生$21#卡通动漫$22#三级伦理$23#强奸乱伦$24#偷拍自拍$25#中文字幕$26#欧美性爱$27#人妻熟女$28#无码专区$29"
             }
         },
 	  {
