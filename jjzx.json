@@ -82,7 +82,7 @@
 
       "key": "天美",
 
-      "name": "天美之爱",
+      "name": "天美之爱1",
 
       "type": 3,
 
@@ -99,7 +99,7 @@
         "搜索链接": "http://www.xbyc.cc/index.php/vod/search/page/{pg}/wd/{wd}.html",
 
 		  
-		  "分类链接": "http://www.xbyc.cc/index.php/vod/type/id/{cateld}/page/{catePg}.html",
+		  "分类链接": "http://www.xbyc.cc/index.php/vod/type/id/{cateld}/page/{catePg}.html;;z",
 		   "分类标题": ">&&<",
                 "分类ID": "/index.php/vod/type/id/&&.html",
 
