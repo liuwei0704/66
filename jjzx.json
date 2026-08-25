@@ -10,25 +10,6 @@
             "quickSearch": 0,
             "filterable": 0
         },
-	 {
-      "key": "麻豆",
-      "name": "🏆麻豆",
-      "type": 3,
-      "changeable": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "api": "csp_XBPQ",
-      "style": {
-        "ratio": 1.7
-      },
-      "ext": {
-        "搜索url": "http://gcmd.cc/index.php/vod/search/page/{pg}/wd/{wd}.html",
-        "分类": "日本视频$1#麻豆视频$2",
-        "分类url": "http://gcmd.cc/index.php/vod/show/class/{class}/id/{cateId}/page/{catePg}.html",
-        "直接播放": "1"
-      }
-    },
 	  {
       "key": "优质资源lz",
       "name": "优质┃影视",
