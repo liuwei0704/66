@@ -10,16 +10,6 @@
             "quickSearch": 0,
             "filterable": 0
         },
-	{
-            "key": "游击队1",
-            "name": "AI短剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": {
-                "分类url": "https://huangguoai.com/{cateId}/{catePg}/",
-                "分类": "AI成人短剧$ai-duanju#AI成人漫剧$ai-manju#AI换脸$ai-huanlian#AI魔改$ai-mogai"
-            }
-        },
 	  {
       "key": "优质资源lz",
       "name": "优质┃影视",
