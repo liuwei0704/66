@@ -103,10 +103,11 @@
         "副标题": "<strong>&&</strong>",
 
         "分类数组": "<li>&&</li>",
+		  
+		  "分类链接": "http://www.xbyc.cc/index.php/vod/type/id/{cateld}/page/{catePg}.html",
 
         "分类": "麻豆传媒$1#91制片$2#天美影院$3#蜜桃传媒$4#皇家华人$5#星空传媒$6#精东影业$7#性视界传媒$8#草莓原创$9#萝莉社$10#兔子先生$11#性吧原创$12#HongKongDoll$13#糖心Vlog$14#猛料原创$15#其他传媒$16#SA国际传媒$17",
 
-        "分类链接": "http://www.xbyc.cc/index.php/vod/type/id/{cateld}/page/{catePg}.html;;mz",
 
         "页面代理": "127.0.0.1:10072"
 
