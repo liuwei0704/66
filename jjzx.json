@@ -25,6 +25,21 @@
         "分类": "电影$1#电视剧$2#综艺$4#动漫$3#伦理$55"
       }
     },
+	 {      
+"key": "天tang吧",      
+"name": "🏃‍♀️电影天堂",      
+"type": 3,      
+"api": "csp_XBPQ",      
+"searchable": 1,      
+"quickSearch": 1,      
+"filterable": 1,      
+"ext": {        
+"简介": "【请不要相信视频中的广告，以免上当受骗！】+&&</div>",		  
+"图片": "src=\"&&\"",       
+"分类url": "https://caiji.dyttzyapi.com/index.php/vod/type/id/{cateId}/page/{catePg}.html",        
+"分类": "电影$1#电视剧$2#综艺$3#动漫$4#伦理$34"      
+}    
+},
 	  {
       "key": "优质资源lz",
       "name": "优质┃影视",
