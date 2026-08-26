@@ -94,7 +94,7 @@
             }
         },
 	{"key": "xbpq_鲨鱼","name": "鲨鱼┃影视","type": 3,"api": "csp_XBPQ","ext": {"简介": "class=\"detail-sketch\"&&<br","分类url": "https://www.sdkuaiji.org/sd/{cateId}-{catePg}.html",
-        "分类": "电影$movie#电视剧$tv#综艺$zongyi#动漫$dongmna#伦理$fuli",
+        "分类": "电影$movie#电视剧$tv#综艺$zongyi#动漫$dongman#伦理$fuli",
         "类型": "动作片$dongzhuo#喜剧片$xiju#爱情片$aiqing#科幻片$kehuan#剧情片$juqing#恐怖片$kongbu#战争片$zhanzheng#悬疑片$xuanyi#动画片$donghua#纪录片$jilu||大陆剧$dalu#欧美剧$oumei#港澳剧$gangao#韩国剧$hanguo#台湾剧$tw#泰国剧$taiguo#日本剧$rb#短剧$duanju||大陆综艺$dlzy#港台综艺$gtzy#日韩综艺$rhzy#欧美综艺$omzy||国产动漫$gcdm#日韩动漫$rhdm#欧美动漫$omdm#海外动漫$hwdm"}},
 {"key":"csp_XBPQ_雪糕","name":"🍚雪糕(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://www.xgitv.com/vodshow/{cateId}--------{catePg}---.html","分类":"电影$dianying#剧集$dianshiju#综艺$zongyi#动漫$dongman"}},
 {"key":"csp_XBPQ_热播","name":"🍚热播(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"主页url":"https://rebozj.pro","数组":"class=\"stui-vodlist__thumb lazyload&&</a>","图片":"data-original=\"&&\"","标题":"title=\"&&\"","链接":"href=\"&&\"","副标题":"class=\"pic-text text-right\"><b>&&</span>","搜索模式":"1","嗅探词":".m3u8#video_mp4#tos-#.mp4#cdn.123pan.cn#huoshanvod.com","搜索url":"https://rebozj.pro/type/id-.html?wd={wd}","线路数组":"<h4 class=\"title&&/h4>","线路标题":">&&<","播放列表":"<a&&/a>","播放标题":">&&<","影片类型":"类型：&&</p>","导演":"导演：&&</p>","主演":"主演：&&</p>","简介":"display: none;\">&&</span>","分类":"电视剧$2#电影$1#综艺$3#动漫$4","分类url":"https://rebozj.pro/show/{cateId}--{area}------{catePg}---{year}.html;;a","跳转播放链接":"urlDecode(vod_class*url\":\"&&\")"}},
