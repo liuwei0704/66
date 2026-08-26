@@ -10,6 +10,20 @@
             "quickSearch": 0,
             "filterable": 0
         },
+	 {
+      "key": "天涯吧",
+      "name": "🏃‍♀️天涯吧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "简介": "【请不要相信视频中的广告，以免上当受骗！】+&&</div>",
+        "分类url": "https://tyyszyapi.com/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+        "分类": "电影$1#电视剧$2#综艺$4#动漫$3#伦理$55"
+      }
+    },
 	  {
       "key": "优质资源lz",
       "name": "优质┃影视",
