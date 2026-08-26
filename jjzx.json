@@ -93,7 +93,7 @@
                 "decrypt": "1"
             }
         },
-	{"key": "xbpq_鲨鱼","name": "鲨鱼┃影视","type": 3,"api": "csp_XBPQ","ext": {"简介": "class=\"detail-sketch\"&&<br","分类url": "https://www.sdkuaiji.org/sd/{cateId}/{area}/by/{by}/class/{class}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html",
+	{"key": "xbpq_鲨鱼","name": "鲨鱼┃影视","type": 3,"api": "csp_XBPQ","ext": {"简介": "class=\"detail-sketch\"&&<br","分类url": "https://www.sdkuaiji.org/sd/{cateId}-{catePg}.html",
         "分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongmna#伦理$fuli",
         "类型": "动作片$dongzhuo#喜剧片$xiju#爱情片$aiqing#科幻片$kehuan#剧情片$juqing#恐怖片$kongbu#战争片$zhanzheng#悬疑片$xuanyi#动画片$donghua#纪录片$jilu||大陆剧$dalu#欧美剧$oumei#港澳剧$gangao#韩国剧$hanguo#台湾剧$tw#泰国剧$taiguo#日本剧$rb#短剧$duanju||大陆综艺$dlzy#港台综艺$gtzy#日韩综艺$rhzy#欧美综艺$omzy||国产动漫$gcdm#日韩动漫$rhdm#欧美动漫$omdm#海外动漫$hwdm"}},
 {"key":"csp_XBPQ_雪糕","name":"🍚雪糕(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://www.xgitv.com/vodshow/{cateId}--------{catePg}---.html","分类":"电影$dianying#剧集$dianshiju#综艺$zongyi#动漫$dongman"}},
