@@ -20,6 +20,7 @@
       "filterable": 1,
       "ext": {
         "简介": "【请不要相信视频中的广告，以免上当受骗！】+&&</div>",
+		  "图片": "data-src=\"&&\"",
         "分类url": "https://tyyszyapi.com/index.php/vod/type/id/{cateId}/page/{catePg}.html",
         "分类": "电影$1#电视剧$2#综艺$4#动漫$3#伦理$55"
       }
