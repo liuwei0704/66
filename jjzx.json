@@ -2027,10 +2027,10 @@
             }
         },
          {"key": "csp_XBPQ_6V",
-  "name": "自营4K",
+  "name": "自营8K",
   "type": 3,
   "api": "csp_XBPQ",
-  "jar": "https://gitee.com/lwlxh/tvhome/raw/master/0606.jar",
+  
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
