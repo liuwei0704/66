@@ -2152,7 +2152,7 @@
         },
         {
             "key": "好剧影视",
-            "name": "🧿好剧┃蓝光",
+            "name": "🧿好剧┃蓝光1",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
@@ -2160,8 +2160,8 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "分类url": "http://plbzt.com/type/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-                "分类": "电影$1#剧集$2#动漫$4#综艺$3#伦理$30"
+                "分类url": "http://plbzt.com/vod_show/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+                "分类": "电影$dianying#剧集$dianshiju#动漫$dongman#综艺$zongyi#伦理$lunli"
             }
         },
         {
