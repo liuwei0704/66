@@ -93,8 +93,7 @@
                 "decrypt": "1"
             }
         },
-	{"key":"界界影视","name":"🐌┃界界┃影视","type":3,"api":"csp_XBPQ","ext": {"主页url": "https://www.hkybqufgh.com/","简介": "</label>&&</div>","影片类型": "tags\">&&director\">","影片状态": "bottom\">&&</div>","二次截取": "videoList\":\\[&&\\]","数组": "","图片": "https+://ywxohs.com+obs.gduamoe.com&&\",","标题": "vodName\":\"&&\"","副标题": "vodRemarks\":\"&&\"","链接": "https://www.hkybqufgh.com/detail/+vodId\":&&,","导演": "导演:</div>&&主演","主演": "主演:</div>&&别名","线路标题": "寶寳","播放数组": "listitem\">&&info\">","播放列表": "<a&&</a>","倒序": "否","搜索url": "https://www.hkybqufgh.com/vod/search/{wd}","分类": "电影$1#电视剧$2#综艺$3#动漫$4","分类url": "https://www.hkybqufgh.com/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}"}},
-	{"key": "xbpq_鲨鱼","name": "鲨鱼┃影视","type": 3,"api": "csp_XBPQ","ext": {"简介": "class=\"detail-sketch\"&&<br","分类url": "https://www.sdkuaiji.org/sd/{cateId}-{catePg}.html",
+	{"key": "xbpq_鲨鱼","name": "鲨鱼┃影视","type": 3,"api": "csp_XBPQ","ext": {"简介": "class=\"detail-sketch\"&&<br","分类url": "https://www.sdkuaiji.org/shayuyy/{cateId}/{area}/by/{by}/class/{class}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html",
         "分类": "电影$movie#电视剧$tv#综艺$zongyi#动漫$dongman#伦理$fuli",
         "类型": "动作片$dongzhuo#喜剧片$xiju#爱情片$aiqing#科幻片$kehuan#剧情片$juqing#恐怖片$kongbu#战争片$zhanzheng#悬疑片$xuanyi#动画片$donghua#纪录片$jilu||大陆剧$dalu#欧美剧$oumei#港澳剧$gangao#韩国剧$hanguo#台湾剧$tw#泰国剧$taiguo#日本剧$rb#短剧$duanju||大陆综艺$dlzy#港台综艺$gtzy#日韩综艺$rhzy#欧美综艺$omzy||国产动漫$gcdm#日韩动漫$rhdm#欧美动漫$omdm#海外动漫$hwdm"}},
 {"key":"csp_XBPQ_雪糕","name":"🍚雪糕(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://www.xgitv.com/vodshow/{cateId}--------{catePg}---.html","分类":"电影$dianying#剧集$dianshiju#综艺$zongyi#动漫$dongman"}},
