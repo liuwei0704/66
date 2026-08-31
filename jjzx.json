@@ -107,7 +107,6 @@
 "filterable": 1,            
 "ext": {              
 "图片": "",      
-	"播放数组": "class=\"myui-content__list&&</ul>",
 "分类url": "https://029whhg.com/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",                
 "分类": "电影$1#电视剧$2#动漫$4#综艺$3"            
 }        
