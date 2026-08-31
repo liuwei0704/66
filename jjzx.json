@@ -111,6 +111,21 @@
 "分类": "电影$1#电视剧$2#动漫$4#综艺$3#午夜$41"            
 }        
 },
+	{
+		"key":"chunzhen",
+		"name":"春天影视",
+		"type":3,
+		"api":"csp_XBPQ",
+		"jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+		"searchable":1,
+		"quickSearch":1,
+		"filterable":1,
+	    "ext":{
+		
+		"分类url":"https://m.blctwed.com/type/{cateId}_{catePg}.html",
+		"分类":"电影$1#电视剧$2#动漫$4#综艺$3#🔞午夜$jingpinrihan"
+	  }
+	},
 	 {            
 "key": "baiyuan影视",            
 "name": "百元┃影视",            
