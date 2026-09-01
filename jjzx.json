@@ -113,7 +113,7 @@
 },
 	{
 		"key":"chunzhen",
-		"name":"春天影视1",
+		"name":"春天影视2",
 		"type":3,
 		"api":"csp_XBPQ",
 		"searchable":1,
@@ -122,6 +122,7 @@
 	    "ext":{
 			 "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
+			"数组": "lazyload&&</li>",
                 "标题": "title=\"&&\"",
                 "图片": "data-original=\"&&\"",
                 "副标题": "GY专享",
@@ -133,6 +134,7 @@
                 "线路数组": "line active clearfix&&</div>",
                 "线路标题": ".:专项:.+title\">&&</h3>",
 			"跳转播放链接": "var player_*\"url\":\"&&\"",
+			"筛选": "1",
 		"分类url": "http://51shzhuce.com/listnew/{cateId}-{catePg}.html",
 		"分类":"电影$1#电视剧$2#动漫$4#综艺$3#午夜$jingpinrihan"
 	  }
