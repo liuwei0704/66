@@ -123,9 +123,8 @@
 	    "ext":{
 			 "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
-			     "二次截取": "stui-vodlist clearfix\">&&</ul>",
                 "数组": "lazyload&&</li>",
-                "标题": "title=\"&&\"",
+                "标题": "LW",
                 "图片": "data-original=\"&&\"",
                 "副标题": "text-right\">&&</span>",
                 "链接": "href=\"&&\"",
@@ -134,7 +133,7 @@
                 "播放链接": "href=\"&&\"",
                 "播放标题": ">&&<",
                 "线路数组": "line active clearfix&&</div>",
-                "线路标题": ".:影视:.+title\">&&</h3>",
+                "线路标题": ".:专项:.+title\">&&</h3>",
 		"分类url": "http://51shzhuce.com/listnew/{cateId}-{catePg}.html",
 		"分类":"电影$1#电视剧$2#动漫$4#综艺$3#午夜$jingpinrihan"
 	  }
