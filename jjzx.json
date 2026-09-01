@@ -113,7 +113,7 @@
 },
 	{
 		"key":"chunzhen",
-		"name":"春天影视3",
+		"name":"春天影视4",
 		"type":3,
 		"api":"csp_XBPQ",
 		"jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
@@ -123,7 +123,6 @@
 	    "ext":{
 			 "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
-			"数组": "lazyload&&</li>",
                 "标题": "title=\"&&\"",
                 "图片": "data-original=\"&&\"",
                 "副标题": "GY专享",
