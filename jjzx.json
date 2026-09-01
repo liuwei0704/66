@@ -128,11 +128,11 @@
                 "图片": "data-original=\"&&\"",
                 "副标题": "GY专享",
                 "链接": "href=\"&&\"",
-                "播放数组": "class=\"hl-plays-list&&</ul>",
+                "播放数组": "playlist clearfix\"&&</ul>",
                 "播放列表": "<a&&a>",
                 "播放链接": "href=\"&&\"",
                 "播放标题": ">&&<",
-                "线路数组": "line active clearfix&&</div>",
+                "线路数组": "\\#playlist&&a>",
                 "线路标题": ".:专项:.+title\">&&</h3>",
 		"分类url": "http://51shzhuce.com/listnew/{cateId}-{catePg}.html",
 		"分类":"电影$1#电视剧$2#动漫$4#综艺$3#午夜$jingpinrihan"
