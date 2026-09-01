@@ -129,23 +129,6 @@
 "分类": "电影$1#电视剧$2#动漫$4#综艺$3#午夜$jingpinrihan"            
 }        
 },
-	{
-		"key":"chunzhen",
-		"name":"五一影视",
-		"type":3,
-		"api":"csp_XBPQ",
-		"jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
-		"searchable":1,
-		"quickSearch":1,
-		"filterable":1,
-	    "ext":{
-			 "请求头": "User-Agent$MOBILE_UA",
-                "编码": "UTF-8",
-                "副标题": "GY专享",
-		"分类url": "http://51shzhuce.com/listnew/{cateId}-{catePg}.html",
-		"分类":"电影$1#电视剧$2#动漫$4#综艺$3#午夜$jingpinrihan"
-	  }
-	},
 	 {            
 "key": "baiyuan影视",            
 "name": "百元┃影视",            
