@@ -113,7 +113,7 @@
 },
 	{
 		"key":"chunzhen",
-		"name":"春天影视1",
+		"name":"春天影视",
 		"type":3,
 		"api":"csp_XBPQ",
 		"jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
