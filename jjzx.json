@@ -52,6 +52,17 @@
 "分类": "电视剧$2#电影$1#动漫$4#综艺$3#午夜$41"			
 }		
 },
+	{
+			"key": "d影视",
+			"name": "💎┃临时┃影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+			"ext": {								
+"分类url": "https://www.tylawyers.net/wydyshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",				
+"分类": "电视剧$2#电影$1#动漫$4#综艺$3#午夜$6"			
+}		
+},
 	  {
       "key": "优质资源lz",
       "name": "优质┃影视",
