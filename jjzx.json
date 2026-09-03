@@ -98,7 +98,7 @@
         },
 	 {            
 "key": "电影影视",            
-"name": "电影┃影视",            
+"name": "电影┃影视1",            
 "type": 3,            
 "api": "csp_XBPQ",             
 "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",            
@@ -108,7 +108,7 @@
 "ext": {      
 	 "主页url": "https://www.dianyingtt99.com/ch/881.html",
 "图片": "",                                
-"分类url": "https://www.dianyingtt99.com/ch/{cateId}/page/p{catePg}.html",                
+"分类url": "https://www.dianyingtt99.com/ch/{cateId}/p{catePg}.html",                
 "分类": "电影$881#电视剧$1379#动漫$2334#伦理$6396"            
 }        
 },
