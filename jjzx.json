@@ -213,6 +213,32 @@
 "分类": "电影$dianying#电视剧$lianxuju#动漫$dongman#综艺$zongyi#伦理$yanqingpian"            
 }        
 },
+	 {
+      "key": "时光吧",
+      "name": "🏃‍♀️时光吧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "分类url": "https://www.movie00.com/vod/show/id/{cateId}/page/{catePg}.html",
+        "分类": "电影$1#电视剧$2#综艺$4#动漫$3#伦理$17"
+      }
+    },
+	 {
+      "key": "莲花吧",
+      "name": "🏃‍♀️莲花吧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "分类url": "https://lhyswz.com/index.php/vod/show/id/{cateId}/page/{catePg}.html",
+        "分类": "电影$1#电视剧$2#综艺$3#动漫$4#伦理$23"
+      }
+    },
 	{
       "key": "暴风",
       "name": "暴风1",
