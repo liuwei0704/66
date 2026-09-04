@@ -249,6 +249,21 @@
       }
 
     },
+	 {            
+"key": "天影视",            
+"name": "糖糖┃影视",            
+"type": 3,            
+"api": "csp_XBPQ",             
+"jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",            
+"searchable": 1,            
+"quickSearch": 1,            
+"filterable": 1,            
+"ext": {     
+	
+"分类url": "https://www.tiantangyy.com/ti-{cateId}-{catePg}.html",                
+"分类": "电影$1#电视剧$2#动漫$4#综艺$3#午夜$20"            
+}        
+},
 	{
 
       "key": "19麻豆",
