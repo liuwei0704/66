@@ -193,7 +193,8 @@
 "quickSearch": 1,            
 "filterable": 1,            
 "ext": {      
-"图片": "",                                
+"图片": "",    
+	"跳转播放链接": "btn-play=\"&&\"",
 "分类url": "https://gpauth.cc/vod/type/id/{cateId}/page/{catePg}.html",                
 "分类": "电影$movie#电视剧$tv#动漫$anime#伦理$love"            
 }        
