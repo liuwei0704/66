@@ -134,6 +134,36 @@
 "分类": "电影$881#电视剧$1739#动漫$2334#伦理$6396"            
 }        
 },
+	{            
+"key": "梯影视",            
+"name": "推特┃影视",            
+"type": 3,            
+"api": "csp_XBPQ",             
+"jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",            
+"searchable": 1,            
+"quickSearch": 1,            
+"filterable": 1,            
+"ext": {     
+	
+"分类url": "https://www.gsvod.com/gslist/{cateId}-{catePg}.html",                
+"分类": "电影$1#电视剧$2#动漫$4#综艺$3#午夜$20"            
+}        
+},
+	 {            
+"key": "超前影视",            
+"name": "超前┃影视",            
+"type": 3,            
+"api": "csp_XBPQ",             
+"jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",            
+"searchable": 1,            
+"quickSearch": 1,            
+"filterable": 1,            
+"ext": {      	 
+"图片": "",                                
+"分类url": "https://www.bioshai.com/cqyyshow/{cateId}/page/{catePg}.html",                
+"分类": "电影$1#电视剧$2#动漫$4#综艺$3#伦理$22"            
+}        
+},
 	 {            
 "key": "悟空影视",            
 "name": "定格┃影视",            
