@@ -183,22 +183,6 @@
 "分类": "电影$dianying#电视剧$lianxuju#动漫$dongman#综艺$zongyi#伦理$yanqingpian"            
 }        
 },
-	 {            
-"key": "瓜皮影视",            
-"name": "瓜皮┃影视",            
-"type": 3,            
-"api": "csp_XBPQ",             
-"jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",            
-"searchable": 1,            
-"quickSearch": 1,            
-"filterable": 1,            
-"ext": {      
-"图片": "",    
-	"跳转播放链接": "btn-play=\"&&\"",
-"分类url": "https://gpauth.cc/vod/type/id/{cateId}/page/{catePg}.html",                
-"分类": "电影$movie#电视剧$tv#动漫$anime#伦理$love"            
-}        
-},
 	{
       "key": "暴风",
       "name": "暴风1",
