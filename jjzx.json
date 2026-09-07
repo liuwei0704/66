@@ -41,17 +41,6 @@
                 "分类": "电影$1#电视剧$2#动漫$4#综艺$3#伦理$5#海外$37"
             }
         },
-	{			
-"key": "追影视",			
-"name": "💎┃追影┃影视",			
-"type": 3,			
-"api": "csp_XBPQ",			
-"jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",			
-"ext": {								
-"分类url": "https://zhuiying8.cc/vodshow/{cateId}.html",				
-"分类": "电视剧$dianshiju#电影$dianying#动漫$dongman#综艺$zongyi"			
-}		
-},
 	{
 			"key": "P影视",
 			"name": "💎┃端看┃影视",
