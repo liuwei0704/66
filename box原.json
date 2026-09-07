@@ -26,7 +26,7 @@
 			"changeable": 0,
 			"ext":"./lib/tokenm.json"
 		,"jar": "./pg.jar"
-		}, {"key":"drpy_js_荐片","name":"🧲荐片","type":3,"api":"./lib/drpy2.min.js","ext":"./dmxq.js"}, {"key":"畅梦","name":"💯宝盒秒播","type":3,"api":"./lib/drpy2.min.js","ext":"./y/changmeng.js"},
+		}, {"key":"drpy_js_荐片","name":"荐片","type":3,"api":"./lib/drpy2.min.js","ext":"./dmxq.js"}, {"key":"畅梦","name":"💯宝盒秒播","type":3,"api":"./lib/drpy2.min.js","ext":"./y/changmeng.js"},
     {"key": "csp_XBPQ_6V",
   "name": "🌙宝盒4K",
   "type": 3,
