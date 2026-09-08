@@ -111,6 +111,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
+		  "主页url": "https://www.159299.xyz/vodshow/id/1.html",
         "分类url": "https://www.159299.xyz/vodshow/id/{cateId}/page/{catePg}.html",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$47"
       }
