@@ -49,7 +49,6 @@
 "api": "csp_XBPQ",			
 "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",			 
 "ext": {
-	"线路数组": "#vlink_1, #vlink_2, #vlink_3",
       "分类url": "https://www.cechi888.com/vod-list-id-{cateId}-pg-{catePg}-order--by-time-class--year--letter--area--lang-.html",				
 "分类": "电视剧$2#电影$1#动漫$4#综艺$3#午夜$20"	
 	}
