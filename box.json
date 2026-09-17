@@ -464,14 +464,14 @@
         },
 	 {
             "key": "小镇影视",
-            "name": "小镇 💡 影视",
+            "name": "小镇 💡 影视1",
             "type": 3,
             "api": "csp_XBPQ",
            "searchable":1,
 		"quickSearch":1,
 		"filterable":1,
 	    "ext":{
-			"请求头": "User-Agent$MOBILE_UA",                
+			"请求头": "手机",                
 "编码": "UTF-8",
 		"线路数组":"<a data-toggle=\"tab\"&&/a>",
 		"线路标题":">&&<",
