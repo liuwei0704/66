@@ -44,18 +44,14 @@
 	 {
       "key": "奇奇",
       "name": "奇奇 💡 APP",
+       "key": "AppV7Mtq",
       "type": 3,
-      "api": "csp_AppQi",
+      "api": "csp_AppV7Amns",
       "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/603.txt",
-        "dataKey": "FTgP4Gq8zPiqbt7M",
-        "dataIv": "FTgP4Gq8zPiqbt7M",
-        "init": "initV122",
-        "ua": "okhttp/3.10.0",
-        "search": "searchList8"
-      }
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "AppV7Mtq",
+      "jar": "https://zl.wpscdn.cn/2026/09/11/space_img/96c38469-df36-433c-b400-74ed5e5a7d7a.png"
     },
 	  {
       "key": "蓝鸟",
