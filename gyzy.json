@@ -48,26 +48,6 @@
         "quickSearch": 1,
         "filterable": 1
       },
-	{
-      "key": "hgai",
-      "name": "AI 💡 短剧",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hkuc/public/main/box/ai.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "timeout": 30,
-      "ext": {
-        "siteBase": "https://huangguoai.com",
-        "timeoutMs": 30000,
-        "categories": [
-          { "type_id": "ai-duanju", "type_name": "AI成人短剧" },
-          { "type_id": "ai-manju", "type_name": "AI成人漫剧" },
-          { "type_id": "ai-huanlian", "type_name": "AI换脸" },
-          { "type_id": "ai-mogai", "type_name": "AI魔改" }
-        ]
-      }
-    },
  {
       "key": "山楂影视",
       "name": "山楂 💡 影视",
@@ -96,7 +76,7 @@
         "pkg": "com.mxj.wylcjbxyx",
         "host": "",
         "site": "https://123-1349250429.cos.ap-shanghai.myqcloud.com/app.txt",
-        "version": "3.0.2.3",
+        "version": "3.0.2.4",
         "decrypt": "1"
       }
     },
