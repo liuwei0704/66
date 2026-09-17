@@ -471,6 +471,8 @@
 		"quickSearch":1,
 		"filterable":1,
 	    "ext":{
+			"请求头": "User-Agent$MOBILE_UA",                
+"编码": "UTF-8",
 		"线路数组":"<a data-toggle=\"tab\"&&/a>",
 		"线路标题":">&&<",
 		"分类url":"http://dyxz.tv/list/{cateId}_{catePg}.html",
