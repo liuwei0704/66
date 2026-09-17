@@ -68,9 +68,10 @@
         },
         "episode_selector":"#vlink_1 ul li a&&#vlink_2 ul li a&&#vlink_3 ul li a",
         "episode_name":"text",
-        "episode_url":"href"
-      }
-	}
+        "episode_url":"href"        
+}
+    }
+  ]
 },
 	 {
       "key": "龛影吧",
