@@ -42,6 +42,17 @@
                 "分类": "电影$1#电视剧$2#动漫$4#综艺$3#伦理$5#海外$37"
             }
         },
+	{			
+"key": "c影视",			
+"name": "💎┃筞驰影视",			
+"type": 3,			
+"api": "csp_XBPQ",			
+"jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",			
+"ext": {								
+"分类url": "https://www.cechi888.com/vod-list-id-{cateId}-pg-{catePg}-order--by-time-class--year--letter--area--lang-.html",				
+"分类": "电视剧$2#电影$1#动漫$4#综艺$3#午夜$20"			
+}		
+},
 	 {
       "key": "龛影吧",
       "name": "🏃‍♀️看影",
