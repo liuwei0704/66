@@ -52,10 +52,6 @@
             "quickSearch": 1,
             "filterable": 1,
 "ext": {
-"播放列表": "<li><a&&</a>",
-    "播放标题": ">&&</a>",
-    "播放链接": "href=\"&&\"",	 
-"播放数组": "<div id=\"vlink_1\">&&</div>$$$<div id=\"vlink_2\">&&</div>$$$<div id=\"vlink_3\">&&</div>",
       "分类url": "https://www.cechi888.com/vod-list-id-{cateId}-pg-{catePg}-order--by-time-class--year--letter--area--lang-.html",				
 "分类": "电视剧$2#电影$1#动漫$4#综艺$3#午夜$20"	
 	}
