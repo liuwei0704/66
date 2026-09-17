@@ -44,15 +44,32 @@
         },
 	{			
 "key": "c影视",			
-"name": "🏃‍♀️┃筞驰影视",			
+"name": "┃筞驰影视",			
 "type": 3,			
 "api": "csp_XBPQ",			
 "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",			
 "ext": {	
-"播放数组":"<ul class=\"playfrom tab8 clearfix scroller&&</ul>",
-"分类url": "https://www.cechi888.com/vod-list-id-{cateId}-pg-{catePg}-order--by-time-class--year--letter--area--lang-.html",				
-"分类": "电视剧$2#电影$1#动漫$4#综艺$3#午夜$20"			
-}		
+ 
+"ext": {
+        "categories": [
+          {"type_id":"1","type_name":"电影"},
+          {"type_id":"2","type_name":"连续剧"},
+          {"type_id":"3","type_name":"综艺"},
+          {"type_id":"4","type_name":"动漫"}
+        ],
+        "category_url": "https://www.cechi888.com/vod-type-id-{type_id}-pg-{pg}.html",
+        "search_url": "https://www.cechi888.com//index.php?m=vod-search&wd={wd}",
+        "detail_selector": {
+          "title":"h1.name",
+          "pic":".ct-l img.lazy@data-original",
+          "desc":".ee p",
+          "actor":"dt:contains(主演：)",
+          "year":"dt:contains(年份：)"
+        },
+        "episode_selector":"#vlink_1 ul li a&&#vlink_2 ul li a&&#vlink_3 ul li a",
+        "episode_name":"text",
+        "episode_url":"href"
+      }
 },
 	 {
       "key": "龛影吧",
