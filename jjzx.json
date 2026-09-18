@@ -774,9 +774,9 @@
     
     "线路数组":"#playlist&&</li>[不包含:app高清]",
     
-    "线路标题":"🌜专享+>&&</a>+线路",
+    "线路标题":"专享+>&&</a>+线路",
     
-    "分类url":"https://www.ytshengde.com/sanyitp/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;akx",
+    "分类url":"https://www.ytshengde.com/sanyitp/{cateId}-{catePg}.html",
     
     "分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"
       }
