@@ -44,7 +44,7 @@
         },
 	{			
 "key": "c影视",			
-"name": "筞驰┃影视",			
+"name": "筞驰影视",			
 "type": 3,			
 "api": "csp_XBPQ",			
 "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",	
@@ -53,6 +53,9 @@
             "filterable": 1,
 "ext": {
 	 "播放数组": "playlist clearfix\"&&</ul>",
+	 "播放列表": "<a&&a>",
+                "播放链接": "href=\"&&\"",
+                "播放标题": ">&&<",
       "分类url": "https://www.cechi888.com/vod-list-id-{cateId}-pg-{catePg}-order--by-time-class--year--letter--area--lang-.html",				
 "分类": "电视剧$2#电影$1#动漫$4#综艺$3#午夜$20"	
 	}
