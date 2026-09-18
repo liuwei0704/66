@@ -42,6 +42,21 @@
                 "分类": "电影$1#电视剧$2#动漫$4#综艺$3#伦理$5#海外$37"
             }
         },
+	{            
+"key": "速看影视",            
+"name": "速看┃影视0",            
+"type": 3,            
+"api": "csp_XBPQ",             
+"jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",            
+"searchable": 1,            
+"quickSearch": 1,            
+"filterable": 1,            
+"ext": {     
+	
+"分类url": "https://sk100.tv/type/{cateId}-{catePg}.html",                
+"分类": "电影$20#电视剧$21#动漫$23#综艺$22#午夜$24"            
+}        
+},
 	 {
       "key": "龛影吧",
       "name": "🏃‍♀️看影",
