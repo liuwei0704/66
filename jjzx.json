@@ -2306,6 +2306,8 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
+				 "请求头参数": "手机",
+    "网页编码格式": "UTF-8",
                 "分类url": "http://plbzt.com/vod_show/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
                 "分类": "电影$dianying#剧集$dianshiju#动漫$dongman#综艺$zongyi#伦理$lunli"
             }
