@@ -2409,7 +2409,7 @@
             "filterable": 1,
             "ext": {
                 "简介": "请勿相信影片中的广告，以免上当受骗。+<div class=\"col-pd text-collapse content&&</div>",
-                "分类url": "https://www.pkcom.cc/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+                "分类url": "https://www.pkcom.cc/vodtype/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
                 "分类": "电影$1#电视剧$2#动漫$4#综艺$3"
             }
         },
@@ -2440,7 +2440,7 @@
             "ext": {
                 "简介": "请勿相信影片中的广告，以免上当受骗。+<div class=\"col-pd text-collapse content&&</div>",
                 "分类url": "https://www.qpgyy5.net/type/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-                "分类": "电影$1#电视剧$2#动漫$4#综艺$3#私密$20"
+                "分类": "电影$1#电视剧$2#动漫$4#综艺$3"
             }
         },
         {
@@ -2461,7 +2461,7 @@
     "是否开启获取首页数据": "1",
               "主页url":"http://niersi-ceramics.com/",
                 "分类url": "http://niersi-ceramics.com/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-                "分类": "电影$1#连续剧$2#动漫$4#综艺$3"
+                "分类": "电影$1#连续剧$2#动漫$4#综艺$3#私密$20"
             }
         },
 {
