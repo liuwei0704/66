@@ -10,19 +10,7 @@
             "quickSearch": 0,
             "filterable": 0
         },
-	 {
-      "key": "98吧",
-      "name": "98vip",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "分类url": "https://jp98.vip/index.php/vod/type/id/{cateId}/page/{catePg}.html",
-        "分类": "国产$20#日本五码$56#主播$54#欧美$55#AI短剧$57"
-      }
-    },
+	{ "key": "98vip）","name": "🔞98vip","type": 1,"api": "https://jp98.vip/api.php/provide/vod/","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1 },
 	{"key":"湿乐园","name": "❤湿乐园","api": "https://xxavs.com/api.php/provide/vod/","type":1,"searchable":1,"quickSearch":1},
 	 {
             "key": "采集A（精品）",
