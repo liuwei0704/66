@@ -25,8 +25,8 @@
 "链接前缀":"http+://oy.oyxx-1.eu.org/hs1.php?u=",
 "简介":"时间：&&<",
 "副标题":"❤️+fafa-heart\"></i>&&<+🔥+\"fafa-eye\"></i>&&<",
-"分类":"日韩AV$1#国产系列$2#欧美$3#成人动漫$4#无码中文$8#有码中文$9#日本无码$10#日本有码$7#国产视频$15#欧美高清$21#动漫剧情$22",
-"分类url":"http://zk8.cc/index.php/vod/search.html?u=vodtype/{cateId}-{catePg}.html;;zm"
+"分类":"日韩AV$5#麻豆$1#欧美$3#中字$2#国产$3,
+"分类url":"http://zk8.cc/index.php/vod/type/{cateId}/page/{catePg}.html"
 }        
 },
 	{"key":"番茄资源","name": "❤番茄资源","api": "https://fqzy.me//api.php/provide/vod/?ac=list","type":1,"searchable":1,"quickSearch":1},
