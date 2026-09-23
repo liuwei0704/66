@@ -1,5 +1,12 @@
 {"spider":"https://gitee.com/lwlxh/tvhome/raw/master/lw.jar",
-"sites":[
+ "lives": [{
+		    "name": "live2",
+		    "type": 0,
+		    "url": "https://gh-proxy.org/https://raw.githubusercontent.com/atsushi444/iptv/refs/heads/main/adult.m3u",
+		    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+	    }],
+	"sites":[
 {
             "key": "js豆瓣1",
             "name": "🌈影视中心自动去广告",
