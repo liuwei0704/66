@@ -10,6 +10,7 @@
             "quickSearch": 0,
             "filterable": 0
         },
+	{"key":"番茄资源","name": "❤番茄资源","api": "https://fqzy.me//api.php/provide/vod/?ac=list","type":1,"searchable":1,"quickSearch":1},
 	{ "key": "98vip）","name": "🔞98vip","type": 1,"api": "https://jp98.vip/api.php/provide/vod/","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1 },
 	{"key":"湿乐园","name": "❤湿乐园","api": "https://xxavs.com/api.php/provide/vod/","type":1,"searchable":1,"quickSearch":1},
 	 {
