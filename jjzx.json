@@ -22,7 +22,11 @@
 "ext": {              
 "搜索url":"http://zk8.cc/index.php/vod/search.html?u=/vodsearch/{wd}----------{pg}---.html",
 "主页url":"http://zk8.cc/",
-"链接前缀":"http+://oy.oyxx-1.eu.org/hs1.php?u=",
+"播放数组": "<h4 class=\"title\"&&</h4>",
+"列表二次截取": "",
+"播放列表": "<a&&/a>",
+"播放标题": ">&&<",
+"播放链接": "href=\"&&\"",
 "简介":"时间：&&<",
 "副标题":"❤️+fafa-heart\"></i>&&<+🔥+\"fafa-eye\"></i>&&<",
 "分类":"日韩AV$5#麻豆$1#欧美$3#中字$2#国产$3",
