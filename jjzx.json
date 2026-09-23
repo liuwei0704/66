@@ -360,15 +360,9 @@
       }
 		},
 {"key":"湿乐园",
-		"name": "❤湿乐园",
+		"name": "❤湿乐园0",
 		"api": "https://xxavs.com/api.php/provide/vod/",
-		"download":"",
-		"jiexiUrl":"",
-		"group": "影视",
-	"status": true,
-	"isActive":true,
-	"type": 1,
-	"id":69
+		"playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1 
 },
     
 	 {            
