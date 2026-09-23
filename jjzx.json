@@ -10,30 +10,6 @@
             "quickSearch": 0,
             "filterable": 0
         },
-	 {            
-"key": "仓库影视",            
-"name": "黄仓库┃影视0",            
-"type": 3,            
-"api": "csp_XBPQ",             
-"jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",            
-"searchable": 1,            
-"quickSearch": 1,            
-"filterable": 1,            
-"ext": {              
-"搜索url":"http://zk8.cc/index.php/vod/search.html?u=/vodsearch/{wd}----------{pg}---.html",
-"主页url":"http://zk8.cc/",
-	"数组":"class=\"stui-vodlist__box&&</div>",
-"播放数组": "<h4 class=\"title\"&&</h4>",
-"列表二次截取": "",
-"播放列表": "<a&&/a>",
-"播放标题": ">&&<",
-"播放链接": "href=\"&&\"",
-"简介":"时间：&&<",
-"副标题":"❤️+fafa-heart\"></i>&&<+🔥+\"fafa-eye\"></i>&&<",
-"分类":"日韩AV$5#麻豆$1#欧美$3#中字$2#国产$3",
-"分类url":"http://zk8.cc/index.php/vod/type/{cateId}/page/{catePg}.html"
-}        
-},
 	{"key":"番茄资源","name": "❤番茄资源","api": "https://fqzy.me//api.php/provide/vod/?ac=list","type":1,"searchable":1,"quickSearch":1},
 	{ "key": "98vip）","name": "🔞98vip","type": 1,"api": "https://jp98.vip/api.php/provide/vod/","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1 },
 	{"key":"湿乐园","name": "❤湿乐园","api": "https://xxavs.com/api.php/provide/vod/","type":1,"searchable":1,"quickSearch":1},
