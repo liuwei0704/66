@@ -22,6 +22,7 @@
 "ext": {              
 "搜索url":"http://zk8.cc/index.php/vod/search.html?u=/vodsearch/{wd}----------{pg}---.html",
 "主页url":"http://zk8.cc/",
+	"数组":"class=\"stui-vodlist__box&&</div>",
 "播放数组": "<h4 class=\"title\"&&</h4>",
 "列表二次截取": "",
 "播放列表": "<a&&/a>",
