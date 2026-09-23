@@ -38,6 +38,30 @@
                 "激情中字"
             ]
         },
+	{
+            "key": "桃花A（精品）",
+            "name": "️🔞桃花",
+            "type": 1,
+            "api": "https://thzy1.me/api.php/provide/vod/",
+            "playUrl": "",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "主播网红",
+                "日本无码",
+                "日本有码",
+                "日本素人",
+                "欧美",
+                "禁漫",
+                "乱伦",
+                "探花",
+                "学生",
+                "国产精品",
+                "华语AV",
+                "黑料吃瓜"
+            ]
+        },
 	 {
       "key": "天涯吧",
       "name": "🏃‍♀️天涯",
