@@ -358,8 +358,19 @@
         "页面代理": "127.0.0.1:10072"
 
       }
-
-    },
+		},
+{"key":"湿乐园",
+		"name": "❤湿乐园",
+		"api": "https://xxavs.com/api.php/provide/vod/",
+		"download":"",
+		"jiexiUrl":"",
+		"group": "影视",
+	"status": true,
+	"isActive":true,
+	"type": 1,
+	"id":69
+},
+    
 	 {            
 "key": "天影视",            
 "name": "糖糖┃影视",            
