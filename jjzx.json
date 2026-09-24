@@ -2574,17 +2574,28 @@
 { "key": "KpgxdyE", "name": "🔞黄AV资源(已修复)", "type": 0, "api": "https://www.pgxdy.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 	{"key": "橘猫资源","name": "🔞橘猫资源","type": 1,"api": "https://to.to-long.com/api.php/provide/vod/", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 {"key":"滴滴资源","name":"滴滴资源","type":1,"api":"https://api.ddapi.cc/api.php/provide/vod/at/json","searchable":1,"quickSearch":1},
-	{"key":"小AV","name":"小AV","type":0,"searchable":0,"quickSearch":0,"api":"https://www.pgxdy.com/api/xml.php","playUrl":""},
-{"key": "美少女资源站","name": "美少女资源站","type": 0,"api": "https://www.msnii.com/api/xml.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
-{"key": "淫水机资源站","name": "淫水机资源站","type": 0,"api": "https://www.xrbsp.com/api/xml.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
-{"key": "香奶儿资源站","name": "香奶儿资源站","type": 0,"api": "https://www.gdlsp.com/api/xml.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
-{"key": "白嫖资源站","name": "白嫖资源站","type": 0,"api": "https://www.kxgav.com/api/xml.php", "searchable": 1,"quickSearch": 1, "filterable": 0 },
+	{
+			"key": "大奶子",
+			"name": "🔞大奶子资源",
+			"type": 1,
+			"api": "https://apidanaizi.com/api.php/provide/vod",
+			"searchable": 1,
+			"style": {
+				"type": "rect",
+				"ratio": 1.33
+			},
+			"changeable": 1,
+             "categories": ["精品推荐","国产主播","国产乱伦","自拍偷拍","制服丝袜","网曝事件","传媒探花","清纯学生","A V 解说","淫妻作乐","港台辣妹","足浴撩妹","反差母狗","A I 换脸","V R 视角","重口性癖","制服诱惑","丝袜美腿","中文字幕","无码流出","多人群交","凌辱快感","角色剧情","强奸乱伦","韩国三级","欧美激情","人妻熟女","主奴调教","动漫卡通","变性伪娘","女同性恋","野外露出"
+      ]	
+   },
 {"key":"辣椒","name":"🍎辣椒(直连)","type":0,"api":"http://api.11bat.com/api.php/provide/vod/at/xml/","quickSearch":1,"searchable":1,"filterable":1},
 {"key":"pgxdy","name":"🐞Pgx电影🈲","type":0,"api":"https://www.pgxdy.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1},
 	{"key":"pwd_袜子","name":"1️⃣8️⃣🈲蜜蜂","type":0,"api":"https://www.msnii.com/api/xml.php","searchable":1,"quickSearch":0},
 {"key":"沙咖影院","name":"🔞沙咖影院","type":3,"api":"csp_XBPQ","api":"csp_XBPQ","jar":"https://gitee.com/lwlxh/tvhome/raw/master/h1.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{"数组":"stui-vodlist__thumb lazyload&&</a","图片":"data-original=\"&&\"","图片代理":"1","副标题":"pic-text text-right\">&&</span>","简介":"description\" content=\"&&\"","链接":"href=\"/voddetail/&&.html\"","链接前缀":"https://sar.sarga.cc/vodplay/","链接后缀":"-1-1.html","跳转播放链接":"urlDecode(var player*url\":\"&&\")","搜索url":"https://sar.sarga.cc/vodsearch/{wd}----------{pg}---.html","分类url":"https://sar.sarga.cc/vodtype/{cateId}-{catePg}.html;;z","分类":"中文新作$20#国语视频$21#有码精品$24#动漫专场$23#经典伦理$25#欧美性爱$22"}},
 {"key":"didizy.com","name":"💕滴滴(直连)","type":1,"api":"https://api.ddapi.cc/api.php/provide/vod/?ac=list","searchable":1,"filterable":1},
 {"key": "AIvin","name": "AIvin","type": 0,"api": "http://lbapiby.com/api.php/provide/vod/at/xml"},
+		{"key":"xBPQ_18j","name":"🔞️18j💚","type":3,"api":"csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":{"请求头": "User-Agent$MOBILE_UA","编码": "UTF-8","主页url":"https://18zg.life/vod","直接播放":"1","分类url":"https://18zg.life/t/{cateId}/by/{by}/page/{catePg}/","分类":"国产$1#日韩$2#伦理$4#欧美$3#另类$39","类型":"国产自拍$5#主播大秀$6#国产探花$7#偷窥偷拍$8#乱伦系列$9#网爆吃瓜$10#抖音风格$11#国产AV$12#福利姬$20#主播诱惑$36#侵犯系列$37||日韩自拍$13#日韩无码$14#日本字幕$15#av解说$17#换脸明星$18||欧美自拍$21#欧美字幕$22||伦理三级$29#日韩伦理$30||同性恋系列$38#变性系列$40#重口味$23"}
+},
 {
       "key": "zp011",
       "name": "🐝78资源",
