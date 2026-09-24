@@ -20,6 +20,14 @@
 	{"key":"番茄资源","name": "❤番茄资源","api": "https://fqzy.me//api.php/provide/vod/?ac=list","type":1,"searchable":1,"quickSearch":1},
 	{ "key": "98vip）","name": "🔞98vip","type": 1,"api": "https://jp98.vip/api.php/provide/vod/","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1 },
 	{"key":"湿乐园","name": "❤湿乐园","api": "https://xxavs.com/api.php/provide/vod/","type":1,"searchable":1,"quickSearch":1},
+		{
+       "key":"黑料资源",
+       "name":"🔞黑料资源",
+       "type":1,
+       "api":"https://www.heiliaozyapi.com/api.php/provide/vod/?ac=list",
+       "searchable":1,
+       "quickSearch":1
+    } ,
 	 {
             "key": "采集A（精品）",
             "name": "️🔞精品",
@@ -547,26 +555,15 @@
 
     },
 
-	{
-      "key": "hgai",
-      "name": "AI成人短剧",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/liuwei0704/66/refs/heads/master/js/ai.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "timeout": 30,
-      "ext": {
-        "siteBase": "https://huangguoai.com",
-        "timeoutMs": 30000,
-        "categories": [
-          { "type_id": "ai-duanju", "type_name": "AI成人短剧" },
-          { "type_id": "ai-manju", "type_name": "AI成人漫剧" },
-          { "type_id": "ai-huanlian", "type_name": "AI换脸" },
-          { "type_id": "ai-mogai", "type_name": "AI魔改" }
-        ]
-      }
-    },
+	 {
+            "key": "滴滴资源",
+            "name": "🔞滴滴资源",
+                      "type": 1,
+            "api": "https://api.ddapi.cc/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
 	 {
             "key": "橘汁",
             "name": "橘汁$APP",
@@ -712,6 +709,28 @@
                 "搜索模式": "1"
             }
         },
+		{
+         "key":"csp_XBPQ_PWXXX视频",
+         "name":"🔞PWXXX视频",
+         "type":3,
+         "api":"csp_XBPQ",
+			"jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",    
+         "searchable": 1,
+         "quickSearch": 0,
+         "filterable": 1,
+         "ext":{"请求头": "User-Agent$MOBILE_UA","编码": "UTF-8","直接播放":"1","搜索url":"https://pwxxx.pwxxx33.fun/pwxxx/vod/search.html?wd={wd}","主页url":"https://pwxxx.pwxxx33.fun/pwxxx/","分类url":"https://pwxxx.pwxxx33.fun/pwxxx/vod/type/id/{cateId}/page/{catePg}.html","分类":"国产大区$1#日韩大区$2#欧美大区$3#其它视频$4","类型":"国产精品$13#网曝吃瓜$6#自拍偷拍$7#传媒出品$8#网红主播$9#大神探花$10#抖阴视频$11#国产其它$12||日韩精品$14#日韩无码$15#日韩有码$16#中文字幕$20#萝莉少女$21#人妻熟妇$22#韩国主播$23#日韩其它$24||欧美精品$5#欧美无码$25#欧美另类$26#欧美其它$27||AI换脸$28#AV解说$29#三级伦理$30#成人动漫$31"}
+      },
+		 {
+          "key":"csp_XBPQ_WakuWaku",
+          "name":"🔞WakuWaku",
+          "type":3,
+          "api":"csp_XBPQ",
+			 "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar", 
+          "searchable": 1,
+          "quickSearch": 0,
+          "filterable": 1,
+          "ext":{"请求头": "User-Agent$MOBILE_UA","编码": "UTF-8","链接":"href=\"&&\"[替换:voddetail>>v]", "直接播放":"1","搜索url":"https://b9t9a-61362-sz0803.wakuwakutvww3.cfd/s/?wd={wd}","主页url":"https://b9t9a-61362-sz0803.wakuwakutvww3.cfd/heartbeat","分类url":"https://b9t9a-61362-sz0803.wakuwakutvww3.cfd/t/{cateId}-{catePg}/","分类":"国产$20#日本有码$21#传媒系列$117#探花系列$153#上头黑料$155#令人上头$179#小清新$159#欧美$23#伦理$25#另类$41#","类型":"国产精品$26#国产自拍$29#国产剧情$27#国产偷拍$30#国产女奴$81#国产主播$35#国模私拍$85||空||空||空||空||空||空||空||空||空||空||空"}
+    },
 	{
             "key": "66影院",
             "name": "66影院",
@@ -2540,28 +2559,17 @@
       "searchable": 1,
       "filterable": 1,"jar": "https://gh-proxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/182.jar"
     },
-{
-            "key": "csp_XBPQ_奶很大",
-            "name": "🔞奶很大",
-            "type": 3,
-            "api": "csp_XBPQ",
-     "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": {
-"请求头":"手机",
-"站名":"奶很大",
-"主页url":"https://hhicd-d63o3o.naihendawaq.buzz/ddd",
-"直接播放":"1",
-"标题":"<p&&</p>",
-"图片":"data-src=\"&&\"", 
-"跳转播放链接":"var player_data*url\":\"&&\"",
-"搜索模式":"1",
-"搜索url":"/index.php/vodsearch/{wd}----------{pg}---.html",
-"分类url":"https://hhicd-d63o3o.naihendawaq.buzz/ddd/vodtype/{cateId}-{catePg}.html",
-"分类":"草莓猛料$136#玩偶姐姐$133#兔子先生$131#91茄子$129#奇兵有码$27#步兵无码$28#国产视频$1#日本视频$2#中文字幕$9#无码中文$34#主播大秀$12#欧美视频$5#女神学生$16#娇妻素人$18空姐模特$19#职场同事$23#强奸中文$35#制服中文$38#出轨中文$41#韩国制服主播$43#制服师生$50"
-}  },
+ {
+      "key":"csp_XBPQ_猫娘动漫乐园",
+      "name":"🔞猫娘动漫",
+      "type":3,
+      "api":"csp_XBPQ",
+	  "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext":{"请求头": "User-Agent$MOBILE_UA","编码": "UTF-8","":"","搜索url":"https://w0e--y4znt.jmaoniangdongman8.com/vodsearch/-------------/?wd={wd}","主页url":"https://w0e--y4znt.jmaoniangdongman8.com/topic/","分类url":"https://w0e--y4znt.jmaoniangdongman8.com/vodshow/{cateId}--{by}------{catePg}---/","分类":"动漫乐园$20#老司机动漫$110#猫娘乐园$21#TOP300$https://w0e--y4znt.jmaoniangdongman8.com/topic/","类型":"中字动漫$61#激情动漫$33#鬼父$178#舰娘$177#初犬2$188#性奴$181#奸染$212#强奸$223#恋骑士$176#対魔忍$186#NTR$197#放课后$206#姬骑士$210#渐进曲$213#牝教师$222#思春期$227#便利店$231#母子相奸$172#人妻诱惑$170#扶养幼女$169||透明人间$230#毁灭交响曲$191#痴汉十人队$190#堕落女教师$183#悪の女干部$182#桜都字幕组$157#极度虐待狂$154#一次性女孩$150#漆黑的射干$143#公主的性癖$208#股人出租车$209#和姐姐乱伦$215#露妮的药房$217#轮奸俱乐部$218#凌辱餐厅店员$175#秘密温泉之旅$173#方便的性伴侣$185#课後个人授业$180#女友x三姐妹$141||奶香香動漫$22#QueenBee$186#WhiteBlue$201#PeroPero老师$198#SweetHome$200||空"}
+      },
 {"key":"csp_xBPQ_黄仓库","name":"🏆黄仓库","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./h/黄仓库1.json","jar":"./jar/Yoursmile2.jar"},
 { "key": "KpgxdyE", "name": "🔞黄AV资源(已修复)", "type": 0, "api": "https://www.pgxdy.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 	{"key": "橘猫资源","name": "🔞橘猫资源","type": 1,"api": "https://to.to-long.com/api.php/provide/vod/", "searchable": 1,"quickSearch": 1, "filterable": 0 },
