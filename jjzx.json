@@ -30,6 +30,7 @@
        "searchable":1,
        "quickSearch":1
     } ,
+		{"key":"花都影视","name":"花都影视","type":3,"searchable":1,"quickSearch":1,"changeable":0,"api":"https://gitlab.com/lemon52030/BOX/-/raw/main/py_18/花都影视.py"},
 	 {
             "key": "采集A（精品）",
             "name": "️🔞精品",
