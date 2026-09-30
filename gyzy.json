@@ -412,13 +412,6 @@
       ]
     },
     {"key":"大米星球","name":"💡大米┃影视","type":3,"api":"csp_AppDaMi","jar":"https://gitee.com/lwlxh/tvhome/raw/master/o2.jar","searchable":1,"quickSearch":0,"filterable":0},
-	{
-      "key": "csp_Jpys",
-      "name": "💡┃金牌┃影视",
-      "type": 3,
-		"jar": "https://img2.gelonghui.com/library/9c8e4-b797010b-366e-48f9-86b6-16be897c90c2.png;md5;9c8e45f60d3d413d8b140ec21811deb0",
-      "api": "csp_Jpys"
-    },
 {
       "key": "牛Y", 
       "name": "💡牛Y┃影视", 
