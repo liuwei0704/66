@@ -349,7 +349,7 @@
                 "decrypt": "0"
             }
         },
-	{
+{
             "key": "蓝鹰",
             "name": "蓝鹰 💡 APP",
             "type": 3,
@@ -357,10 +357,10 @@
             "searchable": 1,
             "changeable": 1,
             "ext": {
-                "site": "https://xinlanyinghb.oss-cn-wuhan-lr.aliyuncs.com/xly.txt",
-                "dataKey": "ca94b06ca359d80e",
-                "dataIv": "ca94b06ca359d80e",
-                "init": "initV120",
+                "url": "http://103.217.190.91:5566",
+                "dataKey": "hagYExMdMkeWfemK",
+                "dataIv": "hagYExMdMkeWfemK",
+                "init": "initV122",
                 "ua": "okhttp/3.10.0"
             }
         },
