@@ -313,7 +313,7 @@
             "filterable": 1,
             "ext": {
                 "请求头": "手机",
-        "主页url": "https://www.cdgdp.com/",
+        "主页url": "https://m.guosheji.com/",
         "数组": "myui-vodlist__thumb&&</a>",
         "简介": "简介：&&</a>",
         "副标题": "<span class=\"pic-text text-right\">&&</span>",
@@ -327,10 +327,10 @@
         "播放标题": ">&&</a>[不包含:дрр滈凊]",
         "播放列表": "<li&&</li>",
         "跳转解析": "默认$https://jiexi.ddmz6.com/api/publicApi.php?url=",
-        "搜索url": "https://www.cdgdp.com/xingsc/{wd}-------------.html",
+        "搜索url": "https://m.guosheji.com/xingsc/{wd}-------------.html",
         "嗅探词": ".m3u8#.mp4#.flv#.mp3#.m4a",
         "分类": "电影$1#电视剧$2#动漫$4#综艺$3",
-        "分类url": "https://www.cdgdp.com/xingsw/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}/;;ak"
+        "分类url": "https://m.guosheji.com/xingsw/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}/;;ak"
             }
         },
          {
