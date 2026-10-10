@@ -206,7 +206,6 @@ class Spider(SpiderBase):
             {"type_name": "连续剧", "type_id": "A051pCM47kBg2"},
             {"type_name": "电影", "type_id": "A1sQHJp3ggh3P"},
             {"type_name": "动漫", "type_id": "A2yIcGx03608i"},
-            {"type_name": "伦理", "type_id": "A4NKqbd3EtDTi"},
             {"type_name": "综艺", "type_id": "A1U43X24bwf2t"}
         ]
 
