@@ -17,6 +17,16 @@
             "quickSearch": 0,
             "filterable": 0
         },
+		{"key":"AppV7Fz","name":"📦①线 | 秒播","type":3,"api":"csp_AppV7Amns","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Fz"},
+{"key":"AppV7Xy","name":"📦②线 | 秒播","type":3,"api":"csp_AppV7Amns","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Xy"},
+{"key":"AppV7Zjdr","name":"📦③线 | 秒播","type":3,"api":"csp_AppV7Amns","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Zjdr"},
+{"key":"AppV7Xyz","name":"📦④线 | 秒播","type":3,"api":"csp_AppV7Amns","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Xyz"},
+{"key":"AppV7Xnm","name":"📦⑤线 | 秒播","type":3,"api":"csp_AppV7Amns","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Xnm"},
+{"key":"AppV7Mtq","name":"📦⑥线 | 秒播","type":3,"api":"csp_AppV7Amns","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Mtq"},
+{"key":"AppV7Llq","name":"📦⑦线 | 秒播","type":3,"api":"csp_AppV7Amns","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Llq"},
+{"key":"AppV7Xsz","name":"📦⑧线 | 秒播","type":3,"api":"csp_AppV7Amns","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Xsz"},
+{"key":"AppV7Xhr","name":"📦⑨线 | 秒播","type":3,"api":"csp_AppV7Amns","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Xhr"},
+{"key":"AppV7Dsx","name":"📦师兄 | 秒播","type":3,"api":"csp_AppV7Amns","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Dsx"},
 		{            
 "key": "808影视",            
 "name": "808┃影视",            
