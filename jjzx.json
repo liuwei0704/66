@@ -18,6 +18,21 @@
             "filterable": 0
         },
 		{            
+"key": "初见影视",            
+"name": "初见┃影视",            
+"type": 3,            
+"api": "csp_XBPQ",             
+"jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",            
+"searchable": 1,            
+"quickSearch": 1,            
+"filterable": 1,            
+"ext": {     
+	
+"分类url": "https://cjysw.cc/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",                
+"分类": "电影$1#电视剧$15#动漫$30#综艺$24#短剧$47"            
+}        
+},
+		{            
 "key": "beidouY",            
 "name": "北斗影视",            
 "api": "./py/北斗影视.py",            
