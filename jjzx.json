@@ -18,6 +18,21 @@
             "filterable": 0
         },
 		{            
+"key": "首映影视",            
+"name": "首映┃影视",            
+"type": 3,            
+"api": "csp_XBPQ",             
+"jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",            
+"searchable": 1,            
+"quickSearch": 1,            
+"filterable": 1,            
+"ext": {     
+	
+"分类url": "https://www.yingbas.com/class/{cateId}-{area}--{class}-----{catePg}---{year}.html",                
+"分类": "电影$1#电视剧$2#动漫$3#综艺$4#短剧$29"            
+}        
+},
+		{            
 "key": "一起影视",            
 "name": "一起┃影视",            
 "type": 3,            
