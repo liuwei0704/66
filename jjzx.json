@@ -18,6 +18,21 @@
             "filterable": 0
         },
 		{            
+"key": "北斗影视",            
+"name": "北斗┃影视",            
+"type": 3,            
+"api": "csp_XBPQ",             
+"jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",            
+"searchable": 1,            
+"quickSearch": 1,            
+"filterable": 1,            
+"ext": {     
+	
+"分类url": "www.bdjmcc.com/list/{cateId}/{catePg}.html",                
+"分类": "电影$A1sQHJp3ggh3P#电视剧$A051pCM47kBg2#动漫$A2yIcGx03608i#综艺$A1U43X24bwf2t#伦理$A4NKqbd3EtDTi"            
+}        
+},
+		{            
 "key": "滴答影视",            
 "name": "滴答┃影视",            
 "type": 3,            
