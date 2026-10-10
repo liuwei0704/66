@@ -224,16 +224,16 @@
       ]
     },
 	 {
-      "key": "A123",
-      "name": "🏃‍♀️A123",
+      "key": "ktv183",
+      "name": "🏃‍♀️ktv183",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-        "分类url": "https://a123tv.com/t/{cateId}/p{catePg}.html",
-        "分类": "电影$10#电视剧$11#综艺$12#动漫$13#午夜$15"
+        "分类url": "https://ktv183.com/index.php/vod/show/id/{cateId}/page/{catePg}.html",
+        "分类": "电影$1#电视剧$2#综艺$3#动漫$4#午夜$34"
       }
     },
 	 {
