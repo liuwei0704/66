@@ -17,6 +17,21 @@
             "quickSearch": 0,
             "filterable": 0
         },
+		{            
+"key": "小皮影视",            
+"name": "小皮┃影视",            
+"type": 3,            
+"api": "csp_XBPQ",             
+"jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",            
+"searchable": 1,            
+"quickSearch": 1,            
+"filterable": 1,            
+"ext": {     
+	
+"分类url": "https://www.xptv.cc/type/{cateId}-{catePg}.html",                
+"分类": "电影$dianying#电视剧$dianshiju#动漫$dongman"            
+}        
+},
 		{"key":"黄剧","name":"黄剧","type":3,"searchable":1,"quickSearch":1,"changeable":0,"api":"https://gitlab.com/lemon52030/BOX/-/raw/main/js_18/黄剧.js"},
 {"key":"小鸟酱","name":"小鸟酱","type":3,"searchable":1,"quickSearch":1,"changeable":0,"api":"https://gitlab.com/lemon52030/BOX/-/raw/main/js_18/小鸟酱.js"},
 	{"key":"番茄资源","name": "❤番茄资源","api": "https://fqzy.me//api.php/provide/vod/?ac=list","type":1,"searchable":1,"quickSearch":1},
