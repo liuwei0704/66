@@ -27,7 +27,8 @@
 "quickSearch": 1,            
 "filterable": 1,            
 "ext": {     
-	
+ "请求头": "User-Agent$MOBILE_UA",                
+"编码": "UTF-8",	
 "分类url": "www.bdjmcc.com/list/{cateId}/{catePg}.html",                
 "分类": "电影$A1sQHJp3ggh3P#电视剧$A051pCM47kBg2#动漫$A2yIcGx03608i#综艺$A1U43X24bwf2t#伦理$A4NKqbd3EtDTi"            
 }        
