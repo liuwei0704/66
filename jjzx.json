@@ -18,8 +18,8 @@
             "filterable": 0
         },
 		{            
-"key": "多多影视",            
-"name": "多多┃影视",            
+"key": "滴答影视",            
+"name": "滴答┃影视",            
 "type": 3,            
 "api": "csp_XBPQ",             
 "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",            
@@ -28,8 +28,8 @@
 "filterable": 1,            
 "ext": {     
 	
-"分类url": "https://323433ssdfd.top/type/{cateId}?page={catePg}/",                
-"分类": "电影$1#电视剧$2#动漫$3#综艺$4"            
+"分类url": "https://www.didahd.xyz/show/{cateId}-{area}--{class}-----{catePg}---{year}.html",                
+"分类": "电影$1#电视剧$2#动漫$4#综艺$5"            
 }        
 },
 		{            
