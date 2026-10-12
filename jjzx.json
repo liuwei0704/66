@@ -27,6 +27,9 @@
 {"key":"AppV7Xsz","name":"📦⑧线 | 秒播","type":3,"api":"csp_AppV7Amns","jar": "./auwo.jar","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Xsz"},
 {"key":"AppV7Xhr","name":"📦⑨线 | 秒播","type":3,"api":"csp_AppV7Amns","jar": "./auwo.jar","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Xhr"},
 {"key":"AppV7Dsx","name":"📦师兄 | 秒播","type":3,"api":"csp_AppV7Amns","jar": "./auwo.jar","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Dsx"},
+{"key":"NewGrV2","name":"🚀秋天 | 秒播","type":3,"api":"csp_NewGrV2Amns","jar": "./auwo.jar","searchable":1,"quickSearch":1,"changeable":1,"ext":"NewGrV2"},
+		{"key":"Dubk","name":"⭐杜北 | 秒播","type":3,"api":"csp_DubkAmns","jar": "./auwo.jar","searchable":1,"quickSearch":1,"changeable":1,"ext":"Dubk"},
+		{"key":"JPian","name":"⭐荐片 | 快速","type":3,"api":"csp_JPianAmns","jar": "./auwo.jar","searchable":1,"quickSearch":1,"changeable":1,"ext":"JPian"},
 		{            
 "key": "808影视",            
 "name": "808┃影视",            
