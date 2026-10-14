@@ -99,6 +99,33 @@
 "searchable": 1,            
 "type": 3        
 },
+		{
+            "key": "py向上kBTPY",
+            "name": "🥭向上影视",
+            "api": "./py/向上影院.py",
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "type": 3
+        },
+		{
+            "key": "py深夜BTPY",
+            "name": "🥭深夜影视",
+            "api": "./py/深夜电影.py",
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "type": 3
+        },
+		{
+            "key": "py神秘BTPY",
+            "name": "🥭神秘影视",
+            "api": "./py/神秘电影.py",
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "type": 3
+        },
 		{            
 "key": "滴答影视",            
 "name": "滴答┃影视",            
