@@ -1039,12 +1039,11 @@
       }
     },
 	 {
-      "key": "独播库",
-      "name": "🥇播库┃影视",
-		   "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0406/21/5b2f258907bc956ee3538c9f5cdf4b83.jpg;md5;5af5edf697f25b99eb189fb800e1d098",
-      "type": 3,
-      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/VmOlRys8_vip.js"
-    },
+            "key": "独播影视",
+            "name": "独播 💡 影视",
+            "type": 3,
+            "api": "csp_Duboku"
+        },
 	{
       "key": "橘皮",
       "name": "💡橘皮｜影视",
