@@ -32,6 +32,7 @@ const SITE = '大米星球';
 
 // 实测有内容的分类（其余 tid 为空分类或资讯栏目）
 const CLASSES = [
+    { type_id: '35', type_name: '午夜' },
     { type_id: '20', type_name: '电影' },
     { type_id: '21', type_name: '电视剧' },
     { type_id: '22', type_name: '动漫' },
