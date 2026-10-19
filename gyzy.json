@@ -32,13 +32,12 @@
         "分类": "电影$1#午夜成人$6#电视剧$2#动漫$3#综艺$4"
       }
     },
-	   {
-      "key": "独播库",
-      "name": "💡播库┃影视",
-		   "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0406/21/5b2f258907bc956ee3538c9f5cdf4b83.jpg;md5;5af5edf697f25b99eb189fb800e1d098",
-      "type": 3,
-      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/VmOlRys8_vip.js"
-    },
+	    {
+            "key": "独播影视",
+            "name": "独播 💡 影视",
+            "type": 3,
+            "api": "csp_Duboku"
+        },
 	{
         "key": "瓜子影视",
         "name": "瓜子 💡 影视",
