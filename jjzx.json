@@ -101,7 +101,7 @@
 },
 		{
             "key": "酷客kBTPY",
-            "name": "🥭酷客影视",
+            "name": "酷客影视",
             "api": "./py/酷客影视.py",
             "filterable": 1,
             "quickSearch": 1,
