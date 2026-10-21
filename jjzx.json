@@ -91,20 +91,6 @@
 }        
 },
 		{            
-"key": "马猴影视",            
-"name": "马猴┃影视1",            
-"type": 3,            
-"api": "csp_XBPQ",             
-"jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",            
-"searchable": 1,            
-"quickSearch": 1,            
-"filterable": 1,            
-"ext": {     	
-"分类url": "https://dmhyy.com/type/{cateId}?page={catePg}/",                
-"分类": "电影$23#电视剧$22#动漫$24#综艺$25"            
-}        
-},
-		{            
 "key": "beidouY",            
 "name": "北斗影视",            
 "api": "./py/北斗影视.py",            
