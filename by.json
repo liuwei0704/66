@@ -41,6 +41,17 @@
 "分类": "电影$1#电视剧$2#动漫$3#综艺$4#🔞午夜成人$6"      
 }    
 },
+	{
+            "key": "xcys",
+            "name": "💡酷客┃影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+	  "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+            "ext": {
+                "分类url": "http://89dy.tv/list/{cateId}_{catePg}.html",
+                "分类": "电影$1#连续剧$2#动漫$3#综艺$4#私密$67"
+            }
+        },
 	 {
       "key": "奇奇",
       "name": "奇奇 💡 APP",
