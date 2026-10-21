@@ -121,7 +121,7 @@
         },
 		{            
 "key": "黄仓库Y",            
-"name": "🥭黄仓库影视",            
+"name": "黄仓库影视",            
 "api": "./py/黄色仓库.py",            
 "filterable": 1,            
 "quickSearch": 1,            
