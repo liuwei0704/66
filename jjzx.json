@@ -93,7 +93,7 @@
 		{            
 "key": "beidouY",            
 "name": "北斗影视",            
-"api": "./py/北斗影视.py",            
+"api": "./PY/北斗影视.py",            
 "filterable": 1,            
 "quickSearch": 1,            
 "searchable": 1,            
@@ -113,7 +113,7 @@
 		{
             "key": "酷客kBTPY",
             "name": "🥭酷客影视",
-            "api": "./py/酷客影视.py",
+            "api": "./PY/酷客影视.py",
             "filterable": 1,
             "quickSearch": 1,
             "searchable": 1,
