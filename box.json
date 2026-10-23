@@ -490,7 +490,25 @@
 		"分类url":"http://dyxz.tv/list/{cateId}_{catePg}.html",
 		"分类":"电影$1#电视剧$2#动漫$3#综艺$4#午夜$6"
 	  }
-	},
+		 },
+	{      
+"key": "juliang.com",      
+"name": "巨量资源",      
+"type": 1,      
+"api": "https://api.juliang.live/api/provide/vod",      
+"searchable": 1,      
+"changeable": 1,      
+"categories": [        
+"电影",
+        "电视剧",
+        "动漫",
+        "综艺",
+        "短剧",
+        "体育赛事",
+        "AI制作", 
+	    "伦理片"
+]    
+},
 	{
 		"key":"2k",
 		"name":"2k 💡 影视",
