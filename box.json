@@ -498,8 +498,17 @@
       "api": "https://api.juliang.live/api/provide/vod/at/xml/",
       "searchable": 1,
       "changeable": 1,
-      "playurl": ""
-    },
+      "categories": [
+        "电影",
+        "电视剧",
+        "动漫",
+        "综艺",
+        "短剧",
+        "体育赛事",
+        "AI制作",
+		  "伦理片"
+     ]        
+},
 	{
 		"key":"2k",
 		"name":"2k 💡 影视",
