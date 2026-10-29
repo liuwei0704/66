@@ -105,28 +105,6 @@
         "sign": "ddtvf65f3a83d6d9ad6f"
       }
     },
-	  {
-      "key": "壹壹影视",
-      "name": "壹壹 💡 影视",
-      "type": 3,
-      "api": "csp_YiYs",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-	 {
-      "key": "世界",
-      "name": "世界 💡 APP",
-      "type": 3,
-      "api": "csp_AppGet",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "url": "https://appcms.4ksj.app",
-        "dataKey": "O3K6rYx75Q4xtiIE",
-        "dataIv": "O3K6rYx75Q4xtiIE"
-      }
-    },
 	{
       "key": "半日99",
       "name": "半日 💡 APP",
@@ -188,19 +166,6 @@
                 "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"
             }
         },
-	 {
-      "key": "不戳",
-      "name": "不戳 💡 APP",
-      "type": 3,
-      "api": "csp_AppGet",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "url": "https://appcmszbc.zbc4k.app",
-        "dataKey": "pYrEkiWRYhBLTUTC",
-        "dataIv": "pYrEkiWRYhBLTUTC"
-      }
-    },
 	  {
       "key": "一起影视",
       "name": "一起 💡 APP",
@@ -209,21 +174,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
-    },
-    {
-      "key": "怀桑",
-      "name": "怀桑 💡 APP",
-      "type": 3,
-      "api": "csp_AppQi",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxhqj.txt",
-        "dataKey": "kj37zs29q22jk96t",
-        "dataIv": "kj37zs29q22jk96t",
-        "init": "initV122",
-        "ua": "okhttp/3.10.0"
-      }
     },
 	 {
             "key": "面包影视",
@@ -264,12 +214,6 @@
       "name": "荐片💡磁力",
       "api": "csp_JianPian",
       "type": 3
-    },
-	 {
-      "key": "山楂影视",
-      "name": "山楂 💡 影视",
-      "type": 3,
-      "api": "csp_PianKu8"
     },
     {
       "key": "飞娱影视",
