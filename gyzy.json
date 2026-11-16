@@ -33,9 +33,9 @@
       }
     },
 	{
-            "key": "damahou",
-            "name": "向上 💡 影视",
-            "api": "./PY/大马猴.py",
+            "key": "映红",
+            "name": "旺红 💡 影视",
+            "api": "./PY/旺红.py",
             "filterable": 1,
             "quickSearch": 1,
             "searchable": 1,
