@@ -32,6 +32,15 @@
         "分类": "电影$1#午夜成人$6#电视剧$2#动漫$3#综艺$4"
       }
     },
+	{
+            "key": "damahou",
+            "name": "向上 💡 影视",
+            "api": "./PY/大马猴.py",
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "type": 3
+        },
 	    {
             "key": "独播影视",
             "name": "独播 💡 影视",
