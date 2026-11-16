@@ -35,7 +35,7 @@
 	{
             "key": "映红",
             "name": "旺红 💡 影视",
-            "api": "./PY/旺红.py",
+            "api": "./PY/旺红影院.py",
             "filterable": 1,
             "quickSearch": 1,
             "searchable": 1,
