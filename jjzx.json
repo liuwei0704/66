@@ -31,6 +31,15 @@
 		{"key":"Dubk","name":"⭐杜北 | 秒播","type":3,"api":"csp_DubkAmns","jar": "./auwo.jar","searchable":1,"quickSearch":1,"changeable":1,"ext":"Dubk"},
 		{"key":"JPian","name":"⭐荐片 | 快速","type":3,"api":"csp_JPianAmns","jar": "./auwo.jar","searchable":1,"quickSearch":1,"changeable":1,"ext":"JPian"},
 		{            
+"key": "影探4k",            
+"name": "🥭影探4k",            
+"api": "https://bitbucket.org/guot55/bhkj/raw/04c1f0fcfa393fb421d186fc3c06188493da915d/TVBoxOSC/tvbox/py/yt.py",            
+"filterable": 1,            
+"quickSearch": 1,            
+"searchable": 1,            
+"type": 3        
+},
+		{            
 "key": "808影视",            
 "name": "808┃影视",            
 "type": 3,            
