@@ -684,7 +684,7 @@
       "key": "暴风",
       "name": "暴风1",
       "type": 1,
-      "api": "https://bfzyapi.com/api.php/provide/vod/",
+      "api": "https://bfzy2.tv/api.php/provide/vod/",
       "searchable": 1,
       "changeable": 1,
       "playurl": "json:https://vip.vipuuvip.com/?url="
