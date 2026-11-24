@@ -141,6 +141,15 @@
 		{"key":"Dubk","name":"⭐杜北 | 秒播","type":3,"api":"csp_DubkAmns","jar": "./auwo.jar","searchable":1,"quickSearch":1,"changeable":1,"ext":"Dubk"},
 		{"key":"JPian","name":"⭐荐片 | 快速","type":3,"api":"csp_JPianAmns","jar": "./auwo.jar","searchable":1,"quickSearch":1,"changeable":1,"ext":"JPian"},
 		{            
+"key": "小蜜蜂",            
+"name": "小蜜蜂影视",            
+"api": "./PY/小蜜蜂.py",            
+"filterable": 1,            
+"quickSearch": 1,            
+"searchable": 1,            
+"type": 3        
+},
+		{            
 "key": "看剧ai",            
 "name": "看剧ai影视",            
 "api": "./PY/看剧ai.py",            
