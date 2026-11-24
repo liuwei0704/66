@@ -150,6 +150,15 @@
 "type": 3        
 },
 		{            
+"key": "猎手",            
+"name": "猎手影视",            
+"api": "./PY/电影猎手.py",            
+"filterable": 1,            
+"quickSearch": 1,            
+"searchable": 1,            
+"type": 3        
+},
+		{            
 "key": "看剧ai",            
 "name": "看剧ai影视",            
 "api": "./PY/看剧ai.py",            
