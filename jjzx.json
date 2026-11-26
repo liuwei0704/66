@@ -2022,7 +2022,7 @@
                 "线路标题": "传说接口",
                 "播放列表": "<li&&</li>[不包含:1❤1播]",
                 "分类": "电影$dianying#连续剧$dianshiju#动漫$dongman#综艺$zongyi#午夜$vlli",
-                "分类url": "https://www.hbdfqc.com/ztt/{cateId}-{catePg}.html",
+                "分类url": "https://v.hbdfqc.com/ztt/{cateId}-{catePg}/",
                 "免嗅": "1"
             },
             "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar"
